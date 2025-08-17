@@ -1,17 +1,17 @@
 
-# **Science One-Word Domain Names**: Daily Updated List of Available Domains
+# **science One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Science one-word domains.
+This regularly updated dataset includes the latest available science one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/science-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Science one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **science one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Science domains.
+- **Domain Name**: High-quality, single-word science domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Science one-word do
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain          | status    | attractiveness | demand | length | created          | expires          | registrar                  | sectors                               |
-| --------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | -------------------------- | ------------------------------------- |
-| result.space    | available | 116            | 80     | 6      |                  |                  |                            | Business,Media,Science                |
-| tonic.at        | available | 114            | 76     | 5      |                  |                  |                            | Health and Fitness,Medicine,Science   |
-| tonic.app       | resell    | 114            | 76     | 5      | 24/07/2023 10:33 | 24/07/2026 10:33 | Dynadot LLC.               | Health and Fitness,Medicine,Science   |
-| spiral.store    | available | 112            | 96     | 6      |                  |                  |                            | Arts,Engineering,Science              |
-| acute.at        | available | 112            | 32     | 5      |                  |                  |                            | Mathematics,Medicine,Science          |
-| complex.space   | available | 111            | 84     | 7      |                  |                  |                            | Science,Technology                    |
-| complex.io      | sold      | 111            | 84     | 7      | 25/02/2018 10:12 | 25/02/2026 10:12 | humbly, LLC                | Science,Technology                    |
-| complex.online  | available | 111            | 84     | 7      |                  |                  |                            | Science,Technology                    |
-| equivalent.ai   | resell    | 110            | 84     | 10     | 11/08/2022 18:04 | 11/08/2026 18:04 | NameCheap, Inc.            | Mathematics,Science,Technology        |
-| abstract.pro    | resell    | 108            | 40     | 8      | 24/06/2022 17:00 | 24/06/2026 17:00 | Epik LLC                   | Arts,Humanities,Science               |
-| abstract.io     | resell    | 108            | 40     | 8      | 22/10/2010 04:34 | 22/10/2025 04:34 | GoDaddy.com, LLC           | Arts,Humanities,Science               |
-| abstract.net    | resell    | 108            | 40     | 8      | 22/12/1999 08:18 | 22/12/2025 08:18 | GoDaddy.com, LLC           | Arts,Humanities,Science               |
-| abstract.ninja  | available | 108            | 40     | 8      |                  |                  |                            | Arts,Humanities,Science               |
-| composite.co    | resell    | 107            | 80     | 9      | 22/09/2011 21:07 | 21/09/2026 23:59 | Dynadot Inc                | Engineering,Science                   |
-| composite.space | available | 107            | 80     | 9      |                  |                  |                            | Engineering,Science                   |
-| composite.xyz   | sold      | 107            | 80     | 9      | 28/12/2018 17:19 | 28/12/2028 23:59 | Dynadot LLC                | Engineering,Science                   |
-| composite.ninja | available | 107            | 80     | 9      |                  |                  |                            | Engineering,Science                   |
-| natural.xyz     | sold      | 106            | 96     | 7      | 05/07/2021 15:52 | 05/07/2026 23:59 | Sav.com, LLC               | Environment,Food and Beverage,Science |
-| underwater.it   | resell    | 106            | 80     | 10     | 16/08/2011 18:48 | 17/08/2025 00:00 |                            | Environment,Science,Travel            |
-| metric.gg       | resell    | 104            | 84     | 6      |                  |                  | 1API (http://www.1api.net) | Business,Science,Technology           |
-| phase.app       | resell    | 104            | 92     | 5      | 09/05/2018 14:48 | 09/05/2026 14:48 | Namecheap Inc.             | General,Science,Technology            |
-| phase.store     | available | 104            | 92     | 5      |                  |                  |                            | General,Science,Technology            |
-| invert.ai       | resell    | 103            | 80     | 6      | 11/01/2019 04:03 | 11/01/2027 04:03 | NameCheap, Inc.            | Engineering,Science,Technology        |
-| effect.so       | resell    | 102            | 84     | 6      | 05/12/2023 06:16 | 05/12/2025 06:16 | SOSTEC TECHNOLOGIES_LR     | Business,General,Media,Science        |
-| explore.cloud   | available | 102            | 92     | 7      |                  |                  |                            | Media,Science,Travel                  |
-| concave.site    | available | 101            | 88     | 7      |                  |                  |                            | Engineering,Mathematics,Science       |
-| isolate.me      | resell    | 101            | 76     | 7      | 27/06/2012 18:43 | 27/06/2026 18:43 | Dynadot Inc                | Healthcare,Science,Technology         |
-| concave.gg      | available | 101            | 88     | 7      |                  |                  |                            | Engineering,Mathematics,Science       |
-| concave.expert  | available | 101            | 88     | 7      |                  |                  |                            | Engineering,Mathematics,Science       |
-| concave.zone    | available | 101            | 88     | 7      |                  |                  |                            | Engineering,Mathematics,Science       |
+| domain            | status    | attractiveness | demand | length | created | expires | registrar | sectors                           |
+| ----------------- | --------- | -------------- | ------ | ------ | ------- | ------- | --------- | --------------------------------- |
+| one.science       | available | 132            | 44     | 3      |         |         |           | Business,General,Media,Technology |
+| tenth.science     | available | 116            | 7      | 5      |         |         |           | Mathematics                       |
+| flat.science      | available | 116            | 24     | 4      |         |         |           | Construction,Real Estate          |
+| twentieth.science | available | 92             | 3      | 9      |         |         |           | Mathematics                       |
+| nought.science    | available | 92             | 4      | 6      |         |         |           | Mathematics                       |
+| leash.science     | available | 90             | 7      | 5      |         |         |           | General,Health and Fitness,Retail |
+| ten.science       | available | 88             | 28     | 3      |         |         |           | General,Mathematics               |
+| sixteen.science   | available | 88             | 11     | 7      |         |         |           | Mathematics                       |
+| fifteen.science   | available | 88             | 13     | 7      |         |         |           | Mathematics                       |
+| three.science     | available | 88             | 24     | 5      |         |         |           | Mathematics                       |
+| hundred.science   | available | 88             | 14     | 7      |         |         |           | Mathematics                       |
+| eleven.science    | available | 88             | 33     | 6      |         |         |           | Mathematics                       |
+| twelve.science    | available | 88             | 18     | 6      |         |         |           | General,Mathematics               |
+| xix.science       | available | 86             | 11     | 3      |         |         |           | Mathematics                       |
+| xiv.science       | available | 86             | 12     | 3      |         |         |           | Mathematics                       |
+| cipher.science    | available | 86             | 29     | 6      |         |         |           | Mathematics                       |
+| twentytwo.science | available | 84             | 11     | 10     |         |         |           | Mathematics                       |
+| fourteen.science  | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| thirteen.science  | available | 84             | 10     | 8      |         |         |           | Mathematics                       |
+| seventeen.science | available | 84             | 7      | 9      |         |         |           | Mathematics                       |
+| nineteen.science  | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| grand.science     | available | 84             | 25     | 5      |         |         |           | Finance,General                   |
+| thousand.science  | available | 84             | 8      | 8      |         |         |           | Mathematics                       |
+| twentyone.science | available | 84             | 13     | 10     |         |         |           | Mathematics                       |
+| decade.science    | available | 82             | 10     | 6      |         |         |           | Mathematics                       |
+| dozen.science     | available | 82             | 10     | 5      |         |         |           | Mathematics                       |
+| twenty.science    | available | 80             | 12     | 6      |         |         |           | Mathematics                       |
+| first.science     | available | 80             | 36     | 5      |         |         |           | General,Mathematics               |
+| two.science       | available | 80             | 24     | 3      |         |         |           | Mathematics                       |
+| yard.science      | available | 80             | 26     | 4      |         |         |           | Construction,General              |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
