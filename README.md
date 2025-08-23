@@ -1,17 +1,17 @@
 
-# **Science One-Word Domain Names**: Daily Updated List of Available Domains
+# **science One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Science one-word domains.
+This regularly updated dataset includes the latest available science one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/science-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Science one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **science one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Science domains.
+- **Domain Name**: High-quality, single-word science domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Science one-word do
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain           | status    | attractiveness | demand | length | created | expires | registrar | sectors                             |
-| ---------------- | --------- | -------------- | ------ | ------ | ------- | ------- | --------- | ----------------------------------- |
-| result.space     | available | 116            | 80     | 6      |         |         |           | Business,Media,Science              |
-| tonic.properties | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.cfd        | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.loans      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.rentals    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.reise      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.theatre    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.auction    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.movie      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.guru       | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.yachts     | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.gallery    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.forsale    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.gifts      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.guide      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.ooo        | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.shiksha    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.family     | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.promo      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.nexus      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.glass      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.training   | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.fans       | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.democrat   | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.at         | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.rehab      | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.kitchen    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.protection | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.furniture  | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
-| tonic.condos     | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science |
+| domain           | status    | attractiveness | demand | length | created | expires | registrar | sectors                               |
+| ---------------- | --------- | -------------- | ------ | ------ | ------- | ------- | --------- | ------------------------------------- |
+| one.science      | available | 132            | 44     | 3      |         |         |           | Business,General,Media,Technology     |
+| complete.science | available | 120            | 21     | 8      |         |         |           | Manufacturing,Retail,Technology       |
+| wizard.science   | available | 118            | 42     | 6      |         |         |           | Entertainment,Media,Technology        |
+| tenth.science    | available | 116            | 7      | 5      |         |         |           | Mathematics                           |
+| flat.science     | available | 116            | 24     | 4      |         |         |           | Construction,Real Estate              |
+| equal.science    | available | 116            | 19     | 5      |         |         |           | Education,General,Law                 |
+| tonic.science    | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science   |
+| acute.science    | available | 112            | 9      | 5      |         |         |           | Mathematics,Medicine,Science          |
+| above.science    | available | 112            | 22     | 5      |         |         |           | Business                              |
+| hotshot.science  | available | 112            | 14     | 7      |         |         |           | Business,Entertainment,Sports         |
+| abstract.science | available | 108            | 29     | 8      |         |         |           | Arts,Humanities,Science               |
+| abiding.science  | available | 106            | 5      | 7      |         |         |           | General,Religion                      |
+| active.science   | available | 104            | 27     | 6      |         |         |           | Health and Fitness,Sports,Travel      |
+| expert.science   | available | 104            | 26     | 6      |         |         |           | Business,Education,Technology         |
+| absent.science   | available | 102            | 8      | 6      |         |         |           | Business,Education,Technology         |
+| captive.science  | available | 102            | 14     | 7      |         |         |           | Entertainment,Hospitality,Technology  |
+| eight.science    | available | 102            | 23     | 5      |         |         |           | General,Mathematics                   |
+| extra.science    | available | 102            | 26     | 5      |         |         |           | Fashion,Retail,Technology             |
+| third.science    | available | 100            | 16     | 5      |         |         |           | Mathematics                           |
+| adjunct.science  | available | 100            | 5      | 7      |         |         |           | Education                             |
+| remove.science   | available | 100            | 13     | 6      |         |         |           | Construction,Manufacturing,Technology |
+| abrupt.science   | available | 100            | 3      | 6      |         |         |           | Medicine,Science                      |
+| ninth.science    | available | 100            | 9      | 5      |         |         |           | Mathematics                           |
+| sixth.science    | available | 100            | 8      | 5      |         |         |           | Mathematics                           |
+| whiz.science     | available | 100            | 12     | 4      |         |         |           | Business,Education,Technology         |
+| eighth.science   | available | 100            | 6      | 6      |         |         |           | Mathematics                           |
+| crack.science    | available | 100            | 20     | 5      |         |         |           | Sports                                |
+| genius.science   | available | 98             | 46     | 6      |         |         |           | Arts,Education,Technology             |
+| whizz.science    | available | 98             | 11     | 5      |         |         |           | Business,Education,Technology         |
+| alamode.science  | available | 96             | 12     | 9      |         |         |           | Fashion                               |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
