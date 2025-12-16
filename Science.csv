@@ -1,312 +1,318 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
-ca405278-8c0f-4c38-b391-c23c6e8b620c,research.accountant,premium,92,37,8,,,
-ebc95c7a-bb9c-4f0a-a78f-e246064b56b3,research.accountants,available,92,37,8,,,
-90fe7b75-d53d-4175-8e0c-4abc4fc0a208,research.actor,available,92,37,8,,,
-efe2e1a2-9dd2-4077-a2ef-3ad7e8bf4e2b,research.adult,available,92,37,8,,,
-0fc91691-9c41-4423-97dc-febf755b640b,research.ag,resell,92,37,8,"Sav.com, LLC",13/02/2025 09:10,13/02/2026 09:10
-2581944d-9922-4a95-8776-be99597fd940,research.airforce,available,92,37,8,,,
-b9f67457-2817-4626-8e22-451baef23ab0,research.asia,premium,92,37,8,,,
-27b41d03-f319-4e3c-b311-d1109d53a37b,research.associates,premium,92,37,8,,,
-d64f9afd-19a8-43cf-bdb7-a1753c7c82d7,research.attorney,premium,92,37,8,,,
-5f2926d3-3c28-4641-8eed-35e03f6022f2,research.auction,available,92,37,8,,,
-a8836d6d-12c0-46ba-817b-7767b676bee6,research.audio,available,92,37,8,,,
-62003301-16f1-42c2-bdd4-1ac56d57cfdd,research.auto,available,92,37,8,,,
-9b6a59f2-10e5-47ce-9454-e8faa6fbe17a,research.autos,resell,92,37,8,"Spaceship, Inc.",26/08/2023 12:16,26/08/2026 23:59
-d84d9872-13b6-4663-9a59-8e074d8ef907,research.band,available,92,37,8,,,
-58731f41-5548-4088-b52d-c1935c5b2f5e,research.bar,premium,92,37,8,,,
-ec42d63e-1e09-479c-a483-3632479fbce8,research.bargains,available,92,37,8,,,
-84a81cbb-d0e3-4738-b35d-d0c99f034115,research.bayern,available,92,37,8,,,
-39d4f0b4-a2da-4cae-9d37-3cc3f3e75f73,research.berlin,available,92,37,8,,,
-de3869cb-b743-4e08-a931-8784ac47447e,research.best,premium,92,37,8,,,
-697b8a2d-2327-41e0-9287-f8f3455d365c,research.bid,premium,92,37,8,,,
-e32f9146-b13b-43d7-b7d3-eea5cae5f293,research.bingo,available,92,37,8,,,
-27fe8a0f-8a2a-4e79-96ea-2a6c2bf793d3,research.blackfriday,available,92,37,8,,,
-8e37dc1e-c4d6-4712-8a66-d4fffabd9654,research.blog,premium,92,37,8,,,
-17ea8efc-57d1-4bc9-8a2b-097a302fa0f8,research.blue,resell,92,37,8,"Sav.com, LLC - 31",23/07/2025 15:15,23/07/2026 15:15
-527baad3-d65d-4074-8438-938aa63b9133,research.boats,available,92,37,8,,,
-60440603-bb15-4872-9294-277290eba757,research.bond,premium,92,37,8,,,
-10d32ae6-bc33-4ae3-bb8c-2e71cee7039c,research.boo,premium,92,37,8,,,
-0dd3bdf9-3ca6-46cd-a57f-4e713106f62d,research.boston,premium,92,37,8,,,
-557afc6c-2428-430e-8441-25b8d4f74ca0,research.build,premium,92,37,8,,,
-9393eee0-ad0f-455b-be49-0f6ae2b04b09,research.builders,premium,92,37,8,,,
-b87a5741-3715-43db-8180-928bbe209cb3,research.buzz,premium,92,37,8,,,
-e285bb38-84a0-4d20-bd8c-fb6d6c77c58b,research.cam,resell,92,37,8,"Porkbun, LLC",17/01/2025 08:42,17/01/2026 23:59
-7125b901-9a52-4753-98e1-9e5de7795ed8,research.camera,available,92,37,8,,,
-54bb0020-f581-4621-97a0-341cbe9dd143,research.car,available,92,37,8,,,
-628cbdc4-8273-4fec-9a33-c185b0795246,research.cards,premium,92,37,8,,,
-d464a72f-f91a-4c62-965e-6431cfb799f0,research.cars,available,92,37,8,,,
-7bdd5085-4009-4ef5-8a9c-518bbed3a989,research.casa,premium,92,37,8,,,
-34f08d93-2f3d-46a9-88cf-b581ddd88a5e,research.casino,available,92,37,8,,,
-65ff2ee3-9d63-4d97-9ae1-a8001981b970,research.catering,available,92,37,8,,,
-edefb004-b4d5-4168-8eb5-bff1388327e8,research.ceo,premium,92,37,8,,,
-9be78bc1-b70b-443e-b7fd-130fd921822f,research.cfd,premium,92,37,8,,,
-52683b66-63b5-415f-8575-bb64bcde6042,research.charity,available,92,37,8,,,
-a773cca3-4fe4-4b3c-bb4f-da6d0734b01c,research.cheap,available,92,37,8,,,
-a67eb7f4-fc58-4415-966e-e9792a09364b,research.christmas,available,92,37,8,,,
-d56b22f0-b955-42d3-a146-ccd63f1fc977,research.city,expiring,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",03/01/2017 15:44,03/01/2026 15:44
-166533f3-b267-4bb6-bbc2-9163cbbddbe2,research.cleaning,available,92,37,8,,,
-0645e2e1-5450-4d78-b2fb-2819b91bdc9e,research.click,resell,92,37,8,Porkbun LLC,13/07/2020 15:44,13/07/2026 15:44
-f3ebb46b-1843-4037-a79f-d9374e242182,research.clothing,available,92,37,8,,,
-83b6442e-8317-4fc6-9f98-949cea03389f,research.cloud,premium,92,37,8,,,
-da2e3e40-c5d1-4309-a54d-b7a5e83bc669,research.codes,resell,92,37,8,"Sav.com, LLC",08/11/2024 17:18,08/11/2026 17:18
-ad97ef93-193d-4ef0-8d29-31fbced7960b,research.college,premium,92,37,8,,,
-b69534ac-ea1d-402f-869e-df23bbc060cf,research.community,resell,92,37,8,"GoDaddy.com, LLC",02/05/2021 08:57,02/05/2026 08:57
-50b640b3-edc9-4cc1-9f5b-2df767bce7c9,research.company,resell,92,37,8,"Spaceship, Inc.",28/11/2020 23:50,28/11/2026 23:50
-93b7f1d6-ce5f-4e76-812f-3cfe98465eab,research.condos,available,92,37,8,,,
-dfb510ae-f682-4fd6-b685-b485e37a3a4c,research.contractors,premium,92,37,8,,,
-e91f5985-73fe-4b24-acdc-ac459f7f83ce,research.cooking,premium,92,37,8,,,
-0cb537c6-a9ba-41d1-8d52-38100721d8be,research.country,available,92,37,8,,,
-59ea25ca-be30-48fd-8397-fc3442057b28,research.coupons,available,92,37,8,,,
-afb9da84-e7b2-4347-beed-8e4fbc16132a,research.courses,premium,92,37,8,,,
-4e272618-a4f0-4814-b31b-10f4a498dcfe,research.creditcard,available,92,37,8,,,
-bff99943-8e17-4cb9-b40a-a28190559780,research.cruises,available,92,37,8,,,
-4af5079f-dd45-4d1c-b03b-705d2c909eba,research.cyou,premium,92,37,8,,,
-a3ecd07f-4643-4c0c-97d2-053c75eab77a,research.dad,premium,92,37,8,,,
-2f26f294-498f-4129-9033-1f7340391da4,research.date,premium,92,37,8,,,
-75b0433f-5046-4f4a-b981-de5058b41341,research.dating,available,92,37,8,,,
-99e6d00c-96c8-46c9-9c2f-58d0a91a5009,research.day,premium,92,37,8,,,
-bbe9fe5d-1639-47bd-9cad-0c1fe5d18f88,research.deal,premium,92,37,8,,,
-1ca05d25-4d81-49ea-ae2f-44ec0cfc4683,research.dealer,premium,92,37,8,,,
-c7778668-6f81-4658-8fde-168f60246d9d,research.deals,available,92,37,8,,,
-a90aa13d-1340-481a-95c1-810dc6baa3a3,research.degree,premium,92,37,8,,,
-95b32e88-c665-42c6-86b5-f49176f29da1,research.democrat,available,92,37,8,,,
-ab8cd116-5bce-4ed7-8a57-dd6ec07b5a14,research.dentist,premium,92,37,8,,,
-dfde2951-f9e9-4068-ae14-84c0125fac8f,research.dev,premium,92,37,8,,,
-0a9e0db3-93db-410c-98b3-7c810d2fd65e,research.diamonds,available,92,37,8,,,
-f9304df3-accc-47d7-a77d-06ba53015b4a,research.diet,available,92,37,8,,,
-7f297cdc-ff3f-446d-88d6-701930e8df19,research.directory,resell,92,37,8,Porkbun LLC,22/10/2025 00:03,22/10/2026 00:03
-2cb1551e-c418-4f87-a0c5-2cf7bf9af28e,research.discount,available,92,37,8,,,
-73ba423f-ef54-4603-9777-650a8759fea0,research.diy,resell,92,37,8,"Spaceship, Inc.",13/11/2025 12:56,13/11/2026 12:56
-8d73f8da-a6f2-4bb5-aa7b-3a7ed4783c0d,research.download,premium,92,37,8,,,
-dc0f25a0-9ffd-4158-a2df-45232ca76ce3,research.energy,premium,92,37,8,,,
-68707912-46ec-41f5-bc2c-eebf48cc00a4,research.esq,premium,92,37,8,,,
-e0887f96-c580-4627-905c-2532f494637f,research.estate,available,92,37,8,,,
-8b832c73-f433-4e41-8fc7-ff034fd7eff5,research.events,premium,92,37,8,,,
-3f514a27-c497-4c02-aea8-d2e40d85c84f,research.exposed,premium,92,37,8,,,
-cfc2488f-19df-4b2c-b163-441ff3cd97d9,research.express,resell,92,37,8,Porkbun LLC,06/09/2021 18:35,06/09/2026 18:35
-e6670e1b-28fb-42f0-a92d-1ca8e59de0c0,research.fail,available,92,37,8,,,
-123feee7-1e27-4bd3-818e-8618e1391d17,research.faith,available,92,37,8,,,
-890e8a73-fdd1-4c31-a68c-ff533a00b150,research.family,premium,92,37,8,,,
-4fbf5f7e-9a9e-4e8c-af9b-96bb126d11f9,research.fan,premium,92,37,8,,,
-b651f0e5-a2ee-4016-83d4-64cd52a12ab8,research.fans,premium,92,37,8,,,
-ceb058a9-7413-4a4a-94a9-690b234b83ff,research.fashion,premium,92,37,8,,,
-5d6396d3-597c-41aa-9554-36c2f14a0094,research.film,premium,92,37,8,,,
-d1088d77-2947-47d9-8790-69199d3d6fb0,research.finance,resell,92,37,8,Porkbun LLC,12/06/2021 01:12,12/06/2026 01:12
-22eaad8f-8949-4562-b1a3-dad8f00b6110,research.financial,premium,92,37,8,,,
-2eb6c773-9e4d-4b5e-b832-6a23530ccc7c,research.fishing,premium,92,37,8,,,
-1d1502e9-0205-4b07-b173-a26c50c6c453,research.fit,resell,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",08/01/2023 10:23,08/01/2029 10:23
-0bdc2404-0c9c-4b12-b2fc-08a99cdedc62,research.fitness,resell,92,37,8,Porkbun LLC,10/04/2024 15:15,10/04/2026 15:15
-ebae17d4-d56a-41f8-8d14-5b35a8909064,research.flights,available,92,37,8,,,
-36130156-3e49-4713-ad47-3136f38b4903,research.florist,available,92,37,8,,,
-319619fd-21c0-47a2-9835-210a5daddbc2,research.flowers,available,92,37,8,,,
-31dece2c-a105-49c4-88f9-98361bf4eaa2,research.foo,premium,92,37,8,,,
-8482da52-7ac7-4d66-9aa9-e94dd69725f9,research.football,available,92,37,8,,,
-8026a517-8d3f-4062-acd1-13e0831e1fd8,research.forsale,expiring,92,37,8,"NameCheap, Inc.",16/12/2024 21:24,16/12/2025 21:24
-63ec4320-f022-4c35-aaaa-4354acacd756,research.free,premium,92,37,8,,,
-7343e36c-0ec6-4ff5-a176-9953c4a64c7a,research.furniture,available,92,37,8,,,
-5fd5ce63-3b57-451b-af3e-fa4e445017c1,research.futbol,available,92,37,8,,,
-9abe1938-a8a0-4b48-80f3-745c0dac240d,research.fyi,resell,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",28/04/2023 15:15,28/04/2030 15:15
-c577e1fc-4ad4-400d-b40b-abaff808d6a2,research.game,available,92,37,8,,,
-5b4aded9-4f5a-40e1-9cdd-551c1b2f99f8,research.gg,resell,92,37,8,Sav.com LLC (https://www.sav.com),,
-247187aa-c68f-4d9b-934a-8c359cf249fa,research.gift,available,92,37,8,,,
-13dbbf43-c534-4900-b587-47e10b606369,research.gifts,available,92,37,8,,,
-3c7d8c32-10f8-4ab8-9f88-82e132c3e2ce,research.gives,available,92,37,8,,,
-e6d2ba46-0d59-4328-ac5f-07036627594c,research.giving,available,92,37,8,,,
-cb967e82-25f2-456a-b14b-08edadeab0b7,research.glass,available,92,37,8,,,
-9d82a660-04f0-43e7-8a5c-6850d82be9e9,research.gmbh,available,92,37,8,,,
-57c6f922-915e-471e-8813-c87d6d8fe267,research.golf,expired,92,37,8,"Sav.com, LLC",03/10/2024 22:44,03/10/2025 22:44
-3de8d54e-d8a8-459f-a5b8-37f3b20abc06,research.graphics,available,92,37,8,,,
-f8ed8f4a-e725-4232-beb1-6cdcc878e4f9,research.gratis,available,92,37,8,,,
-96999502-c2f1-4daa-b3a4-3d2e1553b74a,research.green,premium,92,37,8,,,
-10518b98-e4b0-42e9-90b9-d86229de366d,research.gripe,available,92,37,8,,,
-f133c318-c7d8-4437-af29-7f545560dcf6,research.guitars,available,92,37,8,,,
-fc6031f1-c793-42b6-a0f7-fc162cb9de89,research.healthcare,expiring,92,37,8,"GoDaddy.com, LLC",01/01/2018 11:09,01/01/2026 11:09
-9c210344-e7d8-434e-9571-351fb9239a56,research.hiphop,premium,92,37,8,,,
-373ec5f4-03ee-4f58-ba6d-48eeb133beb1,research.hiv,premium,92,37,8,,,
-d521194a-2697-4ea7-9d14-7c016b0fa0c5,research.hockey,available,92,37,8,,,
-6c7547d9-a36c-4444-85bd-29747629325a,research.holdings,premium,92,37,8,,,
-aafe62db-29b6-4815-a826-9b2164672e78,research.holiday,available,92,37,8,,,
-82867fca-4797-49ad-82b1-618d7a490820,research.homes,resell,92,37,8,Dynadot LLC,30/06/2023 16:24,30/06/2030 23:59
-ec7b8f0e-0dff-4049-abc6-3d64536b9dba,research.hospital,resell,92,37,8,"Sav.com, LLC - 44",20/06/2025 15:15,20/06/2026 15:15
-f0d141b6-2aec-4789-a113-89f96b75dd5d,research.host,premium,92,37,8,,,
-d9c6392f-d21a-4012-a348-45dc4001093a,research.hosting,available,92,37,8,,,
-09e708c6-2abe-47a6-bb43-a9394e93ccaf,research.hot,premium,92,37,8,,,
-8466f4f4-b1be-44e5-b33f-deea19010e32,research.house,premium,92,37,8,,,
-fb947607-a1b6-4874-9915-a8ebaec8a39d,research.im,premium,92,37,8,,,
-099fc005-b798-490f-8298-15c92ce7e848,research.immo,expiring,92,37,8,"Key-Systems, LLC",04/01/2024 15:59,04/01/2026 15:59
-a57e792a-74cf-4feb-a7a5-2e0f31e1c068,research.immobilien,available,92,37,8,,,
-276bf0a4-a234-4464-b5ef-6eb450019c6f,research.industries,premium,92,37,8,,,
-4ea2d0cf-1ae1-4ab2-9d4a-9e663cb19c1e,research.ink,resell,92,37,8,"Sav.com, LLC - 6",15/05/2025 00:00,15/05/2026 00:00
-7cee396d-1dc3-4499-b797-b9a05028318a,research.insure,available,92,37,8,,,
-cad49796-906f-408c-994b-c09cf41c0db5,research.investments,premium,92,37,8,,,
-38d8c23d-0f60-4151-b399-af6af89857b9,research.io,sold,92,37,8,Key-Systems GmbH,13/07/2010 22:47,13/07/2026 22:47
-00606c46-efb9-4e5e-a540-54ab1ed6a16e,research.it,expiring,92,37,8,,28/12/2016 09:00,28/12/2025 00:00
-62b437e3-33d3-4791-b483-01398bf9f9a3,research.jetzt,available,92,37,8,,,
-9fe43b49-53e6-4241-a5da-275d446b1a34,research.jewelry,available,92,37,8,,,
-c3dabf2e-5529-4a71-aa08-ca06d1ff45aa,research.juegos,available,92,37,8,,,
-b96e7a5e-5d93-46e7-b8ac-177aeffee4be,research.kaufen,available,92,37,8,,,
-b0910485-50f5-400b-b917-9786721912d4,research.kids,premium,92,37,8,,,
-04be0334-050d-44cc-a32d-a35fcba73a33,research.kitchen,available,92,37,8,,,
-6782b079-2310-4843-b602-142b224cceb4,research.land,resell,92,37,8,Porkbun LLC,28/07/2021 17:40,28/07/2026 17:40
-f2e79ea0-b9d3-4149-b01d-ad6322fc5359,research.lat,expiring,92,37,8,Namecheap,28/12/2024 11:27,28/12/2025 23:59
-9433ba19-7051-47c0-ab87-e72a2440a039,research.lawyer,premium,92,37,8,,,
-6e8d8607-63c2-492d-a1e7-0f5f4cb9d3ce,research.lease,available,92,37,8,,,
-fdb4015a-24eb-4673-b297-8c7fe234545f,research.lgbt,premium,92,37,8,,,
-ac5574ff-6106-47c1-bf47-f4930237cb92,research.life,resell,92,37,8,"Spaceship, Inc.",01/04/2021 23:44,01/04/2026 23:44
-055378f8-6623-473d-abd2-211e55ac0a34,research.lifestyle,available,92,37,8,,,
-f3c5526f-7d1f-4657-ac62-52b949936724,research.limo,available,92,37,8,,,
-3ed4d6da-f0c9-4ab5-bf26-69553c9bdf5a,research.live,resell,92,37,8,"Xiamen ChinaSource Internet Service Co., Ltd",28/10/2015 17:00,28/10/2026 17:00
-7a35505f-6c47-4a5e-8248-07a4a7f7c731,research.living,available,92,37,8,,,
-3586c669-3de7-4fdf-9dd1-6631986dfd40,research.llc,premium,92,37,8,,,
-67482232-a74f-4423-a6bd-561d6b3eb9a7,research.loan,premium,92,37,8,,,
-10ac2980-537c-4f3e-9cf2-d8452a80eddd,research.loans,available,92,37,8,,,
-a2d48c6c-5337-4218-97f6-e696445a34ae,research.locker,premium,92,37,8,,,
-03faeb6a-9be5-4c73-a97b-decb26d13c08,research.london,resell,92,37,8,"Go Daddy, LLC",27/09/2017 16:39,27/09/2027 23:59
-5c37bae6-f51d-4084-9eca-b65d587900f2,research.love,resell,92,37,8,Porkbun LLC,16/04/2019 12:52,16/04/2026 23:59
-37ca28f9-c34c-47c5-a767-e5c186955004,research.ltda,premium,92,37,8,,,
-e9153ed1-d40e-4aca-a508-b00f5e0116c8,research.luxe,available,92,37,8,,,
-afc1df9e-8ca2-40f3-ae53-4ec322269df4,research.luxury,available,92,37,8,,,
-4217dc7a-9c28-4a04-93b9-f0d82f96b3b1,research.maison,available,92,37,8,,,
-13bd8697-be2e-4dcc-b7da-1b13ac08208b,research.makeup,resell,92,37,8,"Xiamen ChinaSource Internet Service Co., Ltd",01/08/2025 08:45,01/08/2026 23:59
-0a08a318-d513-4b69-92ad-f21450caaecf,research.management,premium,92,37,8,,,
-7d00515f-0e07-434b-8d12-c74daf127e79,research.me,sold,92,37,8,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
-8c7ba543-2a06-426d-8a85-e36c8029cd3e,research.media,resell,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",11/10/2019 22:53,11/10/2026 22:53
-48274219-9d43-4e0f-8daf-d2a8c75ff53c,research.melbourne,premium,92,37,8,,,
-5dcaaf0f-9b1a-4ca9-be90-72f814e1045d,research.meme,premium,92,37,8,,,
-70a3d87c-bb84-4937-bf7d-5704a33cfc21,research.memorial,available,92,37,8,,,
-492a9a5b-baf7-47d7-8c37-634baca0bbac,research.men,premium,92,37,8,,,
-c173de90-1259-4286-b63a-4efc83f45879,research.menu,resell,92,37,8,"Blue Razor Domains, LLC",17/03/2014 15:00,17/03/2026 15:00
-33819e55-3535-48b9-a1df-e7059911f652,research.mobi,premium,92,37,8,,,
-18cff644-41e6-4e5b-9444-dcd1e5b49457,research.moda,available,92,37,8,,,
-38fb731d-ac64-41ac-9436-acb86d535209,research.money,premium,92,37,8,,,
-36dd4919-9d3e-4560-a748-e104fc242489,research.monster,resell,92,37,8,"Spaceship, Inc.",15/06/2025 21:52,15/06/2026 23:59
-f8180a11-0ea3-4334-9bdd-502676d00ac1,research.mortgage,premium,92,37,8,,,
-a3929871-3d09-4982-b16b-13189541470c,research.motorcycles,available,92,37,8,,,
-f395de28-8d0f-4067-86a2-ff4d1f83f101,research.mov,premium,92,37,8,,,
-066b27cc-b188-4f55-a924-9821c40cad7f,research.movie,available,92,37,8,,,
-38ed79a2-9fb3-4db7-91bb-953b123cfa44,research.music,premium,92,37,8,,,
-b64528e5-d2ef-4d44-add5-4dae3fe4a0ee,research.mx,resell,92,37,8,Porkbun LLC,30/06/2024 00:00,30/06/2026 00:00
-cd6eeeba-6b4c-4ea1-8ff0-3601a655a293,research.navy,premium,92,37,8,,,
-9dbf0722-030d-474f-b7ca-468805735f9d,research.ngo,available,92,37,8,,,
-cc59ef70-bc90-4041-b1bf-4d0b62750093,research.ninja,resell,92,37,8,"Network Solutions, LLC",01/12/2024 17:21,01/12/2025 17:21
-2c1011c8-0567-46a5-b76a-860caa0cafc0,research.nyc,premium,92,37,8,,,
-59464bd7-e082-40e0-bdfd-ebf813359cca,research.observer,premium,92,37,8,,,
-cdcd87ff-c327-4e3e-a95e-20f49d4eadfc,research.ong,available,92,37,8,,,
-050657d5-c65f-4437-b7dd-ccc09173824e,research.online,premium,92,37,8,,,
-cbc263c8-e74a-436a-b8fb-086dac222a8a,research.organic,available,92,37,8,,,
-e5e0af5a-5bde-4d43-9fb9-2fad5d0f45d2,research.osaka,premium,92,37,8,,,
-7a5f4dc0-fd96-4c16-a706-bd896a92f932,research.page,premium,92,37,8,,,
-ff29e1ee-f6cf-430b-8201-7ee81e47d311,research.partners,premium,92,37,8,,,
-2ad9cd39-7c48-4d47-9b0c-7c28db6d9c4c,research.parts,available,92,37,8,,,
-8be8361e-797f-47b6-a80f-b43ebb74ba58,research.party,premium,92,37,8,,,
-8dac3e13-8992-41b6-8069-9f7fba5fe1f9,research.pet,resell,92,37,8,"Spaceship, Inc.",17/09/2018 17:19,17/09/2026 17:19
-6d403b06-76cf-410f-a400-780c72ca4ff6,research.phd,premium,92,37,8,,,
-b5c3c20f-2466-4c1a-8e9d-a16c0f375785,research.photo,premium,92,37,8,,,
-2a995093-981e-4439-b9a9-7fd89f139d1d,research.photography,available,92,37,8,,,
-a38a0f98-3621-4ec0-800b-687ac1d02d81,research.photos,available,92,37,8,,,
-abb5bf8e-534f-4a55-8d49-6f7e769da682,research.pictures,available,92,37,8,,,
-e6afeb61-b95e-4e99-96d8-872a4dbfb635,research.pink,available,92,37,8,,,
-119d7238-062d-4229-8ea9-4d880a17987e,research.pizza,available,92,37,8,,,
-0db06c52-1579-4867-9599-0081c1954b16,research.place,resell,92,37,8,Porkbun LLC,22/07/2023 15:15,22/07/2026 15:15
-48d370f1-7366-45d5-846c-214996a4a449,research.poker,available,92,37,8,,,
-1225e2aa-0368-4895-af30-915c3031f57a,research.press,premium,92,37,8,,,
-14819b6f-2661-4bb4-a6b2-a6d4b3dabda0,research.pro,resell,92,37,8,Registrar of Domain Names REG.RU LLC,10/05/2022 13:15,10/05/2026 13:15
-d7e85611-a4df-433d-909c-e1687efb0601,research.productions,premium,92,37,8,,,
-1e5b1e1d-de6a-43c3-98fe-5f6dbd4ea55b,research.prof,premium,92,37,8,,,
-e7b552ae-9f26-4135-9e80-775b446e50ca,research.promo,premium,92,37,8,,,
-3de93872-f60d-4341-95ae-78e1b5ebdb40,research.properties,premium,92,37,8,,,
-008841aa-8a53-4d9d-ac69-e9a7360d9b86,research.property,premium,92,37,8,,,
-a86e4fa8-50c9-4cd0-969f-041a0b29f9b5,research.protection,available,92,37,8,,,
-1f3e0b52-d3f7-4a94-bbd6-dc88accff02a,research.pub,resell,92,37,8,"Xiamen ChinaSource Internet Service Co., Ltd",06/12/2023 15:15,06/12/2026 15:15
-7760b124-26a2-4e32-9f2a-70392527f952,research.pw,premium,92,37,8,,,
-3d93aed4-333a-492c-9b98-8034dce48240,research.qpon,available,92,37,8,,,
-58886af1-844d-4dad-9a7a-502677533438,research.racing,premium,92,37,8,,,
-6bd2e847-d64a-4642-a7be-79b117c14879,research.realty,premium,92,37,8,,,
-91eae53b-06a8-4dc9-82eb-cfba30dd566e,research.red,expired,92,37,8,"GoDaddy.com, LLC",23/10/2023 19:36,23/10/2025 19:36
-b50e8db3-09c8-492e-a50d-734d95168b76,research.rehab,available,92,37,8,,,
-922ed8f3-689c-44fe-8c73-9f0de4bea460,research.reise,available,92,37,8,,,
-002086a9-8a56-4dec-86bc-5d806543a1ee,research.rent,available,92,37,8,,,
-d5550b2c-dd33-4de2-bdd8-d6e77c9c7501,research.rentals,available,92,37,8,,,
-009d3c01-db4e-4c95-a660-c3f78393093f,research.repair,available,92,37,8,,,
-b722c78e-6be3-4719-b4ac-4b4ccbbeb544,research.republican,available,92,37,8,,,
-058de5cb-f249-45bc-bbb7-ffa46c1f1332,research.restaurant,available,92,37,8,,,
-c63d784f-978b-417e-a025-b5997580b0e5,research.rich,available,92,37,8,,,
-6afe738c-0249-4579-97a8-a1e532cd1f56,research.rodeo,available,92,37,8,,,
-bb56d85e-5acf-4291-968f-aee1bc02fad4,research.rsvp,premium,92,37,8,,,
-bb9d2e23-0a82-4d86-abf6-3dc3d16474bd,research.run,resell,92,37,8,"DNSPod, Inc.",16/11/2019 23:57,16/11/2026 23:57
-6c858f55-61f0-4b03-a71f-cf83abf2b8f4,research.sale,premium,92,37,8,,,
-2dd9e11c-7f1a-42c9-83b4-409283d7ff48,research.salon,available,92,37,8,,,
-8b339ada-65ae-4c85-940b-5f979734c7ee,research.sarl,available,92,37,8,,,
-42ae738e-a36e-492b-8ed3-fcd4371451c2,research.sbs,premium,92,37,8,,,
-edf9bc07-e415-4822-b88f-d5859c7913dc,research.school,resell,92,37,8,"GoDaddy.com, LLC",14/11/2022 19:50,14/11/2026 19:50
-0f8787fe-2383-4c9c-90b1-a9fb4bece5c1,research.schule,available,92,37,8,,,
-30c7c228-3f8e-406c-9465-12e4f67a6307,research.science,premium,92,37,8,,,
-9ea1605c-693c-457a-a648-787be9f6b858,research.security,available,92,37,8,,,
-8ee7573d-f93d-491a-9e6d-9e27f8b86d3e,research.services,expired,92,37,8,"NameCheap, Inc.",24/09/2016 12:25,24/09/2025 12:25
-4d5484b3-0d02-4808-9600-bcbeadbf5fce,research.sexy,available,92,37,8,,,
-3cdd5f33-521b-48d1-a951-1435860248c7,research.shiksha,premium,92,37,8,,,
-c05831a7-4f10-4032-8463-7975e59148e9,research.shoes,available,92,37,8,,,
-b4ec1afd-182a-4e65-8d55-9887e4b265a4,research.shopping,resell,92,37,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2023 15:15,15/07/2026 15:15
-0397ca7f-cd3d-450e-bb66-4bc2fab3cfab,research.show,resell,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",05/02/2023 15:15,05/02/2026 15:15
-35c4df25-d92a-422f-adcb-020713dc02e8,research.singles,available,92,37,8,,,
-083c9857-2fa6-4ac8-8d20-760a82780506,research.site,premium,92,37,8,,,
-bf77f478-6b23-4440-981d-3246b1c8daff,research.ski,premium,92,37,8,,,
-8c500e09-fbf3-4823-a3b6-903757480bfa,research.soccer,available,92,37,8,,,
-10049f34-0509-4de2-92cd-d7b7aa2fed5a,research.solar,premium,92,37,8,,,
-57bb13aa-ce7a-4b59-a257-9f31ed27f773,research.soy,premium,92,37,8,,,
-fa35be6d-4882-4009-89e8-244a4b9f1ca0,research.space,premium,92,37,8,,,
-a5b562a0-b942-4439-afe7-9b2f8305d35f,research.spot,premium,92,37,8,,,
-48aa5c86-389d-4101-a302-fd43edfb7049,research.srl,available,92,37,8,,,
-e76a20d2-a837-46a2-bd6d-ab5361afaefd,research.storage,available,92,37,8,,,
-be186d93-2b86-4300-8ba0-1e18ea014a5b,research.store,premium,92,37,8,,,
-c646a59a-3a59-41c5-a598-627d171a7565,research.stream,premium,92,37,8,,,
-6882d252-8aaa-4609-bf05-c8e82187cdb9,research.studio,resell,92,37,8,"GoDaddy.com, LLC",04/02/2024 11:47,04/02/2026 11:47
-d5948dbd-31ef-4c38-a1ea-a571de59a8d1,research.style,resell,92,37,8,"Sav.com, LLC - 40",17/02/2025 15:15,17/02/2026 15:15
-742c945e-18f8-453f-b128-cd2b111fa19e,research.sucks,premium,92,37,8,,,
-6a6cddfa-e450-4aa3-a06c-18492ef1577b,research.surf,available,92,37,8,,,
-356e0947-fc09-47b2-9d50-16e05e5d379e,research.sydney,premium,92,37,8,,,
-a96d8294-c97c-4e68-b523-b34fd97364ab,research.talk,premium,92,37,8,,,
-f13f38a2-bf9e-4e1b-aad5-214824ac7def,research.tattoo,available,92,37,8,,,
-4f708bc9-1ee8-4ce1-9913-6125068c7570,research.taxi,available,92,37,8,,,
-53a0f47b-1f84-4482-bf07-9ed9995813d3,research.tech,sold,92,37,8,OVH,07/09/2025 11:52,07/09/2026 23:59
-df35c679-defc-4c65-b1ba-d5ebbe5d0ca1,research.tel,premium,92,37,8,,,
-b6d98dc9-7295-4bbf-bf3a-ea0cd01a89b1,research.tennis,available,92,37,8,,,
-8767c976-cc8f-4a30-948f-825239c73720,research.theater,available,92,37,8,,,
-7594a1a6-b4f1-4933-b073-99babae121e4,research.theatre,available,92,37,8,,,
-cda553bc-e042-4b1b-ad56-28f3ece95710,research.tickets,available,92,37,8,,,
-0a65582f-6859-40fa-99dd-57276ffbd48c,research.tienda,available,92,37,8,,,
-53d3d64a-8cfd-4ebd-bf74-e9151bde5b8c,research.tires,available,92,37,8,,,
-66c15e7f-4327-4a2f-b7ec-a502c1f03e22,research.town,premium,92,37,8,,,
-04aa18ee-50d1-42f9-a937-69d00904a26b,research.toys,available,92,37,8,,,
-02ff6f67-a950-4b70-8b12-e8ce3ac47bd4,research.training,resell,92,37,8,Porkbun LLC,03/08/2022 13:15,03/08/2026 13:15
-e6858af5-d958-4470-8320-667c4c4593be,research.tube,premium,92,37,8,,,
-05517ce4-22a4-4e0a-8e97-a8cabdd1381e,research.tv,premium,92,37,8,,,
-51568a2e-d361-44fe-97b1-b24daea3ecf7,research.uno,premium,92,37,8,,,
-fa8edaa1-1d23-4e0e-9d1a-cb5c6154189b,research.us,resell,92,37,8,Dynadot Inc,08/07/2018 00:08,08/07/2026 00:08
-3f6d89c9-5592-4cc9-abd0-1d8e1edf9af6,research.vacations,available,92,37,8,,,
-765a147f-0a7f-4774-95e3-2e06a5fc7cec,research.vana,available,92,37,8,,,
-f2948b61-e514-44b9-ae91-6e50969fb9ef,research.vc,premium,92,37,8,,,
-ba94f2e4-90c2-4007-93db-7eb48c48f0e8,research.vegas,expiring,92,37,8,"GoDaddy.com, LLC",18/12/2014 16:53,18/12/2025 16:53
-f153b1f1-5021-42ea-9a81-8c07046d2f3c,research.vet,premium,92,37,8,,,
-d253244c-5605-4598-90f1-1d67e318c1c6,research.viajes,available,92,37,8,,,
-609cb75a-beec-45dc-bf89-343ba3d37f97,research.villas,available,92,37,8,,,
-de03f937-d321-4bc6-a133-7584a9e98451,research.vip,resell,92,37,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/08/2019 07:00,14/08/2030 07:00
-966efa9e-0005-484c-ad38-b8b95bff302f,research.vision,resell,92,37,8,Porkbun LLC,21/08/2024 17:00,21/08/2026 17:00
-5819887d-5754-4ee8-887b-b4ae12475309,research.vodka,available,92,37,8,,,
-8792e785-bb1b-4616-9dda-263fd1512c96,research.voting,available,92,37,8,,,
-4ba87a13-9c24-4252-82e9-2dea964a8b1b,research.voto,available,92,37,8,,,
-925faf68-63b2-421b-8293-43d6373d9b20,research.voyage,available,92,37,8,,,
-7d0f5b19-2648-4d17-8373-855f04dceb81,research.webcam,premium,92,37,8,,,
-3d1a4e7d-e9d6-40b7-b93c-a363bf7f180e,research.website,premium,92,37,8,,,
-3c7894b8-7463-4295-a7ff-c50ee197c95a,research.wedding,available,92,37,8,,,
-40160645-c03b-4529-97d1-a5632fa9a9f6,research.win,premium,92,37,8,,,
-19e0962a-99ef-4f60-9360-4d15516470af,research.work,resell,92,37,8,"GoDaddy.com, LLC",18/08/2018 07:52,18/08/2028 07:52
-ce91d0e0-b46f-405d-8505-c604a1632273,research.wtf,resell,92,37,8,"Sav.com, LLC - 26",12/08/2024 15:15,12/08/2026 15:15
-7771ec98-d143-4321-bfc5-cee9832ca557,research.xyz,sold,92,37,8,"Name.com, Inc",02/06/2014 16:18,02/06/2027 23:59
-b07ca33e-de2f-4afd-b4e8-652cfb22f90f,research.yachts,available,92,37,8,,,
-aae9032e-df94-45b1-bac9-e1f2c370d94d,research.you,premium,92,37,8,,,
-f8b7dd7d-abd6-4e9a-9fc2-a6007bbc5bc4,research.zip,premium,92,37,8,,,
-4ac15525-2e2e-487d-b39a-8e3b54c20f1b,research.zone,resell,92,37,8,"Xiamen ChinaSource Internet Service Co., Ltd",30/07/2025 15:16,30/07/2026 15:16
+ca405278-8c0f-4c38-b391-c23c6e8b620c,research.accountant,premium,92,36,8,,,
+ebc95c7a-bb9c-4f0a-a78f-e246064b56b3,research.accountants,available,92,36,8,,,
+90fe7b75-d53d-4175-8e0c-4abc4fc0a208,research.actor,available,92,36,8,,,
+efe2e1a2-9dd2-4077-a2ef-3ad7e8bf4e2b,research.adult,available,92,36,8,,,
+0fc91691-9c41-4423-97dc-febf755b640b,research.ag,resell,92,36,8,"Sav.com, LLC",13/02/2025 09:10,13/02/2026 09:10
+2581944d-9922-4a95-8776-be99597fd940,research.airforce,available,92,36,8,,,
+b9f67457-2817-4626-8e22-451baef23ab0,research.asia,premium,92,36,8,,,
+27b41d03-f319-4e3c-b311-d1109d53a37b,research.associates,premium,92,36,8,,,
+d64f9afd-19a8-43cf-bdb7-a1753c7c82d7,research.attorney,premium,92,36,8,,,
+5f2926d3-3c28-4641-8eed-35e03f6022f2,research.auction,available,92,36,8,,,
+a8836d6d-12c0-46ba-817b-7767b676bee6,research.audio,available,92,36,8,,,
+62003301-16f1-42c2-bdd4-1ac56d57cfdd,research.auto,available,92,36,8,,,
+9b6a59f2-10e5-47ce-9454-e8faa6fbe17a,research.autos,resell,92,36,8,"Spaceship, Inc.",26/08/2023 12:16,26/08/2026 23:59
+d84d9872-13b6-4663-9a59-8e074d8ef907,research.band,available,92,36,8,,,
+58731f41-5548-4088-b52d-c1935c5b2f5e,research.bar,premium,92,36,8,,,
+ec42d63e-1e09-479c-a483-3632479fbce8,research.bargains,available,92,36,8,,,
+84a81cbb-d0e3-4738-b35d-d0c99f034115,research.bayern,available,92,36,8,,,
+39d4f0b4-a2da-4cae-9d37-3cc3f3e75f73,research.berlin,available,92,36,8,,,
+de3869cb-b743-4e08-a931-8784ac47447e,research.best,premium,92,36,8,,,
+697b8a2d-2327-41e0-9287-f8f3455d365c,research.bid,premium,92,36,8,,,
+e32f9146-b13b-43d7-b7d3-eea5cae5f293,research.bingo,available,92,36,8,,,
+27fe8a0f-8a2a-4e79-96ea-2a6c2bf793d3,research.blackfriday,available,92,36,8,,,
+8e37dc1e-c4d6-4712-8a66-d4fffabd9654,research.blog,premium,92,36,8,,,
+17ea8efc-57d1-4bc9-8a2b-097a302fa0f8,research.blue,resell,92,36,8,"Sav.com, LLC - 31",23/07/2025 15:15,23/07/2026 15:15
+527baad3-d65d-4074-8438-938aa63b9133,research.boats,available,92,36,8,,,
+60440603-bb15-4872-9294-277290eba757,research.bond,premium,92,36,8,,,
+10d32ae6-bc33-4ae3-bb8c-2e71cee7039c,research.boo,premium,92,36,8,,,
+0dd3bdf9-3ca6-46cd-a57f-4e713106f62d,research.boston,premium,92,36,8,,,
+557afc6c-2428-430e-8441-25b8d4f74ca0,research.build,premium,92,36,8,,,
+9393eee0-ad0f-455b-be49-0f6ae2b04b09,research.builders,premium,92,36,8,,,
+b87a5741-3715-43db-8180-928bbe209cb3,research.buzz,premium,92,36,8,,,
+e285bb38-84a0-4d20-bd8c-fb6d6c77c58b,research.cam,resell,92,36,8,"Porkbun, LLC",17/01/2025 08:42,17/01/2026 23:59
+7125b901-9a52-4753-98e1-9e5de7795ed8,research.camera,available,92,36,8,,,
+54bb0020-f581-4621-97a0-341cbe9dd143,research.car,available,92,36,8,,,
+628cbdc4-8273-4fec-9a33-c185b0795246,research.cards,premium,92,36,8,,,
+d464a72f-f91a-4c62-965e-6431cfb799f0,research.cars,available,92,36,8,,,
+7bdd5085-4009-4ef5-8a9c-518bbed3a989,research.casa,premium,92,36,8,,,
+34f08d93-2f3d-46a9-88cf-b581ddd88a5e,research.casino,available,92,36,8,,,
+65ff2ee3-9d63-4d97-9ae1-a8001981b970,research.catering,available,92,36,8,,,
+edefb004-b4d5-4168-8eb5-bff1388327e8,research.ceo,premium,92,36,8,,,
+9be78bc1-b70b-443e-b7fd-130fd921822f,research.cfd,premium,92,36,8,,,
+52683b66-63b5-415f-8575-bb64bcde6042,research.charity,available,92,36,8,,,
+a773cca3-4fe4-4b3c-bb4f-da6d0734b01c,research.cheap,available,92,36,8,,,
+a67eb7f4-fc58-4415-966e-e9792a09364b,research.christmas,available,92,36,8,,,
+d56b22f0-b955-42d3-a146-ccd63f1fc977,research.city,expiring,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",03/01/2017 15:44,03/01/2026 15:44
+166533f3-b267-4bb6-bbc2-9163cbbddbe2,research.cleaning,available,92,36,8,,,
+0645e2e1-5450-4d78-b2fb-2819b91bdc9e,research.click,resell,92,36,8,Porkbun LLC,13/07/2020 15:44,13/07/2026 15:44
+f3ebb46b-1843-4037-a79f-d9374e242182,research.clothing,available,92,36,8,,,
+83b6442e-8317-4fc6-9f98-949cea03389f,research.cloud,premium,92,36,8,,,
+da2e3e40-c5d1-4309-a54d-b7a5e83bc669,research.codes,sold,92,36,8,"Sav.com, LLC",08/11/2024 17:18,08/11/2026 17:18
+ad97ef93-193d-4ef0-8d29-31fbced7960b,research.college,premium,92,36,8,,,
+b69534ac-ea1d-402f-869e-df23bbc060cf,research.community,resell,92,36,8,"GoDaddy.com, LLC",02/05/2021 08:57,02/05/2026 08:57
+50b640b3-edc9-4cc1-9f5b-2df767bce7c9,research.company,resell,92,36,8,"Spaceship, Inc.",28/11/2020 23:50,28/11/2026 23:50
+93b7f1d6-ce5f-4e76-812f-3cfe98465eab,research.condos,available,92,36,8,,,
+dfb510ae-f682-4fd6-b685-b485e37a3a4c,research.contractors,premium,92,36,8,,,
+e91f5985-73fe-4b24-acdc-ac459f7f83ce,research.cooking,premium,92,36,8,,,
+0cb537c6-a9ba-41d1-8d52-38100721d8be,research.country,available,92,36,8,,,
+59ea25ca-be30-48fd-8397-fc3442057b28,research.coupons,available,92,36,8,,,
+afb9da84-e7b2-4347-beed-8e4fbc16132a,research.courses,premium,92,36,8,,,
+4e272618-a4f0-4814-b31b-10f4a498dcfe,research.creditcard,available,92,36,8,,,
+bff99943-8e17-4cb9-b40a-a28190559780,research.cruises,available,92,36,8,,,
+4af5079f-dd45-4d1c-b03b-705d2c909eba,research.cyou,premium,92,36,8,,,
+a3ecd07f-4643-4c0c-97d2-053c75eab77a,research.dad,premium,92,36,8,,,
+2f26f294-498f-4129-9033-1f7340391da4,research.date,premium,92,36,8,,,
+75b0433f-5046-4f4a-b981-de5058b41341,research.dating,available,92,36,8,,,
+99e6d00c-96c8-46c9-9c2f-58d0a91a5009,research.day,premium,92,36,8,,,
+bbe9fe5d-1639-47bd-9cad-0c1fe5d18f88,research.deal,premium,92,36,8,,,
+1ca05d25-4d81-49ea-ae2f-44ec0cfc4683,research.dealer,premium,92,36,8,,,
+c7778668-6f81-4658-8fde-168f60246d9d,research.deals,available,92,36,8,,,
+a90aa13d-1340-481a-95c1-810dc6baa3a3,research.degree,premium,92,36,8,,,
+95b32e88-c665-42c6-86b5-f49176f29da1,research.democrat,available,92,36,8,,,
+ab8cd116-5bce-4ed7-8a57-dd6ec07b5a14,research.dentist,premium,92,36,8,,,
+dfde2951-f9e9-4068-ae14-84c0125fac8f,research.dev,premium,92,36,8,,,
+0a9e0db3-93db-410c-98b3-7c810d2fd65e,research.diamonds,available,92,36,8,,,
+f9304df3-accc-47d7-a77d-06ba53015b4a,research.diet,available,92,36,8,,,
+711c8e1c-5a34-4567-ae6a-e82cc1c52c8d,research.digital,expiring,92,36,8,"GoDaddy.com, LLC",11/01/2022 09:25,11/01/2026 09:25
+7f297cdc-ff3f-446d-88d6-701930e8df19,research.directory,resell,92,36,8,Porkbun LLC,22/10/2025 00:03,22/10/2026 00:03
+2cb1551e-c418-4f87-a0c5-2cf7bf9af28e,research.discount,available,92,36,8,,,
+73ba423f-ef54-4603-9777-650a8759fea0,research.diy,resell,92,36,8,"Spaceship, Inc.",13/11/2025 12:56,13/11/2026 12:56
+8d73f8da-a6f2-4bb5-aa7b-3a7ed4783c0d,research.download,premium,92,36,8,,,
+dc0f25a0-9ffd-4158-a2df-45232ca76ce3,research.energy,premium,92,36,8,,,
+68707912-46ec-41f5-bc2c-eebf48cc00a4,research.esq,premium,92,36,8,,,
+e0887f96-c580-4627-905c-2532f494637f,research.estate,available,92,36,8,,,
+8b832c73-f433-4e41-8fc7-ff034fd7eff5,research.events,premium,92,36,8,,,
+3f514a27-c497-4c02-aea8-d2e40d85c84f,research.exposed,premium,92,36,8,,,
+cfc2488f-19df-4b2c-b163-441ff3cd97d9,research.express,resell,92,36,8,Porkbun LLC,06/09/2021 18:35,06/09/2026 18:35
+e6670e1b-28fb-42f0-a92d-1ca8e59de0c0,research.fail,available,92,36,8,,,
+123feee7-1e27-4bd3-818e-8618e1391d17,research.faith,available,92,36,8,,,
+890e8a73-fdd1-4c31-a68c-ff533a00b150,research.family,premium,92,36,8,,,
+4fbf5f7e-9a9e-4e8c-af9b-96bb126d11f9,research.fan,premium,92,36,8,,,
+b651f0e5-a2ee-4016-83d4-64cd52a12ab8,research.fans,premium,92,36,8,,,
+ceb058a9-7413-4a4a-94a9-690b234b83ff,research.fashion,premium,92,36,8,,,
+5d6396d3-597c-41aa-9554-36c2f14a0094,research.film,premium,92,36,8,,,
+d1088d77-2947-47d9-8790-69199d3d6fb0,research.finance,resell,92,36,8,Porkbun LLC,12/06/2021 01:12,12/06/2026 01:12
+22eaad8f-8949-4562-b1a3-dad8f00b6110,research.financial,premium,92,36,8,,,
+2eb6c773-9e4d-4b5e-b832-6a23530ccc7c,research.fishing,premium,92,36,8,,,
+1d1502e9-0205-4b07-b173-a26c50c6c453,research.fit,resell,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",08/01/2023 10:23,08/01/2029 10:23
+0bdc2404-0c9c-4b12-b2fc-08a99cdedc62,research.fitness,resell,92,36,8,Porkbun LLC,10/04/2024 15:15,10/04/2026 15:15
+ebae17d4-d56a-41f8-8d14-5b35a8909064,research.flights,available,92,36,8,,,
+36130156-3e49-4713-ad47-3136f38b4903,research.florist,available,92,36,8,,,
+319619fd-21c0-47a2-9835-210a5daddbc2,research.flowers,available,92,36,8,,,
+31dece2c-a105-49c4-88f9-98361bf4eaa2,research.foo,premium,92,36,8,,,
+8482da52-7ac7-4d66-9aa9-e94dd69725f9,research.football,available,92,36,8,,,
+8026a517-8d3f-4062-acd1-13e0831e1fd8,research.forsale,expiring,92,36,8,"NameCheap, Inc.",16/12/2024 21:24,16/12/2025 21:24
+63ec4320-f022-4c35-aaaa-4354acacd756,research.free,premium,92,36,8,,,
+7343e36c-0ec6-4ff5-a176-9953c4a64c7a,research.furniture,available,92,36,8,,,
+5fd5ce63-3b57-451b-af3e-fa4e445017c1,research.futbol,available,92,36,8,,,
+9abe1938-a8a0-4b48-80f3-745c0dac240d,research.fyi,resell,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",28/04/2023 15:15,28/04/2030 15:15
+c577e1fc-4ad4-400d-b40b-abaff808d6a2,research.game,available,92,36,8,,,
+7f6916ef-ffda-4444-b0ae-9458cd370ddd,research.games,expiring,92,36,8,Hosting Concepts B.V. d/b/a Registrar.eu,11/01/2020 07:52,11/01/2026 07:52
+5b4aded9-4f5a-40e1-9cdd-551c1b2f99f8,research.gg,resell,92,36,8,Sav.com LLC (https://www.sav.com),,
+247187aa-c68f-4d9b-934a-8c359cf249fa,research.gift,available,92,36,8,,,
+13dbbf43-c534-4900-b587-47e10b606369,research.gifts,available,92,36,8,,,
+3c7d8c32-10f8-4ab8-9f88-82e132c3e2ce,research.gives,available,92,36,8,,,
+e6d2ba46-0d59-4328-ac5f-07036627594c,research.giving,available,92,36,8,,,
+cb967e82-25f2-456a-b14b-08edadeab0b7,research.glass,available,92,36,8,,,
+9d82a660-04f0-43e7-8a5c-6850d82be9e9,research.gmbh,available,92,36,8,,,
+57c6f922-915e-471e-8813-c87d6d8fe267,research.golf,expired,92,36,8,"Sav.com, LLC",03/10/2024 22:44,03/10/2025 22:44
+3de8d54e-d8a8-459f-a5b8-37f3b20abc06,research.graphics,available,92,36,8,,,
+f8ed8f4a-e725-4232-beb1-6cdcc878e4f9,research.gratis,available,92,36,8,,,
+96999502-c2f1-4daa-b3a4-3d2e1553b74a,research.green,premium,92,36,8,,,
+10518b98-e4b0-42e9-90b9-d86229de366d,research.gripe,available,92,36,8,,,
+f133c318-c7d8-4437-af29-7f545560dcf6,research.guitars,available,92,36,8,,,
+fc6031f1-c793-42b6-a0f7-fc162cb9de89,research.healthcare,expiring,92,36,8,"GoDaddy.com, LLC",01/01/2018 11:09,01/01/2026 11:09
+9c210344-e7d8-434e-9571-351fb9239a56,research.hiphop,premium,92,36,8,,,
+373ec5f4-03ee-4f58-ba6d-48eeb133beb1,research.hiv,premium,92,36,8,,,
+d521194a-2697-4ea7-9d14-7c016b0fa0c5,research.hockey,available,92,36,8,,,
+6c7547d9-a36c-4444-85bd-29747629325a,research.holdings,premium,92,36,8,,,
+aafe62db-29b6-4815-a826-9b2164672e78,research.holiday,available,92,36,8,,,
+82867fca-4797-49ad-82b1-618d7a490820,research.homes,resell,92,36,8,Dynadot LLC,30/06/2023 16:24,30/06/2030 23:59
+ec7b8f0e-0dff-4049-abc6-3d64536b9dba,research.hospital,resell,92,36,8,"Sav.com, LLC - 44",20/06/2025 15:15,20/06/2026 15:15
+f0d141b6-2aec-4789-a113-89f96b75dd5d,research.host,premium,92,36,8,,,
+d9c6392f-d21a-4012-a348-45dc4001093a,research.hosting,available,92,36,8,,,
+09e708c6-2abe-47a6-bb43-a9394e93ccaf,research.hot,premium,92,36,8,,,
+8466f4f4-b1be-44e5-b33f-deea19010e32,research.house,premium,92,36,8,,,
+fb947607-a1b6-4874-9915-a8ebaec8a39d,research.im,premium,92,36,8,,,
+099fc005-b798-490f-8298-15c92ce7e848,research.immo,expiring,92,36,8,"Key-Systems, LLC",04/01/2024 15:59,04/01/2026 15:59
+a57e792a-74cf-4feb-a7a5-2e0f31e1c068,research.immobilien,available,92,36,8,,,
+276bf0a4-a234-4464-b5ef-6eb450019c6f,research.industries,premium,92,36,8,,,
+4ea2d0cf-1ae1-4ab2-9d4a-9e663cb19c1e,research.ink,resell,92,36,8,"Sav.com, LLC - 6",15/05/2025 00:00,15/05/2026 00:00
+7cee396d-1dc3-4499-b797-b9a05028318a,research.insure,available,92,36,8,,,
+cad49796-906f-408c-994b-c09cf41c0db5,research.investments,premium,92,36,8,,,
+38d8c23d-0f60-4151-b399-af6af89857b9,research.io,sold,92,36,8,Key-Systems GmbH,13/07/2010 22:47,13/07/2026 22:47
+00606c46-efb9-4e5e-a540-54ab1ed6a16e,research.it,expiring,92,36,8,,28/12/2016 09:00,28/12/2025 00:00
+62b437e3-33d3-4791-b483-01398bf9f9a3,research.jetzt,available,92,36,8,,,
+9fe43b49-53e6-4241-a5da-275d446b1a34,research.jewelry,available,92,36,8,,,
+c3dabf2e-5529-4a71-aa08-ca06d1ff45aa,research.juegos,available,92,36,8,,,
+b96e7a5e-5d93-46e7-b8ac-177aeffee4be,research.kaufen,available,92,36,8,,,
+b0910485-50f5-400b-b917-9786721912d4,research.kids,premium,92,36,8,,,
+04be0334-050d-44cc-a32d-a35fcba73a33,research.kitchen,available,92,36,8,,,
+6782b079-2310-4843-b602-142b224cceb4,research.land,resell,92,36,8,Porkbun LLC,28/07/2021 17:40,28/07/2026 17:40
+f2e79ea0-b9d3-4149-b01d-ad6322fc5359,research.lat,expiring,92,36,8,Namecheap,28/12/2024 11:27,28/12/2025 23:59
+9433ba19-7051-47c0-ab87-e72a2440a039,research.lawyer,premium,92,36,8,,,
+6e8d8607-63c2-492d-a1e7-0f5f4cb9d3ce,research.lease,available,92,36,8,,,
+fdb4015a-24eb-4673-b297-8c7fe234545f,research.lgbt,premium,92,36,8,,,
+ac5574ff-6106-47c1-bf47-f4930237cb92,research.life,resell,92,36,8,"Spaceship, Inc.",01/04/2021 23:44,01/04/2026 23:44
+055378f8-6623-473d-abd2-211e55ac0a34,research.lifestyle,available,92,36,8,,,
+f3c5526f-7d1f-4657-ac62-52b949936724,research.limo,available,92,36,8,,,
+3ed4d6da-f0c9-4ab5-bf26-69553c9bdf5a,research.live,resell,92,36,8,"Xiamen ChinaSource Internet Service Co., Ltd",28/10/2015 17:00,28/10/2026 17:00
+7a35505f-6c47-4a5e-8248-07a4a7f7c731,research.living,available,92,36,8,,,
+3586c669-3de7-4fdf-9dd1-6631986dfd40,research.llc,premium,92,36,8,,,
+67482232-a74f-4423-a6bd-561d6b3eb9a7,research.loan,premium,92,36,8,,,
+10ac2980-537c-4f3e-9cf2-d8452a80eddd,research.loans,available,92,36,8,,,
+a2d48c6c-5337-4218-97f6-e696445a34ae,research.locker,premium,92,36,8,,,
+03faeb6a-9be5-4c73-a97b-decb26d13c08,research.london,resell,92,36,8,"Go Daddy, LLC",27/09/2017 16:39,27/09/2027 23:59
+5c37bae6-f51d-4084-9eca-b65d587900f2,research.love,resell,92,36,8,Porkbun LLC,16/04/2019 12:52,16/04/2026 23:59
+37ca28f9-c34c-47c5-a767-e5c186955004,research.ltda,premium,92,36,8,,,
+e9153ed1-d40e-4aca-a508-b00f5e0116c8,research.luxe,available,92,36,8,,,
+afc1df9e-8ca2-40f3-ae53-4ec322269df4,research.luxury,available,92,36,8,,,
+4217dc7a-9c28-4a04-93b9-f0d82f96b3b1,research.maison,available,92,36,8,,,
+13bd8697-be2e-4dcc-b7da-1b13ac08208b,research.makeup,resell,92,36,8,"Xiamen ChinaSource Internet Service Co., Ltd",01/08/2025 08:45,01/08/2026 23:59
+0a08a318-d513-4b69-92ad-f21450caaecf,research.management,premium,92,36,8,,,
+7d00515f-0e07-434b-8d12-c74daf127e79,research.me,sold,92,36,8,"GoDaddy.com, LLC",10/07/2008 03:30,10/07/2026 03:30
+8c7ba543-2a06-426d-8a85-e36c8029cd3e,research.media,resell,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",11/10/2019 22:53,11/10/2026 22:53
+48274219-9d43-4e0f-8daf-d2a8c75ff53c,research.melbourne,premium,92,36,8,,,
+5dcaaf0f-9b1a-4ca9-be90-72f814e1045d,research.meme,premium,92,36,8,,,
+70a3d87c-bb84-4937-bf7d-5704a33cfc21,research.memorial,available,92,36,8,,,
+492a9a5b-baf7-47d7-8c37-634baca0bbac,research.men,premium,92,36,8,,,
+c173de90-1259-4286-b63a-4efc83f45879,research.menu,resell,92,36,8,"Blue Razor Domains, LLC",17/03/2014 15:00,17/03/2026 15:00
+33819e55-3535-48b9-a1df-e7059911f652,research.mobi,premium,92,36,8,,,
+18cff644-41e6-4e5b-9444-dcd1e5b49457,research.moda,sold,92,36,8,Tucows Domains Inc.,12/12/2025 05:48,12/12/2026 05:48
+38fb731d-ac64-41ac-9436-acb86d535209,research.money,premium,92,36,8,,,
+36dd4919-9d3e-4560-a748-e104fc242489,research.monster,resell,92,36,8,"Spaceship, Inc.",15/06/2025 21:52,15/06/2026 23:59
+f8180a11-0ea3-4334-9bdd-502676d00ac1,research.mortgage,premium,92,36,8,,,
+a3929871-3d09-4982-b16b-13189541470c,research.motorcycles,available,92,36,8,,,
+f395de28-8d0f-4067-86a2-ff4d1f83f101,research.mov,premium,92,36,8,,,
+066b27cc-b188-4f55-a924-9821c40cad7f,research.movie,available,92,36,8,,,
+38ed79a2-9fb3-4db7-91bb-953b123cfa44,research.music,premium,92,36,8,,,
+b64528e5-d2ef-4d44-add5-4dae3fe4a0ee,research.mx,resell,92,36,8,Porkbun LLC,30/06/2024 00:00,30/06/2026 00:00
+cd6eeeba-6b4c-4ea1-8ff0-3601a655a293,research.navy,premium,92,36,8,,,
+9dbf0722-030d-474f-b7ca-468805735f9d,research.ngo,available,92,36,8,,,
+cc59ef70-bc90-4041-b1bf-4d0b62750093,research.ninja,resell,92,36,8,"Network Solutions, LLC",01/12/2024 17:21,01/12/2025 17:21
+2c1011c8-0567-46a5-b76a-860caa0cafc0,research.nyc,premium,92,36,8,,,
+59464bd7-e082-40e0-bdfd-ebf813359cca,research.observer,premium,92,36,8,,,
+cdcd87ff-c327-4e3e-a95e-20f49d4eadfc,research.ong,available,92,36,8,,,
+050657d5-c65f-4437-b7dd-ccc09173824e,research.online,premium,92,36,8,,,
+cbc263c8-e74a-436a-b8fb-086dac222a8a,research.organic,available,92,36,8,,,
+e5e0af5a-5bde-4d43-9fb9-2fad5d0f45d2,research.osaka,premium,92,36,8,,,
+7a5f4dc0-fd96-4c16-a706-bd896a92f932,research.page,premium,92,36,8,,,
+ff29e1ee-f6cf-430b-8201-7ee81e47d311,research.partners,premium,92,36,8,,,
+2ad9cd39-7c48-4d47-9b0c-7c28db6d9c4c,research.parts,available,92,36,8,,,
+8be8361e-797f-47b6-a80f-b43ebb74ba58,research.party,premium,92,36,8,,,
+8dac3e13-8992-41b6-8069-9f7fba5fe1f9,research.pet,resell,92,36,8,"Spaceship, Inc.",17/09/2018 17:19,17/09/2026 17:19
+6d403b06-76cf-410f-a400-780c72ca4ff6,research.phd,premium,92,36,8,,,
+b5c3c20f-2466-4c1a-8e9d-a16c0f375785,research.photo,premium,92,36,8,,,
+2a995093-981e-4439-b9a9-7fd89f139d1d,research.photography,available,92,36,8,,,
+a38a0f98-3621-4ec0-800b-687ac1d02d81,research.photos,available,92,36,8,,,
+abb5bf8e-534f-4a55-8d49-6f7e769da682,research.pictures,available,92,36,8,,,
+e6afeb61-b95e-4e99-96d8-872a4dbfb635,research.pink,available,92,36,8,,,
+119d7238-062d-4229-8ea9-4d880a17987e,research.pizza,available,92,36,8,,,
+0db06c52-1579-4867-9599-0081c1954b16,research.place,resell,92,36,8,Porkbun LLC,22/07/2023 15:15,22/07/2026 15:15
+48d370f1-7366-45d5-846c-214996a4a449,research.poker,available,92,36,8,,,
+1225e2aa-0368-4895-af30-915c3031f57a,research.press,premium,92,36,8,,,
+14819b6f-2661-4bb4-a6b2-a6d4b3dabda0,research.pro,resell,92,36,8,Registrar of Domain Names REG.RU LLC,10/05/2022 13:15,10/05/2026 13:15
+d7e85611-a4df-433d-909c-e1687efb0601,research.productions,premium,92,36,8,,,
+1e5b1e1d-de6a-43c3-98fe-5f6dbd4ea55b,research.prof,premium,92,36,8,,,
+e7b552ae-9f26-4135-9e80-775b446e50ca,research.promo,premium,92,36,8,,,
+3de93872-f60d-4341-95ae-78e1b5ebdb40,research.properties,premium,92,36,8,,,
+008841aa-8a53-4d9d-ac69-e9a7360d9b86,research.property,premium,92,36,8,,,
+a86e4fa8-50c9-4cd0-969f-041a0b29f9b5,research.protection,available,92,36,8,,,
+1f3e0b52-d3f7-4a94-bbd6-dc88accff02a,research.pub,resell,92,36,8,"Xiamen ChinaSource Internet Service Co., Ltd",06/12/2023 15:15,06/12/2026 15:15
+7760b124-26a2-4e32-9f2a-70392527f952,research.pw,premium,92,36,8,,,
+3d93aed4-333a-492c-9b98-8034dce48240,research.qpon,available,92,36,8,,,
+58886af1-844d-4dad-9a7a-502677533438,research.racing,premium,92,36,8,,,
+6bd2e847-d64a-4642-a7be-79b117c14879,research.realty,premium,92,36,8,,,
+91eae53b-06a8-4dc9-82eb-cfba30dd566e,research.red,expired,92,36,8,"GoDaddy.com, LLC",23/10/2023 19:36,23/10/2025 19:36
+b50e8db3-09c8-492e-a50d-734d95168b76,research.rehab,available,92,36,8,,,
+922ed8f3-689c-44fe-8c73-9f0de4bea460,research.reise,available,92,36,8,,,
+002086a9-8a56-4dec-86bc-5d806543a1ee,research.rent,available,92,36,8,,,
+d5550b2c-dd33-4de2-bdd8-d6e77c9c7501,research.rentals,available,92,36,8,,,
+009d3c01-db4e-4c95-a660-c3f78393093f,research.repair,available,92,36,8,,,
+362bd00c-e032-4cfb-b49c-c633e71db05f,research.report,expiring,92,36,8,Squarespace Domains II LLC,11/01/2018 18:43,11/01/2026 18:43
+b722c78e-6be3-4719-b4ac-4b4ccbbeb544,research.republican,available,92,36,8,,,
+058de5cb-f249-45bc-bbb7-ffa46c1f1332,research.restaurant,available,92,36,8,,,
+c63d784f-978b-417e-a025-b5997580b0e5,research.rich,available,92,36,8,,,
+6afe738c-0249-4579-97a8-a1e532cd1f56,research.rodeo,available,92,36,8,,,
+bb56d85e-5acf-4291-968f-aee1bc02fad4,research.rsvp,premium,92,36,8,,,
+bb9d2e23-0a82-4d86-abf6-3dc3d16474bd,research.run,resell,92,36,8,"DNSPod, Inc.",16/11/2019 23:57,16/11/2026 23:57
+6c858f55-61f0-4b03-a71f-cf83abf2b8f4,research.sale,premium,92,36,8,,,
+2dd9e11c-7f1a-42c9-83b4-409283d7ff48,research.salon,available,92,36,8,,,
+8b339ada-65ae-4c85-940b-5f979734c7ee,research.sarl,available,92,36,8,,,
+42ae738e-a36e-492b-8ed3-fcd4371451c2,research.sbs,premium,92,36,8,,,
+edf9bc07-e415-4822-b88f-d5859c7913dc,research.school,resell,92,36,8,"GoDaddy.com, LLC",14/11/2022 19:50,14/11/2026 19:50
+0f8787fe-2383-4c9c-90b1-a9fb4bece5c1,research.schule,available,92,36,8,,,
+30c7c228-3f8e-406c-9465-12e4f67a6307,research.science,premium,92,36,8,,,
+9ea1605c-693c-457a-a648-787be9f6b858,research.security,available,92,36,8,,,
+8ee7573d-f93d-491a-9e6d-9e27f8b86d3e,research.services,premium,92,36,8,,,
+4d5484b3-0d02-4808-9600-bcbeadbf5fce,research.sexy,available,92,36,8,,,
+3cdd5f33-521b-48d1-a951-1435860248c7,research.shiksha,premium,92,36,8,,,
+c05831a7-4f10-4032-8463-7975e59148e9,research.shoes,available,92,36,8,,,
+b4ec1afd-182a-4e65-8d55-9887e4b265a4,research.shopping,resell,92,36,8,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),15/07/2023 15:15,15/07/2026 15:15
+0397ca7f-cd3d-450e-bb66-4bc2fab3cfab,research.show,resell,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",05/02/2023 15:15,05/02/2026 15:15
+35c4df25-d92a-422f-adcb-020713dc02e8,research.singles,available,92,36,8,,,
+083c9857-2fa6-4ac8-8d20-760a82780506,research.site,premium,92,36,8,,,
+bf77f478-6b23-4440-981d-3246b1c8daff,research.ski,premium,92,36,8,,,
+8c500e09-fbf3-4823-a3b6-903757480bfa,research.soccer,available,92,36,8,,,
+10049f34-0509-4de2-92cd-d7b7aa2fed5a,research.solar,premium,92,36,8,,,
+57bb13aa-ce7a-4b59-a257-9f31ed27f773,research.soy,premium,92,36,8,,,
+fa35be6d-4882-4009-89e8-244a4b9f1ca0,research.space,premium,92,36,8,,,
+a5b562a0-b942-4439-afe7-9b2f8305d35f,research.spot,premium,92,36,8,,,
+48aa5c86-389d-4101-a302-fd43edfb7049,research.srl,available,92,36,8,,,
+e76a20d2-a837-46a2-bd6d-ab5361afaefd,research.storage,available,92,36,8,,,
+be186d93-2b86-4300-8ba0-1e18ea014a5b,research.store,premium,92,36,8,,,
+c646a59a-3a59-41c5-a598-627d171a7565,research.stream,premium,92,36,8,,,
+6882d252-8aaa-4609-bf05-c8e82187cdb9,research.studio,resell,92,36,8,"GoDaddy.com, LLC",04/02/2024 11:47,04/02/2026 11:47
+d5948dbd-31ef-4c38-a1ea-a571de59a8d1,research.style,resell,92,36,8,"Sav.com, LLC - 40",17/02/2025 15:15,17/02/2026 15:15
+742c945e-18f8-453f-b128-cd2b111fa19e,research.sucks,premium,92,36,8,,,
+6a6cddfa-e450-4aa3-a06c-18492ef1577b,research.surf,available,92,36,8,,,
+356e0947-fc09-47b2-9d50-16e05e5d379e,research.sydney,premium,92,36,8,,,
+a96d8294-c97c-4e68-b523-b34fd97364ab,research.talk,premium,92,36,8,,,
+f13f38a2-bf9e-4e1b-aad5-214824ac7def,research.tattoo,available,92,36,8,,,
+42842b9d-41d6-4a85-9e76-b8a2abd9e111,research.tax,expiring,92,36,8,"GoDaddy.com, LLC",14/01/2019 22:25,14/01/2026 22:25
+4f708bc9-1ee8-4ce1-9913-6125068c7570,research.taxi,available,92,36,8,,,
+53a0f47b-1f84-4482-bf07-9ed9995813d3,research.tech,sold,92,36,8,OVH,07/09/2025 11:52,07/09/2026 23:59
+df35c679-defc-4c65-b1ba-d5ebbe5d0ca1,research.tel,premium,92,36,8,,,
+b6d98dc9-7295-4bbf-bf3a-ea0cd01a89b1,research.tennis,available,92,36,8,,,
+8767c976-cc8f-4a30-948f-825239c73720,research.theater,available,92,36,8,,,
+7594a1a6-b4f1-4933-b073-99babae121e4,research.theatre,available,92,36,8,,,
+cda553bc-e042-4b1b-ad56-28f3ece95710,research.tickets,available,92,36,8,,,
+0a65582f-6859-40fa-99dd-57276ffbd48c,research.tienda,available,92,36,8,,,
+53d3d64a-8cfd-4ebd-bf74-e9151bde5b8c,research.tires,available,92,36,8,,,
+bfb1774f-197d-4337-b86e-addcfb259cf0,research.to,resell,92,36,8,NAMECHEAP,29/04/2023 04:10,28/04/2026 23:00
+66c15e7f-4327-4a2f-b7ec-a502c1f03e22,research.town,premium,92,36,8,,,
+04aa18ee-50d1-42f9-a937-69d00904a26b,research.toys,available,92,36,8,,,
+02ff6f67-a950-4b70-8b12-e8ce3ac47bd4,research.training,resell,92,36,8,Porkbun LLC,03/08/2022 13:15,03/08/2026 13:15
+e6858af5-d958-4470-8320-667c4c4593be,research.tube,premium,92,36,8,,,
+05517ce4-22a4-4e0a-8e97-a8cabdd1381e,research.tv,premium,92,36,8,,,
+51568a2e-d361-44fe-97b1-b24daea3ecf7,research.uno,premium,92,36,8,,,
+fa8edaa1-1d23-4e0e-9d1a-cb5c6154189b,research.us,resell,92,36,8,Dynadot Inc,08/07/2018 00:08,08/07/2026 00:08
+3f6d89c9-5592-4cc9-abd0-1d8e1edf9af6,research.vacations,available,92,36,8,,,
+765a147f-0a7f-4774-95e3-2e06a5fc7cec,research.vana,available,92,36,8,,,
+f2948b61-e514-44b9-ae91-6e50969fb9ef,research.vc,premium,92,36,8,,,
+ba94f2e4-90c2-4007-93db-7eb48c48f0e8,research.vegas,expiring,92,36,8,"GoDaddy.com, LLC",18/12/2014 16:53,18/12/2025 16:53
+f153b1f1-5021-42ea-9a81-8c07046d2f3c,research.vet,premium,92,36,8,,,
+d253244c-5605-4598-90f1-1d67e318c1c6,research.viajes,available,92,36,8,,,
+609cb75a-beec-45dc-bf89-343ba3d37f97,research.villas,available,92,36,8,,,
+de03f937-d321-4bc6-a133-7584a9e98451,research.vip,resell,92,36,8,"Chengdu West Dimension Digital Technology Co., Ltd.",14/08/2019 07:00,14/08/2030 07:00
+966efa9e-0005-484c-ad38-b8b95bff302f,research.vision,resell,92,36,8,Porkbun LLC,21/08/2024 17:00,21/08/2026 17:00
+5819887d-5754-4ee8-887b-b4ae12475309,research.vodka,available,92,36,8,,,
+8792e785-bb1b-4616-9dda-263fd1512c96,research.voting,available,92,36,8,,,
+4ba87a13-9c24-4252-82e9-2dea964a8b1b,research.voto,available,92,36,8,,,
+925faf68-63b2-421b-8293-43d6373d9b20,research.voyage,available,92,36,8,,,
+7d0f5b19-2648-4d17-8373-855f04dceb81,research.webcam,premium,92,36,8,,,
+3d1a4e7d-e9d6-40b7-b93c-a363bf7f180e,research.website,premium,92,36,8,,,
+3c7894b8-7463-4295-a7ff-c50ee197c95a,research.wedding,available,92,36,8,,,
+40160645-c03b-4529-97d1-a5632fa9a9f6,research.win,premium,92,36,8,,,
+19e0962a-99ef-4f60-9360-4d15516470af,research.work,resell,92,36,8,"GoDaddy.com, LLC",18/08/2018 07:52,18/08/2028 07:52
+41a1804d-20f3-4777-b41e-5b0fcc5337d9,research.world,expiring,92,36,8,"GoDaddy.com, LLC",14/01/2015 16:00,14/01/2026 16:00
+ce91d0e0-b46f-405d-8505-c604a1632273,research.wtf,resell,92,36,8,"Sav.com, LLC - 26",12/08/2024 15:15,12/08/2026 15:15
+7771ec98-d143-4321-bfc5-cee9832ca557,research.xyz,sold,92,36,8,"Name.com, Inc",02/06/2014 16:18,02/06/2027 23:59
+b07ca33e-de2f-4afd-b4e8-652cfb22f90f,research.yachts,available,92,36,8,,,
+aae9032e-df94-45b1-bac9-e1f2c370d94d,research.you,premium,92,36,8,,,
+f8b7dd7d-abd6-4e9a-9fc2-a6007bbc5bc4,research.zip,premium,92,36,8,,,
+4ac15525-2e2e-487d-b39a-8e3b54c20f1b,research.zone,resell,92,36,8,"Xiamen ChinaSource Internet Service Co., Ltd",30/07/2025 15:16,30/07/2026 15:16
 d6582586-fbbf-4546-b5ff-36057b6634f8,scientific.app,premium,66,84,10,,,
 568d511f-e9b6-4bce-86bc-3c965e7aa395,scientific.at,premium,66,84,10,,,
 d0ff38d4-5386-462c-ac35-7fb11e691b4e,scientific.cloud,resell,66,84,10,GoDaddy,16/02/2016 15:00,16/02/2026 15:00
@@ -993,9 +999,3 @@ c21114e5-daa3-40c5-a9d7-be417af6ce4d,testing.reise,available,86,28,7,,,
 7a3fd6bb-98b0-434d-b609-5d41e645a91e,testing.reisen,available,86,28,7,,,
 d54576c1-b424-45c2-b7b4-7c86299e213a,testing.rent,available,86,28,7,,,
 cbf9a026-0efc-4dc5-a156-e1f688377c08,testing.rentals,available,86,28,7,,,
-f41f85f1-1fba-4232-b7ab-ab5f723d861f,testing.repair,available,86,28,7,,,
-0a8ee04b-0632-40af-9590-76d8e3884567,testing.republican,available,86,28,7,,,
-1c814122-adb3-4130-9b91-ef87a0da4780,testing.restaurant,available,86,28,7,,,
-caa42ce4-a831-4b4e-bfe3-2d3417e156ab,testing.review,premium,86,28,7,,,
-2235166f-4829-428a-87e1-fd1f46a7b18a,testing.reviews,premium,86,28,7,,,
-dffaf6fe-8f48-4a5c-8035-623ed8218919,testing.rich,available,86,28,7,,,
