@@ -1,62 +1,62 @@
 
-# List of .SCIENCE One Word Domain Names (9,257)
+# List of Science One Word Domain Names (14,484)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/science-oneword-domains.svg?style=flat)]() [![9,257 .SCIENCE one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-9%2C257-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Science-oneword-domains.svg?style=flat)]() [![14,484 Science one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-14%2C484-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .SCIENCE one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Science one-word domains still available to buy.
 
-This dataset contains 9,258 .SCIENCE one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Science one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.SCIENCE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=description.top) (9,257) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Science one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=description.top) (14,484) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/blob/main/science.csv"><b>⬇️ CSV (9.26K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/blob/main/science.json"><b>⬇️ JSON (9.26K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.26K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/blob/main/Science.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/blob/main/Science.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (14.48K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ------------------ | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.science        | premium   | 70       | 35%    | 3      |           |         |         |
-| aaron.science      | available | 88       | 28%    | 5      |           |         |         |
-| abactinal.science  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.science      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.science  | available | 58       | 7%     | 9      |           |         |         |
-| abashed.science    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.science     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.science   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.science     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.science    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.science   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.science  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.science  | premium   | 82       | 1%     | 9      |           |         |         |
-| abdominous.science | available | 56       | 1%     | 10     |           |         |         |
-| abducens.science   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.science   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.science  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.science    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.science | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.science   | premium   | 74       | 7%     | 8      |           |         |         |
-| abeyant.science    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.science  | available | 54       | 1%     | 9      |           |         |         |
-| abide.science      | available | 94       | 15%    | 5      |           |         |         |
-| abiding.science    | available | 106      | 5%     | 7      |           |         |         |
-| abient.science     | available | 54       | 1%     | 6      |           |         |         |
-| ability.science    | available | 92       | 15%    | 7      |           |         |         |
-| abit.science       | available | 68       | 12%    | 5      |           |         |         |
-| abject.science     | premium   | 94       | 8%     | 6      |           |         |         |
-| abkhas.science     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.science  | available | 78       | 1%     | 9      |           |         |         |
+| Domain               | Status    | Attract. | Demand | Length | Registrar         | Created          | Expires          |
+| -------------------- | --------- | -------- | ------ | ------ | ----------------- | ---------------- | ---------------- |
+| research.accountant  | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.accountants | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.actor       | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.adult       | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.ag          | resell    | 92       | 36%    | 8      | Sav.com, LLC      | 13/02/2025 09:10 | 13/02/2026 09:10 |
+| research.airforce    | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.asia        | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.associates  | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.attorney    | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.auction     | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.audio       | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.auto        | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.autos       | resell    | 92       | 36%    | 8      | Spaceship, Inc.   | 26/08/2023 12:16 | 26/08/2026 23:59 |
+| research.band        | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.bar         | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.bargains    | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.bayern      | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.berlin      | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.best        | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.bid         | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.bingo       | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.blackfriday | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.blog        | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.blue        | resell    | 92       | 36%    | 8      | Sav.com, LLC - 31 | 23/07/2025 15:15 | 23/07/2026 15:15 |
+| research.boats       | available | 92       | 36%    | 8      |                   |                  |                  |
+| research.bond        | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.boo         | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.boston      | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.build       | premium   | 92       | 36%    | 8      |                   |                  |                  |
+| research.builders    | premium   | 92       | 36%    | 8      |                   |                  |                  |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/blob/main/science.csv"><b>⬇️ CSV (9.26K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/science-oneword-domains/blob/main/science.json"><b>⬇️ JSON (9.26K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (9.26K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/blob/main/Science.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Science-oneword-domains/blob/main/Science.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (14.48K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.SCIENCE one word doma
 | Travel             | 24,245       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,802       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=science-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Science-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=description.image)
         
