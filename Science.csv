@@ -525,7 +525,7 @@ a1bdb927-3f1f-4f58-b1fd-fc38d9db9edc,analysis.inc,premium,80,18,8,,,
 3634bb95-8018-49d2-b71d-4672052d5658,analysis.industries,premium,80,18,8,,,
 0db0a46a-eba8-47ee-8133-ef7e05943641,analysis.info,resell,80,18,8,"GoDaddy.com, LLC",14/09/2001 14:19,14/09/2026 14:19
 a5c33060-ff10-4ef8-b74b-731e3564aaf9,analysis.ing,premium,80,18,8,,,
-744ac0b2-2e25-47cf-b2cc-a5ff82d7c7a0,analysis.ink,resell,80,18,8,"Spaceship, Inc.",16/01/2025 01:20,16/01/2026 01:20
+744ac0b2-2e25-47cf-b2cc-a5ff82d7c7a0,analysis.ink,expiring,80,18,8,"Spaceship, Inc.",16/01/2025 01:20,16/01/2026 01:20
 c7cc33c4-2323-47d6-b393-d8ef5c362e9c,analysis.insure,available,80,18,8,,,
 effdf334-ad1f-4ba5-a06f-d4c8df4565cc,analysis.international,available,80,18,8,,,
 c485d05d-7a23-4b4f-8abb-681bfa5410ca,analysis.investments,premium,80,18,8,,,
@@ -551,7 +551,7 @@ d89bd214-c571-4c59-8cce-b3b331146c36,analysis.legal,available,80,18,8,,,
 8193e841-e575-409d-9800-976ee3518276,analysis.limited,available,80,18,8,,,
 b6bb954d-d302-4a49-953c-0cd3cd85d750,analysis.limo,available,80,18,8,,,
 cdac1dd6-1091-442b-a617-fcb29c365503,analysis.link,premium,80,18,8,,,
-03dc0526-76dc-4690-ace9-787cee01e999,analysis.live,resell,80,18,8,Dynadot Inc,15/06/2025 17:02,15/06/2026 17:02
+03dc0526-76dc-4690-ace9-787cee01e999,analysis.live,sold,80,18,8,Dynadot Inc,15/06/2025 17:02,15/06/2026 17:02
 76936bb5-e979-47ba-8c69-884fde944732,analysis.living,available,80,18,8,,,
 f836e4dc-6e1f-47cb-aa78-51e5c8029510,analysis.loans,available,80,18,8,,,
 ecb025d3-5668-405f-9ff4-9552a2152da8,analysis.locker,sold,80,18,8,"Dynadot, LLC",26/10/2025 22:41,26/10/2026 22:41
@@ -584,7 +584,7 @@ f9644ded-186a-4110-9a60-3411c56277c0,analysis.music,premium,80,18,8,,,
 97fc6fed-818d-4a3b-af02-461f948bd25b,analysis.my,premium,80,18,8,,,
 de448fc1-927c-4c0b-bab3-9eac97f34320,analysis.name,expiring,80,18,8,IONOS SE,05/01/2024 12:06,05/01/2026 12:06
 09e91d1a-1981-4aec-ae90-2885503b02f0,analysis.navy,available,80,18,8,,,
-7cdcbfab-ae22-428f-8c18-995e3cd0fc75,analysis.news,expiring,80,18,8,"NameCheap, Inc.",21/12/2024 21:44,21/12/2025 21:44
+7cdcbfab-ae22-428f-8c18-995e3cd0fc75,analysis.news,sold,80,18,8,"NameCheap, Inc.",21/12/2024 21:44,21/12/2026 21:44
 29634104-bff8-4977-8de4-63d4e8207074,analysis.nexus,premium,80,18,8,,,
 6bcdb14e-ad70-4da5-8f7a-3c12b5dab81d,analysis.ngo,available,80,18,8,,,
 6d2ac87e-369a-406b-bb16-13d3d1fdf280,analysis.now,resell,80,18,8,Dynadot Inc,08/07/2025 21:21,08/07/2026 21:21
@@ -694,7 +694,7 @@ e1cbdd2e-75fb-419a-8689-352d586965bd,analysis.tips,resell,80,18,8,"GoDaddy.com, 
 c5003bd2-1e90-4f80-a77e-112907169d94,analysis.town,available,80,18,8,,,
 1e5d3c3f-f5d6-4d34-972e-8f909811fc14,analysis.travel,available,80,18,8,,,
 40407e24-9a32-45d2-aa1d-44f9c36f6b6d,analysis.tube,premium,80,18,8,,,
-d5b9d9f9-de3b-4553-9d1b-fa3f9868d285,analysis.tv,resell,80,18,8,"GoDaddy.com, LLC",20/01/2006 03:58,20/01/2026 03:58
+d5b9d9f9-de3b-4553-9d1b-fa3f9868d285,analysis.tv,expiring,80,18,8,"GoDaddy.com, LLC",20/01/2006 03:58,20/01/2026 03:58
 e9f9b642-91d6-42ae-b5b0-2900b10acf4d,analysis.uk,resell,80,18,8,"GoDaddy.com, LLC.",18/06/2014 06:13,18/06/2026 06:13
 59313f85-c73e-42ff-a76d-4b5105e5b52a,analysis.university,available,80,18,8,,,
 550e8d73-4406-4850-886a-75e0922efc49,analysis.uno,premium,80,18,8,,,
