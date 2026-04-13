@@ -81,7 +81,7 @@ print(df.head())
 | athletics.science  | premium   | $1,300    | $130          | 69             | 52     | 9      | namecheap                                           |
 | trip.science       | available | $16.98    | —             | 110            | 35     | 4      | namecheap                                           |
 | disney.science     | resell    | —         | —             | 82             | 76     | 6      | Porkbun                                             |
-| design.science     | premium   | $3,125    | $125          | 108            | 50     | 6      | name.com                                            |
+| design.science     | premium   | $3,125    | $125          | 108            | 49     | 6      | name.com                                            |
 | aaron.science      | available | $16.98    | —             | 88             | 35     | 5      | namecheap                                           |
 | easy.science       | resell    | —         | —             | 128            | 68     | 4      | Sav.com, LLC - 3                                    |
 
