@@ -1,10 +1,10 @@
-# Available .SCIENCE One-Word Domains (11,780)
+# Available .SCIENCE One-Word Domains (12,072)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C780%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C072%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .science one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,780 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,072 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,780 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,072 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-04-27  
 **Canonical page:** `https://unique.domains/domains/tld/science`  
 **Best for:** founders, investors, studios
 
@@ -67,23 +67,23 @@ print(df.head())
 | Chanel.science       | available | $16.98    | —             | 80             | 77     | 6      | namecheap                     |
 | toys.science         | resell    | —         | —             | 60             | 24     | 4      | West263 International Limited |
 | skills.science       | premium   | $125      | —             | 58             | 47     | 6      | name.com                      |
-| dogs.science         | available | $16.98    | —             | 76             | 28     | 4      | namecheap                     |
+| cams.science         | available | $11.99    | $11.99        | 52             | 29     | 4      | namesilo                      |
 | prairie.science      | resell    | —         | —             | 62             | 16     | 7      | Tucows Domains Inc.           |
-| shortcuts.science    | premium   | $3,125    | —             | 48             | 41     | 10     | name.com                      |
-| drops.science        | available | $16.98    | —             | 52             | 25     | 5      | namecheap                     |
 | neuroscience.science | premium   | $6,250    | —             | 80             | 37     | 12     | name.com                      |
-| pops.science         | available | $11.99    | $11.99        | 74             | 24     | 4      | namesilo                      |
+| dogs.science         | available | $16.98    | —             | 76             | 28     | 4      | namecheap                     |
 | events.science       | premium   | $3,125    | —             | 68             | 37     | 6      | name.com                      |
-| holidays.science     | available | $11.99    | $11.99        | 78             | 23     | 8      | namesilo                      |
+| drops.science        | available | $16.98    | —             | 52             | 25     | 5      | namecheap                     |
 | homes.science        | premium   | $140      | $35           | 86             | 34     | 5      | namecheap                     |
-| makeit.science       | available | $16.98    | —             | 82             | 22     | 7      | namecheap                     |
+| pops.science         | available | $11.99    | $11.99        | 74             | 24     | 4      | namesilo                      |
 | payments.science     | premium   | $625      | —             | 58             | 33     | 8      | name.com                      |
-| brothers.science     | available | $16.98    | —             | 60             | 22     | 8      | namecheap                     |
+| gamers.science       | available | $11.99    | $11.99        | 62             | 24     | 6      | namesilo                      |
 | solutions.science    | premium   | $6,250    | —             | 56             | 31     | 9      | name.com                      |
-| Allie.science        | available | $16.98    | —             | 72             | 21     | 5      | namecheap                     |
+| holidays.science     | available | $11.99    | $11.99        | 78             | 23     | 8      | namesilo                      |
+| slots.science        | premium   | $116      | $29.50        | 49             | 31     | 5      | namesilo                      |
+| makeit.science       | available | $16.98    | —             | 82             | 22     | 7      | namecheap                     |
 | brands.science       | premium   | $3,125    | —             | 62             | 28     | 6      | name.com                      |
-| restaurants.science  | available | $16.98    | —             | 57             | 21     | 11     | namecheap                     |
-| photos.science       | premium   | $125      | —             | 54             | 28     | 6      | name.com                      |
+| brothers.science     | available | $16.98    | —             | 60             | 22     | 8      | namecheap                     |
+| trades.science       | premium   | $116      | $29.50        | 71             | 26     | 6      | namesilo                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,780 live domains                              |
+| 1,000-row public sample | 12,072 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-04-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
