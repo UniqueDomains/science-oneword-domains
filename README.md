@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .science one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,217 domains
 
-**Last updated:** 2026-04-28  
+**Last updated:** 2026-04-29  
 **Canonical page:** `https://unique.domains/domains/tld/science`  
 **Best for:** founders, investors, studios
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-04-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-04-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
