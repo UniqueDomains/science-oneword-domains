@@ -1,29 +1,29 @@
-# Science Keyword Domains Across 505 TLDs (23,046)
+# Available .SCIENCE One-Word Domains (12,220)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-23%2C046%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C220%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-This selection covers 23,009 domains containing “science” across 505 TLDs. Updated daily. The median ask is $980.32, so comparison should focus on extension fit, renewal exposure, and whether the keyword usage feels credible and ownable.
+Daily-updated public extract of available and resale .science one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **23,046 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,220 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 23,046 domains · **Median ask:** $980.79 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,220 domains · **Median ask:** $632.62 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/sector/Science`  
+**Last updated:** 2026-06-04  
+**Canonical page:** `https://unique.domains/domains/tld/science`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/sector/Science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/tld/science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./science.csv">CSV</a> / <a href="./science.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ This selection covers 23,009 domains containing “science” across 505 TLDs. U
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this .SCIENCE search](https://unique.domains/domains/tld/science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this .SCIENCE search](https://unique.domains/domains/tld/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Science`.
+This repository is the public extract for Unique Domains' .SCIENCE one-word domain catalog.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| science.paris      | available | $51.98    | —             | 88             | 44     | 7      | namecheap                     |
-| science.world      | resell    | —         | —             | 106            | 44     | 7      | Spaceship, Inc.               |
-| science.zone       | premium   | $1,040    | $1,040        | 106            | 44     | 7      | namecheap                     |
-| science.moi        | available | $39.99    | —             | 88             | 44     | 7      | name.com                      |
-| science.work       | resell    | —         | —             | 106            | 44     | 7      | Porkbun                       |
-| science.store      | premium   | $781.25   | $3,125        | 106            | 44     | 7      | name.com                      |
-| science.kiwi       | available | $35.68    | —             | 88             | 44     | 7      | namecheap                     |
-| science.university | resell    | —         | —             | 106            | 44     | 7      | Edomains LLC                  |
-| science.space      | premium   | $3,250    | $13,000       | 106            | 44     | 7      | namecheap                     |
-| science.hamburg    | available | $59.99    | —             | 88             | 44     | 7      | name.com                      |
-| science.trade      | resell    | —         | —             | 106            | 44     | 7      | West263 International Limited |
-| science.site       | premium   | $1,562.50 | $6,250        | 106            | 44     | 7      | name.com                      |
-| science.forex      | available | $19.99    | —             | 88             | 44     | 7      | name.com                      |
-| science.to         | resell    | —         | —             | 106            | 44     | 7      | NAMECHEAP                     |
-| science.shop       | premium   | $3,125    | $3,125        | 106            | 44     | 7      | name.com                      |
-| science.desi       | available | $22.98    | —             | 88             | 44     | 7      | namecheap                     |
-| science.theater    | resell    | —         | —             | 106            | 44     | 7      | Name.com, Inc.                |
-| science.online     | premium   | $3,125    | $12,500       | 106            | 44     | 7      | name.com                      |
-| science.broker     | available | $19.99    | —             | 88             | 44     | 7      | name.com                      |
-| science.tel        | resell    | —         | —             | 106            | 44     | 7      | Spaceship, Inc.               |
+| domain                 | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Siri.science           | available | $11.99    | $11.99        | 76             | 70     | 4      | namesilo         |
+| name.science           | resell    | —         | —             | 82             | 75     | 4      | Porkbun          |
+| enjoy.science          | premium   | $6,250    | —             | 88             | 67     | 5      | name.com         |
+| Spotify.science        | available | $11.99    | $11.99        | 78             | 69     | 7      | namesilo         |
+| easy.science           | resell    | —         | —             | 128            | 67     | 4      | Sav.com, LLC - 3 |
+| bible.science          | premium   | $12,500   | —             | 88             | 50     | 5      | name.com         |
+| artistry.science       | available | $11.99    | $11.99        | 78             | 62     | 8      | namesilo         |
+| shop.science           | resell    | —         | —             | 78             | 52     | 4      | Dynadot Inc      |
+| beyond.science         | premium   | $3,125    | —             | 87             | 49     | 6      | name.com         |
+| FrenchRepublic.science | available | $16.98    | —             | 62             | 57     | 15     | namecheap        |
+| golf.science           | resell    | —         | —             | 84             | 43     | 4      | NameSilo, LLC    |
+| platform.science       | premium   | $6,250    | —             | 92             | 48     | 8      | name.com         |
+| bolt.science           | available | $11.99    | $11.99        | 66             | 47     | 4      | namesilo         |
+| frog.science           | resell    | —         | —             | 86             | 37     | 4      | NameCheap, Inc.  |
+| drone.science          | premium   | $6,250    | —             | 70             | 46     | 5      | name.com         |
+| bali.science           | available | $11.99    | $11.99        | 68             | 41     | 4      | namesilo         |
+| face.science           | resell    | —         | —             | 108            | 34     | 4      | Spaceship, Inc.  |
+| genius.science         | premium   | $3,125    | $125          | 98             | 44     | 6      | name.com         |
+| Friends.science        | available | $11.99    | $11.99        | 66             | 41     | 7      | namesilo         |
+| vacation.science       | resell    | —         | —             | 70             | 26     | 8      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 23,046 live domains                        |
+| 1,000-row public sample | 12,220 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/sector/Science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/tld/science?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/science?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is defined by one thing: each domain includes the keyword “science.” That creates broad coverage rather than a narrow style, with names spanning 505 TLDs and examples such as data.ryukyu, protein.ryukyu, biological.ryukyu, technology.ryukyu, information.eco, and information.new. The median ask is $980.32, which puts pricing discipline at the center of evaluation. When comparing these domains, start with keyword credibility, then check whether the extension strengthens or weakens trust. For founders, the best options are usually the names that read clearly and feel easy to defend. For investors, resale depends more on extension quality, renewal burden, and realistic end-buyer fit than on the keyword alone.
+This set is defined by one filter: the .science extension. The result is a broad pool of single-word domains, from general terms like count.science and maximum.science to more specific words like cyan.science and education.science. The median ask is $509.58, so these names sit in a range where buyers should compare meaning, clarity, and fit with the extension before paying up. When comparing these domains, focus on whether the word becomes stronger or weaker when paired with .science. Words tied to research, learning, measurement, or technical credibility usually read more naturally than words with no clear scientific context.
 
-- Compare keyword clarity against extension credibility
-- Use $980.32 median ask as a pricing anchor
-- Watch niche TLDs for weaker buyer demand
-- Favor names that read cleanly and stay memorable
+- One-word .science names only
+- 12,220 domains in this selection
+- Median ask: $509.58
+- Favor words that fit the .science meaning
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Science Keyword Domains Across 505 TLDs*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/sector/Science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_open_search)
+- [Live .SCIENCE page](https://unique.domains/domains/tld/science?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_science_oneword_domains&utm_content=top_api_docs)
