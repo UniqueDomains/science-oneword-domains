@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .science one-word domains f
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,105 domains · **Median ask:** $481.23 · **High-demand under $2,500:** 15
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/science`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| area.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| easy.science     | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 3 |
-| ape.science      | premium   | $625      | $81.25        | medium         | low    | 3      | name.com         |
-| bali.science     | available | $11.99    | $11.99        | medium         | medium | 4      | namesilo         |
-| face.science     | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
-| ash.science      | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| bars.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| frog.science     | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.  |
-| ate.science      | premium   | $625      | —             | high           | low    | 3      | name.com         |
-| bolt.science     | available | $11.99    | $11.99        | medium         | medium | 4      | namesilo         |
-| golf.science     | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC    |
-| bay.science      | premium   | $625      | $81.25        | low            | low    | 3      | name.com         |
-| born.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| name.science     | resell    | —         | —             | high           | high   | 4      | Porkbun          |
-| BJP.science      | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| brag.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| shop.science     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| boy.science      | premium   | $625      | —             | medium         | low    | 3      | name.com         |
-| camo.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
-| vacation.science | resell    | —         | —             | high           | low    | 8      | Dynadot Inc      |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| out.science   | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| great.science | available | —         | —             | high           | high   | 5      | —                |
+| yes.science   | available | —         | —             | high           | low    | 3      | —                |
+| clean.science | premium   | $625      | —             | high           | low    | 5      | name.com         |
+| easy.science  | resell    | —         | —             | high           | medium | 4      | Sav.com, LLC - 3 |
+| area.science  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
+| ape.science   | premium   | $625      | $81.25        | medium         | low    | 3      | name.com         |
+| bali.science  | available | $11.99    | $11.99        | medium         | medium | 4      | namesilo         |
+| face.science  | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
+| ash.science   | premium   | $625      | —             | medium         | low    | 3      | name.com         |
+| bars.science  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
+| frog.science  | resell    | —         | —             | medium         | low    | 4      | NameCheap, Inc.  |
+| ate.science   | premium   | $625      | —             | high           | low    | 3      | name.com         |
+| bolt.science  | available | $11.99    | $11.99        | medium         | medium | 4      | namesilo         |
+| golf.science  | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC    |
+| bay.science   | premium   | $625      | $81.25        | low            | low    | 3      | name.com         |
+| born.science  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
+| name.science  | resell    | —         | —             | high           | high   | 4      | Porkbun          |
+| BJP.science   | premium   | $625      | —             | medium         | low    | 3      | name.com         |
+| brag.science  | available | $11.99    | $11.99        | high           | low    | 4      | namesilo         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
