@@ -1,10 +1,10 @@
-# Available .SCIENCE One-Word Domains (13,965)
+# Available .SCIENCE One-Word Domains (22,725)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C965%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C725%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .science one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,965 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,725 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,965 domains · **Median ask:** $508.28 · **High-demand under $2,500:** 15
+**Public extract:** 1,000 rows · **Live catalog:** 22,725 domains · **Median ask:** $514.82 · **High-demand under $2,500:** 30
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-27
 **Canonical page:** `https://unique.domains/domains/tld/science`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
-| nature.science    | premium   | $13,000   | $130          | high           | low    | 6      | namecheap                     |
-| trip.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| trial.science     | premium   | $3,250    | $130          | high           | low    | 5      | namecheap                     |
-| vitamin.science   | premium   | $640      | $77.35        | high           | low    | 7      | namesilo                      |
-| influence.science | premium   | $640      | $77.35        | high           | low    | 9      | namesilo                      |
-| seafood.science   | premium   | $116      | $29.50        | high           | low    | 7      | namesilo                      |
-| economy.science   | premium   | $1,107    | $116          | high           | low    | 7      | namesilo                      |
-| drink.science     | premium   | $1,107    | $116          | high           | low    | 5      | namesilo                      |
-| acts.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| frog.science      | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.               |
-| ale.science       | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| also.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| golf.science      | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                 |
-| ann.science       | premium   | $625      | —             | high           | low    | 3      | name.com                      |
-| area.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| hard.science      | resell    | —         | —             | high           | low    | 4      | NameSilo, LLC                 |
-| ape.science       | premium   | $625      | $81.25        | high           | low    | 3      | name.com                      |
-| asat.science      | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                      |
-| taiwan.science    | resell    | —         | —             | high           | high   | 6      | West263 International Limited |
-| ash.science       | premium   | $625      | —             | high           | low    | 3      | name.com                      |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| agon.science     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap                                           |
+| junk.science     | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC                                    |
+| acc.science      | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                            |
+| airs.science     | available | $11.99    | $11.99        | high           | low    | 4      | namesilo                                            |
+| ring.science     | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                    |
+| axe.science      | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| aken.science     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap                                           |
+| sell.science     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                    |
+| bai.science      | premium   | $650      | $84.50        | high           | low    | 3      | namecheap                                           |
+| alky.science     | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                                            |
+| pants.science    | resell    | —         | —             | high           | low    | 5      | Porkbun                                             |
+| bib.science      | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                            |
+| amen.science     | available | $12.98    | $16.98        | high           | low    | 4      | namecheap                                           |
+| orange.science   | resell    | —         | —             | high           | high   | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| cfo.science      | premium   | $640      | $77.35        | high           | low    | 3      | namesilo                                            |
+| andy.science     | available | $11.99    | $11.99        | high           | medium | 4      | namesilo                                            |
+| informed.science | resell    | —         | —             | high           | low    | 8      | Porkbun                                             |
+| dew.science      | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
+| aras.science     | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo                                            |
+| eat.science      | premium   | $625      | —             | high           | low    | 3      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,965 live domains                        |
+| 1,000-row public sample | 22,725 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 15 high-demand names under $2,500          |
+| Basic exported fields   | 30 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SCIENCE One-Word Domains*. Version 2026-09-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
