@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 2e24950a-dcec-426f-9172-7b5edc9fe310,passbook.science,premium,448,53.92,medium,low,8,namesilo,,,22/09/2026 02:44
 4c88d859-968f-49ef-ac06-1efffa16f48a,anglian.science,available,11.99,11.99,medium,low,7,namesilo,,,19/09/2026 06:48
+74b02797-09df-4d0a-9038-ecb1f9061deb,utc.science,premium,640,77.35,medium,low,3,namesilo,,,28/09/2026 09:27
 67adc1de-52cb-4ab6-a10c-3634620f304e,end.science,premium,640,77.35,high,low,3,namesilo,,,19/09/2026 15:33
 65f021fe-8366-4121-9c4b-8f877b48f659,aftertaste.science,available,11.99,11.99,high,low,10,namesilo,,,17/09/2026 15:52
 aa2ae6a8-904e-44b5-a031-297ed0204ab7,ninth.science,available,11.99,11.99,high,low,5,namesilo,,,
@@ -25,6 +26,7 @@ a575a2de-aa44-4402-93dd-37e919fee8c5,mousy.science,available,11.99,11.99,medium,
 d0911a6e-e049-4e02-960d-bf8ca9724d34,moneymakers.science,available,12.98,16.98,medium,low,11,namecheap,,,20/09/2026 18:20
 e7085759-ef32-4336-972d-a4fc745fbcfb,aired.science,available,11.99,11.99,high,low,5,namesilo,,,
 67f53171-faa4-4234-b297-79b336fbc333,costal.science,available,11.99,11.99,high,low,6,namesilo,,,13/08/2026 03:04
+1b35fdd7-f529-4fd0-b8c8-f609fcc0daf1,shia.science,available,11.99,11.99,medium,low,4,namesilo,,,29/09/2026 02:12
 d80b7b41-3167-490d-b07e-361d68cdb162,operatic.science,available,11.99,11.99,medium,low,8,namesilo,,,04/09/2026 16:24
 e4ced930-63f3-4ed4-a59e-3a9ca7b9b47c,pelvic.science,available,11.99,11.99,high,low,6,namesilo,,,08/09/2026 13:42
 152a5b32-63b5-467a-b76b-0633e8f5cb57,bent.science,available,11.99,11.99,medium,low,4,namesilo,,,09/08/2026 14:16
@@ -41,11 +43,13 @@ a3d9c2fa-5dca-45fe-8ed0-348f229c3db8,ferguson.science,available,12.98,16.98,high
 8c65570b-b501-43f6-bd06-2557134e40bf,dutiful.science,available,11.99,11.99,high,low,7,namesilo,,,14/08/2026 21:39
 665e9c53-2e5b-4c7b-8682-bbb2a55e80fe,dispersed.science,available,11.99,11.99,medium,low,9,namesilo,,,14/08/2026 11:56
 782f8e20-06e4-4837-b259-0e97375e5e02,capture.science,premium,3450,116,high,low,7,namesilo,,,24/09/2026 12:42
+6b1883ed-4690-443b-af2c-dcb58b307679,cba.science,premium,546.35,71.48,high,low,3,porkbun,,,28/09/2026 21:48
 0be0a92f-8888-42ae-adf8-a4cafdf9e9c6,derriere.science,available,11.99,11.99,low,low,8,namesilo,,,09/08/2026 11:55
 93613c7f-46d8-4e12-a859-5af8df0a1892,rocambole.science,available,11.99,11.99,medium,low,9,namesilo,,,18/09/2026 11:33
 9c747a83-7289-4e52-a35b-6f21fd007dec,leaders.science,premium,6250,,high,low,7,name.com,,,
 6604a990-c9a5-4019-ac51-d55b2e512cf3,aranyaka.science,available,11.99,11.99,medium,low,8,namesilo,,,20/09/2026 00:08
 f902cb64-1767-4b6a-9902-44a7fdba5cd6,embryonic.science,available,11.99,11.99,medium,low,9,namesilo,,,16/08/2026 13:28
+d1294f9a-9d86-4a49-83e9-9961b26c637c,percentage.science,premium,,,high,low,10,,,,28/09/2026 15:02
 3dcff9cf-ae00-4c85-a3c3-bb3eb27a008b,justification.science,premium,1107,116,medium,low,13,namesilo,,,
 a50edc0c-82f0-4607-b7ed-4e398e796837,withdrawn.science,premium,116,29.5,medium,low,9,namesilo,,,22/08/2026 03:25
 3f5369e5-0ea0-4dfb-9a1d-c194ec82aa75,letting.science,available,11.99,11.99,high,low,7,namesilo,,,09/09/2026 14:21
@@ -54,8 +58,10 @@ be4b38d8-0870-41ff-9788-d8fc103eec42,dickens.science,premium,625,,high,low,7,nam
 984e68c6-58f0-44ce-99bd-b37f20734a53,designs.science,premium,640,77.35,high,low,7,namesilo,,,28/09/2026 04:06
 187b210c-dcbb-41bf-b78d-038219b4fddf,ghz.science,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 13:41
 277e767f-4988-45fe-9c17-ece68acc97ec,abortus.science,available,11.99,11.99,medium,low,7,namesilo,,,16/09/2026 16:40
+38a2a834-d097-402d-9e75-1f4ef259b920,displayed.science,premium,,,medium,low,9,,,,28/09/2026 21:19
 570893c1-0cfa-4a58-a257-981fb50e885b,bourgeois.science,available,11.99,11.99,high,medium,9,namesilo,,,10/08/2026 22:45
 5430f822-47ca-4794-bd72-a6e26b260890,plainly.science,premium,1300,130,high,low,7,namecheap,,,08/09/2026 20:28
+42d04a89-49d7-486a-bbab-2d71cadfb73a,pike.science,available,10.53,10.53,high,low,4,spaceship,,,28/09/2026 14:07
 f1d92cdb-5d03-4325-bf07-44a2448bc4bb,argonon.science,available,11.99,11.99,medium,low,7,namesilo,,,20/09/2026 04:42
 c1de68a0-b5b4-4315-ae2e-345a6dfa4ae3,anxiety.science,premium,640,77.35,high,low,7,namesilo,,,19/09/2026 15:59
 3dbdf002-eb50-4363-8aef-ed7add83b69e,candied.science,available,11.99,11.99,medium,low,7,namesilo,,,11/08/2026 16:48
@@ -71,11 +77,12 @@ ae9cdda8-704f-4e34-bbef-07a3ef735c80,isosceles.science,premium,437.5,62.5,medium
 d7063663-f4ed-4041-b742-334f30eb651a,aston.science,available,10.9,10.9,high,low,5,dynadot,,,28/09/2026 07:29
 633638f6-ccf8-44c4-9e8b-607fd3ec6f5a,germanic.science,available,11.99,11.99,high,low,8,namesilo,,,18/08/2026 22:46
 9948f994-f985-4e82-8ab5-fabe32250a55,dreaming.science,premium,1107,116,high,low,8,namesilo,,,24/09/2026 23:58
+31ce82c3-aafa-4367-951b-042511e84774,flows.science,premium,116,29.5,medium,low,5,namesilo,,,28/09/2026 22:43
 207a2791-7f56-440d-adc8-98e78a50248b,billhook.science,available,11.99,11.99,medium,low,8,namesilo,,,23/09/2026 16:21
 0aa156d1-ffbb-458f-9137-6b57836cb32c,shady.science,premium,3125,125,high,low,5,name.com,,,18/08/2026 09:37
 f182a2d6-ef92-4983-b12e-5b28295c861d,included.science,premium,116,29.5,high,low,8,namesilo,,,22/08/2026 01:33
 9a016029-8bfe-41dd-a0c3-b480530bafe0,theocratic.science,available,11.99,11.99,medium,low,10,namesilo,,,11/09/2026 12:52
-c42a76de-5bb6-4821-a05b-d6614296f4ef,candy.science,premium,640,77.35,high,medium,5,namesilo,,,25/09/2026 22:17
+c42a76de-5bb6-4821-a05b-d6614296f4ef,candy.science,premium,650,84.5,high,medium,5,namecheap,,,28/09/2026 14:55
 c447e05e-0abe-4776-aa98-274f4d6862cf,armlet.science,available,12.98,16.98,medium,low,6,namecheap,,,20/09/2026 06:20
 de5e187e-421b-4991-8c5c-40741d6351b5,lil.science,premium,640,77.35,high,low,3,namesilo,,,27/09/2026 06:06
 06cd4ecb-5602-4118-8fd0-c86035bf1736,floodlit.science,available,11.99,11.99,medium,low,8,namesilo,,,18/08/2026 08:47
@@ -87,10 +94,12 @@ f23ab8e1-a3cc-4375-ac5a-baa212cf9231,lightless.science,available,11.99,11.99,med
 e02920e8-aa02-443f-a113-665866f90a5d,farmstand.science,premium,437.5,,medium,low,10,name.com,,,
 27df4748-4557-47e3-97a9-11523eda838e,afresh.science,premium,455,65,medium,low,6,namecheap,,,13/09/2026 18:01
 e4f5a41a-ec3a-48c0-840c-86571455a05a,bitchy.science,premium,625,81.25,medium,low,6,name.com,,,10/08/2026 07:17
+9708d536-9702-4311-86ee-75439b791ed6,proceeds.science,available,11.99,11.99,high,low,8,namesilo,,,29/09/2026 01:54
 9081ed79-f62e-47ee-a9a3-03357165728f,attilio.science,available,11.99,11.99,medium,low,7,namesilo,,,21/09/2026 01:49
 76ef0da7-1d0f-47ff-836f-2bae3327462e,sse.science,premium,640,77.35,high,low,3,namesilo,,,16/09/2026 05:18
 8b3af53e-0b6d-4d11-86ce-939c96fcc46c,reads.science,available,11.99,11.99,high,low,5,namesilo,,,19/09/2026 00:45
 9a870fe8-5594-4cf0-8422-49e50204ff88,druggist.science,available,12.98,16.98,high,low,8,namecheap,,,19/09/2026 19:38
+0729c4e6-25f6-49d7-8345-2b9883670ec0,novelty.science,premium,3450,116,high,low,7,namesilo,,,29/09/2026 02:33
 24f0dd27-c22f-4416-9e94-566c65868787,denise.science,available,12.98,16.98,medium,low,6,namecheap,,,25/09/2026 14:19
 c38d109a-32f5-439b-9e90-9550e0366514,charleston.science,available,11.99,11.99,high,low,10,namesilo,,,
 e3698da0-d715-4342-bf7a-0d3d3fbc5d32,curtly.science,available,11.99,11.99,medium,low,6,namesilo,,,14/09/2026 10:10
@@ -99,6 +108,7 @@ e896868c-b276-48a7-9192-807db220fb25,astuteness.science,available,12.98,16.98,hi
 de2d4291-7478-4b2f-9ee5-521167780386,abnormalcy.science,available,11.99,11.99,medium,low,10,namesilo,,,16/09/2026 16:19
 91a50d5c-370a-45d2-896c-74037ef0a84c,nostalgic.science,premium,1107,116,high,low,9,namesilo,,,03/09/2026 21:59
 e29c0137-62b4-423c-bcb1-2de0712a06df,palliative.science,available,11.99,11.99,high,low,10,namesilo,,,
+27272cae-74bd-4c62-970c-911e1095fa39,kissinger.science,available,10.9,10.9,medium,low,9,dynadot,,,28/09/2026 10:01
 18ca2e90-7bf6-4978-b9c6-e501cdc466b1,beaujolais.science,premium,448,53.92,high,low,10,namesilo,,,22/09/2026 22:13
 0b56b08d-f525-4f9c-b3c1-24138708182d,musically.science,premium,448,53.92,high,low,9,namesilo,,,15/09/2026 15:43
 9e09824f-aca6-4c56-befe-27e41a3ef6bc,notecase.science,available,11.99,11.99,medium,low,8,namesilo,,,23/09/2026 16:18
@@ -112,13 +122,14 @@ f65cc4a8-6397-499d-8c52-7da669a7591a,admit.science,premium,116,29.5,high,low,5,n
 f026ec3d-487c-4370-a86c-9d7e852da232,sophie.science,available,11.99,11.99,high,low,6,namesilo,,,25/09/2026 11:44
 28c5b010-04aa-4ca7-9c6b-7d32ed2f54d0,cleanup.science,premium,1107,116,high,low,7,namesilo,,,12/08/2026 10:26
 2b2a089b-3823-4406-90b9-593cfaf00153,militant.science,premium,125,37.99,high,low,8,name.com,,,
-8d99260e-a71a-485d-b9d5-5c340b7181b0,upward.science,premium,625,,high,low,6,name.com,,,
+8d99260e-a71a-485d-b9d5-5c340b7181b0,upward.science,premium,640,77.35,high,low,6,namesilo,,,28/09/2026 09:54
 7ed6cc37-51fd-4085-9f0d-48281e890e8f,bavarian.science,premium,437.5,62.5,medium,low,8,name.com,,,09/08/2026 02:00
 9a82298f-ca87-46fd-b0d5-136812c2daa6,enable.science,premium,3125,,high,low,6,name.com,,,
 a1c0af7d-7db2-4199-9498-0b77f9ab86b3,inka.science,available,11.99,11.99,medium,low,4,namesilo,,,22/08/2026 00:48
 afb2d88b-bc91-4090-8f8a-8f884f0631fb,reputedly.science,available,11.99,11.99,medium,low,9,namesilo,,,15/09/2026 23:20
 abd44fbc-61ab-48ac-ab32-08a30fa347e4,civilization.science,premium,1107,116,high,low,12,namesilo,,,27/09/2026 07:12
 d4d8cd3c-06df-4cfc-b054-dbacfe5f059b,neighbour.science,available,11.99,11.99,high,low,9,namesilo,,,
+0c48c379-6df7-434f-8b95-49775841cef6,via.science,premium,640,77.35,high,medium,3,namesilo,,,28/09/2026 15:38
 77d5727c-c199-4fe5-b891-826c27692f30,anguis.science,available,11.99,11.99,medium,low,6,namesilo,,,19/09/2026 07:34
 a110feee-a0eb-432e-81be-cb395087d5e0,bride.science,available,11.99,11.99,high,low,5,namesilo,,,24/09/2026 10:31
 72764de9-7435-44bb-bd80-ceea3b5a7560,anaheim.science,premium,116,29.5,high,low,7,namesilo,,,19/09/2026 01:31
@@ -147,13 +158,15 @@ a4bf614c-cd82-46cd-8048-5dfe544168b2,kurds.science,available,11.99,11.99,medium,
 ac10f795-f8c5-4997-bb68-89db3cfcb64a,mention.science,premium,625,,high,low,7,name.com,,,
 ed416fc7-a200-449b-8c9e-a0f251da0cda,deadly.science,premium,3450,116,medium,low,6,namesilo,,,22/09/2026 16:43
 ae8b6719-73a3-43a9-a641-b8a9bae24701,handsomely.science,available,11.99,11.99,high,low,10,namesilo,,,14/09/2026 22:57
+87d2ef6b-013e-4ed6-8475-95c910db2738,encouragement.science,available,10.18,10.18,medium,low,13,cloudflare,,,28/09/2026 22:35
 86df1c74-891a-4a60-8444-d62ac848c80b,audible.science,premium,116,29.5,high,high,7,namesilo,,,22/09/2026 12:34
+fcf0005a-d16d-4a5a-9eca-7654078e7ab9,allan.science,available,10.53,10.53,high,low,5,spaceship,,,28/09/2026 16:24
 e71371d8-3577-4b0e-a83f-c3210eaa285d,innate.science,premium,1107,116,high,low,6,namesilo,,,12/08/2026 21:44
 180f48ad-480d-48bf-9965-dbba79269f3c,johnstone.science,premium,116,29.5,medium,low,9,namesilo,,,27/09/2026 23:26
 021519ac-7543-4204-a831-6cabd70db4a1,categorically.science,premium,1107,116,medium,low,13,namesilo,,,
 53f93249-a281-4fec-a2bc-6ffd8ee7a3a4,lara.science,available,10.9,10.9,high,low,4,dynadot,,,27/09/2026 19:35
 6787a99e-3eec-4358-8645-8c781ca54d8f,reasonably.science,available,11.99,11.99,medium,low,10,namesilo,,,25/09/2026 11:58
-0a333159-bd01-4e1f-ad4a-3e9cab8d1471,asking.science,available,11.99,11.99,high,low,6,namesilo,,,
+0a333159-bd01-4e1f-ad4a-3e9cab8d1471,asking.science,available,11.99,11.99,high,low,6,namesilo,,,28/09/2026 22:40
 bf00a0c7-6c55-4c21-bd46-148791f5ac69,hodgson.science,premium,362.45,51.95,medium,low,7,spaceship,,,28/09/2026 04:09
 3c1556aa-3bc5-47ce-8f23-646c777e0375,army.science,available,12.98,16.98,high,low,4,namecheap,,,20/09/2026 07:50
 f693b8bf-1ec1-4dbc-abbe-097de1612ae2,instinct.science,premium,116,29.5,high,medium,8,namesilo,,,22/08/2026 07:36
@@ -162,7 +175,6 @@ dfa2ead9-ffb7-4876-9b46-af3a4d8b1e57,tewkesbury.science,premium,116,29.5,medium,
 a5dbc6f3-0f82-474e-9915-5907b180ba6d,risible.science,available,12.98,16.98,medium,low,7,namecheap,,,12/08/2026 19:02
 4a25d7b8-1b18-4bb3-96c3-81d55283a693,adulthood.science,available,11.99,11.99,high,low,9,namesilo,,,17/09/2026 10:25
 40807559-3286-43e6-8454-753f648b3d78,shaper.science,premium,437.5,,high,low,6,name.com,,,
-d85ae4ab-a151-492c-af84-b9e47daeaba9,bolt.science,available,11.99,11.99,high,medium,4,namesilo,,,
 a88c2909-6fb6-40b3-ac77-5cffd0b36968,brit.science,available,11.99,11.99,high,low,4,namesilo,,,11/08/2026 04:52
 614d3145-7e53-428f-a30e-c57ce482f6c7,crybaby.science,available,11.99,11.99,medium,low,7,namesilo,,,23/09/2026 06:47
 9844b1e0-33f5-40a0-b419-e5f5ea709a9a,threshold.science,premium,1107,116,high,low,9,namesilo,,,24/09/2026 10:33
@@ -170,11 +182,13 @@ a88c2909-6fb6-40b3-ac77-5cffd0b36968,brit.science,available,11.99,11.99,high,low
 1736198d-0ca6-4118-9e25-d439e14d9a73,louise.science,available,11.99,11.99,high,low,6,namesilo,,,25/09/2026 13:47
 dcb03805-1429-492f-ac53-b64d6915d250,validated.science,available,11.99,11.99,high,low,9,namesilo,,,13/09/2026 00:59
 fe8aac76-81cb-434a-97b0-ce7631b3dba3,changeable.science,available,11.99,11.99,medium,low,10,namesilo,,,12/08/2026 01:51
+c74af403-4f6b-4bac-8a4c-56719d2bf2ff,trujillo.science,premium,110,27.5,medium,low,8,dynadot,,,28/09/2026 16:38
 49f10fa6-72a0-4ef2-96bd-1f4c7f7cbdb9,cheryl.science,available,11.99,11.99,medium,low,6,namesilo,,,27/09/2026 07:16
 fbd49a5d-f8bb-4bca-83ac-79567e86907a,auricular.science,available,12.98,16.98,medium,low,9,namecheap,,,07/08/2026 17:46
 cf61133d-42f8-49ac-ac22-3ee6fc4da3bc,troop.science,available,11.99,11.99,high,low,5,namesilo,,,28/09/2026 02:58
 52e0a249-1f95-4683-9dce-abedb1e22b30,concluding.science,available,11.99,11.99,high,low,10,namesilo,,,19/09/2026 15:36
 b3be7f5e-2dba-48f4-84f0-215df548e57c,enactment.science,available,12.98,16.98,medium,low,9,namecheap,,,17/09/2026 04:06
+f425bbf4-ffa2-4c4a-bcaa-6a089999ba54,venue.science,premium,,,high,low,5,,,,29/09/2026 01:38
 bb8dbef6-c7b3-4614-83d7-8737a2b36d7a,bumpkin.science,premium,437.5,62.5,medium,low,7,name.com,,,21/08/2026 08:07
 8af7fd62-f64a-4b92-afc5-d520291809c1,harijan.science,available,11.99,11.99,medium,low,7,namesilo,,,12/09/2026 21:38
 ab653202-dcbe-4273-a7f8-d2554ff34b67,rust.science,available,11.99,11.99,high,medium,4,namesilo,,,27/09/2026 17:39
@@ -183,6 +197,9 @@ ab653202-dcbe-4273-a7f8-d2554ff34b67,rust.science,available,11.99,11.99,high,med
 54e40c20-4a7b-4f3f-8701-8b4a9b5fb68d,americana.science,available,12.98,16.98,high,low,9,namecheap,,,18/09/2026 21:03
 321eae59-00eb-4436-9d21-353848b5e19b,scandal.science,premium,1107,116,high,low,7,namesilo,,,
 5103e395-9818-4961-90d6-d73c7abb4810,fecund.science,available,11.99,11.99,medium,low,6,namesilo,,,18/08/2026 00:34
+7ea9f3cf-b600-400e-a978-892b2de48309,herod.science,available,10.53,10.53,medium,low,5,spaceship,,,28/09/2026 14:26
+bb3608e9-e1a9-42a9-ba9a-0f0b95c99d76,patti.science,premium,448,53.92,medium,low,5,namesilo,,,28/09/2026 12:07
+23699e81-d6df-4d0d-894c-1b19a6b76f29,assassination.science,available,10.53,10.53,medium,low,13,spaceship,,,28/09/2026 11:16
 dbf12076-7920-4a00-8fdb-bd955f47e722,triplet.science,premium,437.5,62.5,medium,low,7,name.com,,,
 25a56e25-21d6-457f-accf-f23a4fb4c110,bioethics.science,premium,1300,130,high,low,9,namecheap,,,23/09/2026 17:56
 03856e17-b054-4aa3-8a93-b4d694f0e438,unabridged.science,available,11.99,11.99,high,low,10,namesilo,,,11/09/2026 23:28
@@ -190,6 +207,8 @@ e226b66c-98c4-4a42-b13a-674ad4f7de7f,allele.science,available,12.98,16.98,high,l
 dc834d58-3f43-410e-8443-4f5bf819102a,bassoonist.science,available,11.99,11.99,medium,low,10,namesilo,,,22/09/2026 12:33
 46ecf63a-27b0-43ee-ba79-77c10c6f1713,bai.science,premium,650,84.5,high,low,3,namecheap,,,21/09/2026 18:49
 83200273-a7cd-436a-b32a-5f55870aca53,unblessed.science,available,11.99,11.99,medium,low,9,namesilo,,,12/09/2026 02:14
+3ec69894-6f8e-4e38-91c3-a8e34505352b,vincennes.science,available,12.98,16.98,medium,low,9,namecheap,,,28/09/2026 22:26
+a1df2b29-b5da-469a-9006-0635598b069b,cartagena.science,premium,116,29.5,medium,low,9,namesilo,,,29/09/2026 00:21
 ebdddbd8-e745-48b7-ac5f-c5989dfb5be9,puku.science,available,11.99,11.99,medium,low,4,namesilo,,,17/09/2026 07:35
 a2bfb012-ebee-47ed-827f-b8265f3e1b6b,bellbottom.science,available,11.99,11.99,low,low,10,namesilo,,,09/08/2026 13:21
 4f7ab39d-b50c-4c07-a287-3f2988b17ce2,vulvar.science,available,11.99,11.99,medium,low,6,namesilo,,,13/09/2026 07:29
@@ -222,6 +241,7 @@ ad76b9f7-1e57-49ca-abb6-5742d33de19b,unlovely.science,available,11.99,11.99,medi
 f2e8c981-3a80-4305-a65e-502b54630014,estimates.science,premium,640,77.35,medium,low,9,namesilo,,,20/09/2026 04:10
 1f374fba-b671-49f5-80b8-f5bab95efd8c,hispanic.science,premium,116,29.5,high,low,8,namesilo,,,21/08/2026 09:44
 bc0a4de3-427c-4fc2-8bf3-ac46d5d1ab18,simian.science,premium,1107,116,high,medium,6,namesilo,,,10/09/2026 08:14
+3816b3f5-63f4-4c28-b4ab-7f1b800becf0,luz.science,premium,517.7,67.48,medium,low,3,spaceship,,,28/09/2026 21:47
 a13c25cc-94d6-41f3-b2fd-988b2f96350d,corpse.science,premium,116,29.5,medium,low,6,namesilo,,,25/09/2026 22:01
 9598c31d-4aa6-4b85-b38e-5f0596b1e98b,planted.science,available,12.98,16.98,high,low,7,namecheap,,,24/09/2026 04:59
 7cbef22a-ba06-49e9-944c-39d570abe4b7,contorted.science,available,11.99,11.99,medium,low,9,namesilo,,,12/08/2026 23:22
@@ -240,6 +260,7 @@ e16382a8-6075-445f-b868-cdb9dd257316,haircuts.science,available,11.99,11.99,medi
 c886bfc1-ddf7-448b-9b7d-273426a6fbcf,restriction.science,premium,625,,high,low,11,name.com,,,
 eaa11b08-ba85-4845-8963-4cfdee1cd936,gleefully.science,available,12.98,16.98,medium,low,9,namecheap,,,14/09/2026 21:28
 a5d0ab38-ce91-4f2b-af4a-5bc0135c97c9,explosion.science,premium,3450,116,medium,low,9,namesilo,,,25/09/2026 21:57
+afbc6e9f-3c7d-444e-b804-22c5ad730197,ferris.science,available,10.53,10.53,medium,low,6,spaceship,,,28/09/2026 22:04
 45a6c1c9-5ba0-4b22-add5-a859d3a89992,daft.science,available,11.99,11.99,high,low,4,namesilo,,,06/08/2026 20:50
 91a1032c-8156-43d0-aa9a-3e554543ef55,luteal.science,available,11.99,11.99,medium,low,6,namesilo,,,24/08/2026 12:07
 db5a2ac8-529a-4cc2-91c2-aaecf43cedb8,andreas.science,available,11.99,11.99,high,low,7,namesilo,,,25/09/2026 13:21
@@ -269,6 +290,7 @@ b78c72c6-bd53-4c6d-95b9-8859337b03cd,carrying.science,available,11.99,11.99,high
 ac783b2a-35b8-46b4-a725-a4e64dc72b18,toothsome.science,available,11.99,11.99,medium,low,9,namesilo,,,14/08/2026 00:24
 40e04de6-f96b-4b77-8b75-d5771ce6b53e,neapolitan.science,premium,448,53.92,medium,low,10,namesilo,,,03/09/2026 14:18
 0c7b7c06-9e46-4658-910c-f8bd1a9302ab,olson.science,available,12.98,16.98,medium,low,5,namecheap,,,27/09/2026 01:46
+a0674d5a-c24d-47d4-9a86-932b7b58bf54,intercepted.science,available,10.53,10.53,medium,low,11,spaceship,,,28/09/2026 23:49
 eab07f61-ab96-479b-9e3d-ba6df34784a7,barefooted.science,available,12.98,16.98,medium,low,10,namecheap,,,08/08/2026 18:59
 4c961ef9-65d6-4a68-8aa0-aea8defe334e,unexciting.science,available,11.99,11.99,medium,low,10,namesilo,,,12/09/2026 09:32
 c7dea35f-aeb4-4a60-96ec-23d4b07dd21f,healthful.science,premium,437.5,62.5,high,low,9,name.com,,,21/08/2026 02:02
@@ -290,12 +312,16 @@ f9a00f2e-d1ea-4117-bf1d-5423db87cbf3,windmill.science,available,11.99,11.99,high
 e99068aa-285c-4b0b-8a22-613e88fed3b6,dorothea.science,premium,362.45,51.95,medium,low,8,spaceship,,,28/09/2026 07:54
 97efe195-c913-453e-923d-2afeeca0d6f3,offsides.science,premium,448,53.92,medium,low,8,namesilo,,,04/09/2026 01:40
 8ef2c76d-9782-4472-a04e-bbc801bdd3df,specular.science,available,11.99,11.99,medium,low,8,namesilo,,,25/08/2026 01:15
+1d6c2ef2-90c6-4268-a838-28632bc3250e,launching.science,premium,2587.7,103.7,high,low,9,spaceship,,,29/09/2026 00:37
+5a270716-9dee-4549-a778-3b6aa3ba2335,elise.science,available,11.99,11.99,medium,low,5,namesilo,,,28/09/2026 21:52
 fa4984bb-f6f0-472f-a103-e22cf5ba0fbd,birthplace.science,available,12.98,16.98,high,low,10,namecheap,,,23/09/2026 21:18
 627fca91-7f30-4ee3-b720-5a3bec568c2c,intestinal.science,available,11.99,11.99,medium,low,10,namesilo,,,04/09/2026 08:14
 46d8d615-158f-4fe7-88fd-b142ac9bf5c1,cochlear.science,premium,437.5,62.5,medium,low,8,name.com,,,12/08/2026 14:45
 d5cc9080-9700-439c-8695-06b32dd48589,kings.science,available,11.99,11.99,high,low,5,namesilo,,,27/09/2026 07:24
+c89bb365-100b-4537-b349-8d7078735c79,mantle.science,premium,103.7,26.08,medium,low,6,spaceship,,,28/09/2026 18:42
 c64d1e54-9fbb-4e0c-93a5-21c4e88d3732,flight.science,premium,3450,116,high,low,6,namesilo,,,24/09/2026 20:44
-be86783f-bfab-4b36-b71a-f6290f8dedb4,britain.science,premium,3125,,high,low,7,name.com,,,
+ffcda174-f4e4-4cfc-b506-79a92923c841,wuhan.science,premium,103.7,26.08,medium,low,5,spaceship,,,29/09/2026 02:39
+be86783f-bfab-4b36-b71a-f6290f8dedb4,britain.science,premium,2729.67,109.69,high,low,7,porkbun,,,29/09/2026 04:23
 814a1c7d-9c15-40cc-856b-2d6f6d1e1adb,cretaceous.science,available,11.99,11.99,medium,low,10,namesilo,,,13/08/2026 06:22
 bf2dc3f7-4154-4502-b4db-cdba89319e55,rolling.science,premium,1107,116,high,low,7,namesilo,,,19/09/2026 06:51
 e4135364-8f49-4c88-b637-24624b9997d1,eviction.science,available,11.99,11.99,high,low,8,namesilo,,,24/09/2026 17:35
@@ -329,7 +355,7 @@ ccd17120-e7bf-49e1-b6a7-90ebbce4108c,volunteer.science,premium,6500,130,high,low
 45dd5001-7cf7-416f-9c33-f1ee2c060172,semisolid.science,available,11.99,11.99,medium,low,9,namesilo,,,10/09/2026 03:26
 88ef1f43-4417-4f59-a454-5d15c6341f31,established.science,premium,6250,,high,low,11,name.com,,,
 ccabfe51-0b88-4b3c-92fa-a1af1db844d0,wizardly.science,premium,437.5,62.5,medium,low,8,name.com,,,24/08/2026 13:02
-5dc743d9-40ba-4e73-ad03-1c1ddfc3567b,briefing.science,premium,3125,,high,low,8,name.com,,,
+5dc743d9-40ba-4e73-ad03-1c1ddfc3567b,briefing.science,premium,3450,116,high,low,8,namesilo,,,29/09/2026 04:17
 fa6ea5ba-b365-485c-bf9c-76d647a77d66,coital.science,available,11.99,11.99,low,low,6,namesilo,,,12/08/2026 16:22
 162370ed-26b7-404d-950d-03b921618460,aggregates.science,available,10.18,10.18,medium,low,10,cloudflare,,,28/09/2026 08:51
 a8ba21b7-263f-4be6-8a8c-34922bce5057,emphasize.science,premium,1107,116,high,low,9,namesilo,,,16/09/2026 21:52
@@ -340,18 +366,21 @@ e56f5a9a-c2d5-40e5-b08a-3aa7fa741660,astringent.science,available,11.99,11.99,me
 b03ca42a-c342-4d01-a966-d5ecfa4a5709,cupping.science,available,34.99,37.99,high,low,7,name.com,,,24/09/2026 20:18
 d0bf0994-5055-4c21-b226-817d56b27cba,effective.science,premium,1107,116,high,low,9,namesilo,,,24/09/2026 13:31
 63698c16-962a-412b-8a41-6123fed94dfe,someway.science,available,11.99,11.99,medium,low,7,namesilo,,,15/09/2026 06:46
-17312633-2c52-497e-8306-343799b882fe,manages.science,available,11.99,11.99,medium,low,7,namesilo,,,25/09/2026 05:29
+09b80daa-69c2-4ea9-bad5-c6628e9d3d73,mannheim.science,premium,116,29.5,high,low,8,namesilo,,,28/09/2026 10:19
+17312633-2c52-497e-8306-343799b882fe,manages.science,available,10.18,10.18,medium,low,7,cloudflare,,,28/09/2026 13:31
 d78a7f04-a05b-4651-ac93-ef8961809229,tactically.science,available,12.98,16.98,medium,low,10,namecheap,,,16/09/2026 07:46
 c9024cf8-1b58-43e3-8cf2-02b05869905e,entrancing.science,available,11.99,11.99,medium,low,10,namesilo,,,09/08/2026 18:23
 b9b372e1-8d14-4425-980c-d0b8b9be26bd,trembling.science,available,11.99,11.99,high,medium,9,namesilo,,,10/09/2026 06:41
+4db3ce2f-4b76-4c25-9e53-df147ce2ad3e,sigmund.science,available,11.99,11.99,high,low,7,namesilo,,,28/09/2026 11:40
 966a5371-01f8-4629-83a7-873585e34d51,shortages.science,available,11.99,11.99,medium,low,9,namesilo,,,21/09/2026 03:14
+1a691b2d-14d0-486b-9909-5cd8a725c087,stored.science,premium,,,low,low,6,,,,28/09/2026 17:31
 ac1aa2a3-0ec1-4237-8c61-957493839e67,vatic.science,available,11.99,11.99,low,low,5,namesilo,,,14/08/2026 13:52
 b0aa81bc-e1a3-4cf6-a460-fea4b59cbe0c,talked.science,available,12.98,16.98,medium,low,6,namecheap,,,18/09/2026 13:42
 4fb91987-21ec-4f31-be3f-4bebd4dc9d13,genetical.science,available,12.98,16.98,high,low,9,namecheap,,,18/08/2026 21:37
 da407b57-55fc-43fd-b9cf-a14b84e1f5bf,primal.science,premium,3125,125,high,low,6,name.com,,,11/08/2026 18:56
-1fcee0ec-7c34-4250-87b8-fddea845827c,bunny.science,available,11.99,11.99,high,low,5,namesilo,,,
-77ccc297-a41e-4ca7-b14d-44b57a10e254,medicine.science,premium,13000,130,high,low,8,namecheap,,,25/09/2026 22:51
+77ccc297-a41e-4ca7-b14d-44b57a10e254,medicine.science,premium,13800,116,high,low,8,namesilo,,,28/09/2026 15:30
 a9c5fcbe-e309-491e-9623-b74ef345064d,city.science,available,,,high,medium,4,,,,
+720f0a72-ff71-4305-bdbd-fa3daa02889f,fern.science,available,12.98,16.98,high,low,4,namecheap,,,29/09/2026 00:53
 d1abc0f6-eacd-47fe-be5d-7fb729bf3467,shovels.science,available,34.99,37.99,medium,low,7,name.com,,,20/09/2026 10:22
 16d42efa-8458-4574-a927-2e7b4bc0e541,helmet.science,available,11.99,11.99,high,low,6,namesilo,,,25/09/2026 23:05
 09773884-45d6-4634-a397-30439175f2db,colonel.science,available,11.99,11.99,high,low,7,namesilo,,,27/09/2026 03:33
@@ -372,12 +401,15 @@ a0122490-32d9-4956-9401-bf6e5b78a252,wooly.science,premium,437.5,62.5,high,low,5
 fee23960-6515-4749-b50f-2ad74af60bf1,elan.science,available,11.99,11.99,high,low,4,namesilo,,,20/09/2026 03:17
 90dfdc79-9457-4c0d-86cb-02b8505721c6,rapturous.science,available,11.99,11.99,high,low,9,namesilo,,,14/08/2026 23:48
 5471d3ee-6f2d-4340-8089-f74a830bdf57,executives.science,premium,1300,130,high,low,10,namecheap,,,21/09/2026 01:35
+fcf9bfb2-8005-41de-804f-176e28200522,pumps.science,premium,110,27.5,medium,low,5,dynadot,,,28/09/2026 17:44
 60ffd794-2dd3-4c02-9e64-4c193f20ccf2,plunge.science,available,12.98,16.98,high,low,6,namecheap,,,10/09/2026 19:52
 396f487d-a336-44cf-8052-3606b8636a67,beanball.science,available,12.98,16.98,medium,low,8,namecheap,,,22/09/2026 20:24
 788b54cb-740a-463b-a6b5-bf378a521b2e,implied.science,premium,1107,116,high,low,7,namesilo,,,
 83ead89c-7bfc-4576-bc04-44f3f99bb4ac,accountability.science,premium,116,29.5,high,low,14,namesilo,,,
 f4a085e4-ba6f-4a05-803f-cb0651776758,dispatch.science,premium,1107,116,high,low,8,namesilo,,,04/09/2026 00:56
 1895e39f-8ee7-42a7-90bb-c016c289b2ea,mistreat.science,available,12.98,16.98,medium,low,8,namecheap,,,16/09/2026 19:06
+8249dcf6-4ac3-4f87-9024-b27f7336da4c,cobb.science,available,10.53,10.53,medium,low,4,spaceship,,,28/09/2026 15:39
+63569e5c-f439-461b-ba15-0ade6da15cae,shan.science,available,11.99,11.99,high,low,4,namesilo,,,28/09/2026 15:19
 8eb18c81-ab68-49db-86da-eb145c8b3105,comparably.science,available,11.99,11.99,medium,low,10,namesilo,,,14/09/2026 07:37
 17940aaf-1567-4905-81b6-d78b63facba9,confidence.science,premium,640,77.35,high,low,10,namesilo,,,20/09/2026 16:46
 5a203535-34c2-45c7-8bcc-2be3be61a805,wanderer.science,premium,455,65,high,low,8,namecheap,,,23/09/2026 20:11
@@ -388,11 +420,11 @@ f4a085e4-ba6f-4a05-803f-cb0651776758,dispatch.science,premium,1107,116,high,low,
 ad95bbac-2011-46e6-b81b-677a86daafc2,exodus.science,available,11.99,11.99,high,low,6,namesilo,,,24/09/2026 06:52
 c76d65dd-60b1-4300-aae5-de951cb3137c,osborn.science,premium,448,53.92,high,low,6,namesilo,,,27/09/2026 07:58
 a62d0f4f-ceeb-4894-8532-0ab54661b91c,adenine.science,available,11.99,11.99,medium,low,7,namesilo,,,17/09/2026 07:24
-42516098-843e-46b6-9a56-838312c8bf65,airline.science,premium,3125,,high,low,7,name.com,,,
+42516098-843e-46b6-9a56-838312c8bf65,airline.science,premium,3250,130,high,low,7,namecheap,,,28/09/2026 19:37
 b8e83991-086d-486f-8f53-2b4bb324e732,aken.science,available,12.98,16.98,medium,low,4,namecheap,,,16/09/2026 13:08
 2d50283b-2b37-415b-b9e7-45269f43ea57,novice.science,premium,3450,116,high,low,6,namesilo,,,23/09/2026 02:23
 1a5e9034-f23f-4400-b2ff-777e1549e1f0,asexually.science,available,11.99,11.99,medium,low,9,namesilo,,,13/09/2026 22:03
-2ad4285e-9e04-4f21-83ef-10e4c003911c,hype.science,available,11.99,11.99,high,medium,4,namesilo,,,
+2ad4285e-9e04-4f21-83ef-10e4c003911c,hype.science,available,11.99,11.99,high,medium,4,namesilo,,,29/09/2026 00:50
 df58dadb-5aab-41e6-9fa0-2a46fc9e47e1,enzymatic.science,premium,437.5,62.5,medium,low,9,name.com,,,17/08/2026 10:08
 36d063d9-5ee8-486e-92fe-ce562629d054,whiney.science,available,11.99,11.99,medium,low,6,namesilo,,,09/09/2026 08:35
 138110c5-e09e-4333-9995-aa029f4a61f8,cathouse.science,premium,455,65,medium,low,8,namecheap,,,21/09/2026 18:24
@@ -400,13 +432,15 @@ b9e78596-907d-4ab9-a4a3-70b60570869d,libber.science,available,11.99,11.99,medium
 7bbf0c3b-c149-4332-a27c-6a4fef63d30b,buffalo.science,available,12.98,16.98,high,low,7,namecheap,,,18/09/2026 19:11
 3aaf5e5a-2e28-4cee-a665-446ca9763b36,wimp.science,available,12.98,16.98,medium,low,4,namecheap,,,24/09/2026 19:54
 9944b173-50c2-4ed0-86a5-48601e10b741,invincible.science,premium,1300,130,high,low,10,namecheap,,,25/09/2026 11:10
+0234638e-86f6-414c-9b18-9ffd989fb9ee,toledo.science,available,10.9,10.9,medium,low,6,dynadot,,,28/09/2026 15:28
 6929355c-d070-4973-893d-fd9093c89626,persistence.science,premium,116,29.5,high,low,11,namesilo,,,
 1fe8f791-30cd-4252-9303-a86c40aad659,sneeze.science,available,11.99,11.99,medium,low,6,namesilo,,,
 1ae7eba5-9f03-4fd0-b523-0534931a773e,wet.science,premium,640,77.35,high,low,3,namesilo,,,22/09/2026 19:43
 5de2ecd8-5810-4655-870d-0fd128021811,abatement.science,available,11.99,11.99,medium,low,9,namesilo,,,16/09/2026 14:09
+ca3ba44c-0505-4464-8cec-1d8224560552,catering.science,available,10.79,10.79,high,low,8,porkbun,,,28/09/2026 18:37
 f14b1e76-7da7-4dd0-be0e-906d15662690,unchained.science,premium,1107,116,high,low,9,namesilo,,,12/09/2026 04:54
 aa759f7b-95ce-4cf4-9c62-493570196bd7,nutbrown.science,available,11.99,11.99,medium,low,8,namesilo,,,03/09/2026 23:14
-63d34092-eda3-4a8d-b4fa-f57f614ca1ef,ring.science,resell,,,high,low,4,"GoDaddy.com, LLC",30/04/2019 16:11,30/04/2027 16:11,26/09/2026 08:41
+63d34092-eda3-4a8d-b4fa-f57f614ca1ef,ring.science,resell,,,high,low,4,"GoDaddy.com, LLC",30/04/2019 16:11,30/04/2027 16:11,28/09/2026 21:16
 724ee273-715e-4d15-a48c-3fcbadaeeefe,billabong.science,premium,448,53.92,high,medium,9,namesilo,,,23/09/2026 16:06
 664808e2-5795-4d23-b601-afa4300c8eb8,bearer.science,available,12.98,16.98,high,low,6,namecheap,,,22/09/2026 21:14
 26c77a06-997c-48fa-a8a8-a809042ed720,scream.science,premium,1035.2,103.7,high,low,6,spaceship,,,27/09/2026 18:35
@@ -418,19 +452,24 @@ c4d3f946-bf25-46f4-b953-85c28a8e87e7,systematically.science,premium,125,,medium,
 aa227790-96da-4280-a346-4485ebe04492,mckay.science,premium,448,53.92,high,low,5,namesilo,,,25/09/2026 16:25
 1e91ab4e-10b1-4699-bd7c-2bb59c331d02,practices.science,premium,3250,130,medium,low,9,namecheap,,,16/09/2026 19:21
 3cac5d07-5ff9-416e-a82d-29daa3710c66,boron.science,available,11.99,11.99,medium,low,5,namesilo,,,20/09/2026 23:12
+4b3f48b3-4a8e-4525-af08-095fd8a8c756,immigration.science,premium,103.7,26.08,high,low,11,spaceship,,,28/09/2026 17:22
 e6e9cb38-959c-444d-8b07-88d6924d4ebe,ledger.science,premium,3450,116,high,medium,6,namesilo,,,16/09/2026 23:06
 f2e88677-9c19-4f66-878f-b11ed244f7dd,september.science,available,11.99,11.99,high,low,9,namesilo,,,
+efd87bf6-954c-431f-98e5-3b5a4e0c5aba,flashing.science,available,10.18,10.18,medium,low,8,cloudflare,,,28/09/2026 19:14
 7e42a46b-44e8-4c61-8963-09419b58f10e,dozy.science,available,12.98,16.98,medium,low,4,namecheap,,,14/08/2026 18:06
 06fc423d-20ba-489c-9e7f-cea019673edc,apteryx.science,premium,448,53.92,medium,low,7,namesilo,,,19/09/2026 22:37
 2c97f4e2-1d51-4f7a-a0ec-3da61c39dc1e,alsatia.science,available,11.99,11.99,medium,low,7,namesilo,,,18/09/2026 14:16
 180dc68c-45d0-48b7-bc34-b38900a1ef95,spoke.science,available,11.99,11.99,high,low,5,namesilo,,,25/09/2026 10:31
 de16033d-40e1-4da6-bda1-cd276c9e6c1e,filar.science,available,11.99,11.99,medium,low,5,namesilo,,,18/08/2026 04:10
 be3bf5b7-f929-4820-a0b8-aabb2a457c10,drapes.science,available,11.99,11.99,high,low,6,namesilo,,,17/09/2026 07:49
+01f17be5-78d0-4ed8-adc1-16d83d7adc95,ranks.science,available,10.53,10.53,medium,low,5,spaceship,,,28/09/2026 17:38
 69df7f78-0691-4833-a559-34d2e2798613,neighborhood.science,premium,625,,high,low,12,name.com,,,
 1d623a0c-d68b-4591-b6c6-b9ecbbb4c15b,roadster.science,premium,437.5,62.5,high,low,8,name.com,,,11/08/2026 08:06
+7cbf86a4-4be5-4cae-90aa-e6ac658e6748,vampires.science,available,10.53,10.53,medium,low,8,spaceship,,,28/09/2026 13:22
 80080140-de06-43d5-91b2-4c6da2d24096,laying.science,available,11.99,11.99,high,low,6,namesilo,,,25/09/2026 22:34
 174ec0dc-9961-4480-be26-6f20dd6235e4,posthumous.science,available,11.99,11.99,medium,low,10,namesilo,,,09/09/2026 00:25
 a0f445b0-c9fb-4b67-b5ba-41fea2f812ed,downtime.science,premium,640,77.35,high,low,8,namesilo,,,24/09/2026 23:41
+b6d3ce25-053d-4d85-8f3c-41e278933be1,ipo.science,premium,650,84.5,high,low,3,namecheap,,,29/09/2026 01:21
 f53f676a-9192-48e5-8217-97fdea1ec6bb,blabber.science,available,12.98,16.98,medium,low,7,namecheap,,,23/09/2026 11:33
 314a5e01-07e4-411e-ae2d-ac5d851e889f,confirm.science,premium,1107,116,high,low,7,namesilo,,,27/09/2026 05:57
 266c77c9-10ce-4651-966a-0e54e9c2a14b,sordid.science,premium,116,29.5,medium,low,6,namesilo,,,10/09/2026 14:29
@@ -439,27 +478,32 @@ a34d0070-ba18-4050-9638-140608c93f91,blown.science,available,11.99,11.99,medium,
 357a14a5-24b8-4a35-824c-98603a44ddc9,lucidly.science,available,11.99,11.99,medium,low,7,namesilo,,,15/09/2026 12:12
 a25dab88-e0be-43b1-933f-a9395d2451c6,tenting.science,available,11.99,11.99,high,low,7,namesilo,,,23/09/2026 23:16
 199ced86-a3ed-4e37-b2a7-ab458ca2f230,otic.science,available,11.99,11.99,medium,low,4,namesilo,,,07/08/2026 17:41
+88f3f757-43dd-4cbe-9ac9-03ed8de41e16,nilsson.science,premium,448,53.92,high,low,7,namesilo,,,29/09/2026 00:16
 aff95382-362e-49d9-bc51-c69cc4dc6f1b,shiftless.science,available,11.99,11.99,high,medium,9,namesilo,,,10/09/2026 06:28
 eb40f62c-8df2-4d04-bf40-c8401a76554d,newell.science,premium,362.45,51.95,high,low,6,spaceship,,,27/09/2026 18:17
 12bb3355-c656-4c43-90f7-3146dc24d326,caroline.science,available,12.98,16.98,high,low,8,namecheap,,,11/08/2026 19:29
 f2b591e2-ffe5-4f2f-a724-3d59947a5861,machinist.science,available,11.99,11.99,high,low,9,namesilo,,,19/09/2026 17:14
+cb26bdce-2abf-40a7-ac2c-f156028cb47e,truman.science,available,10.79,10.79,medium,low,6,porkbun,,,28/09/2026 10:00
 093effc8-a918-46e1-9f99-44fa6837a93a,humphrey.science,available,11.99,11.99,high,low,8,namesilo,,,25/09/2026 14:49
+1d6696b0-4945-479e-a678-753f406ba0c4,cartoons.science,premium,546.35,71.48,medium,low,8,porkbun,,,29/09/2026 00:08
 4b4bee75-f1d7-43b0-9b52-5faa733522ec,astrolabe.science,available,11.99,11.99,high,low,9,namesilo,,,20/09/2026 17:43
 5d1f30b4-c875-4ae1-b785-ca3ff2c464ca,styling.science,available,12.98,16.98,high,low,7,namecheap,,,17/09/2026 18:14
 a189b3f5-0fcb-411c-bf1f-044c794ceb38,lobar.science,available,11.99,11.99,medium,low,5,namesilo,,,24/08/2026 08:33
 414dc6c2-f004-412a-ac94-703bad5be0d7,reprints.science,available,10.53,10.53,medium,low,8,spaceship,,,28/09/2026 09:09
-5f7bbad4-acaa-4629-a6de-199207a27bc0,primarily.science,premium,1107,116,high,low,9,namesilo,,,
+f9cc4b57-b0c2-4dd7-8d6b-aad5a59471d6,maude.science,available,11.99,11.99,medium,low,5,namesilo,,,28/09/2026 12:05
+5f7bbad4-acaa-4629-a6de-199207a27bc0,primarily.science,premium,1300,130,medium,low,9,namecheap,,,28/09/2026 13:51
 052af43f-5e83-4480-8ee9-5f47f7c1b315,menacingly.science,available,11.99,11.99,medium,low,10,namesilo,,,15/09/2026 14:03
 d873b326-656e-4ffe-957f-0ed5ff7f0045,stria.science,available,11.99,11.99,high,low,5,namesilo,,,22/09/2026 01:18
 c3f0b953-0a35-4050-960c-f9d60e228725,viable.science,premium,3125,125,high,low,6,name.com,,,17/08/2026 16:52
 887ef338-e51f-437c-84c3-d37df02bc668,scarlet.science,available,11.99,11.99,high,low,7,namesilo,,,10/08/2026 15:12
 dd7a91e1-4815-4281-9f66-4d8fcdb9f71d,sympathy.science,premium,625,,high,low,8,name.com,,,
-1f93066f-df1c-49fb-acb3-9bbf6bcf6faa,axe.science,premium,625,,high,low,3,name.com,,,
+1f93066f-df1c-49fb-acb3-9bbf6bcf6faa,axe.science,premium,640,77.35,high,low,3,namesilo,,,28/09/2026 23:50
 89f5f308-21d9-47c0-b16d-7c6ac01e17a7,argil.science,available,11.99,11.99,medium,low,5,namesilo,,,20/09/2026 04:20
 4e653692-6e24-45ec-b606-a8c5a7876370,balanchine.science,premium,455,65,high,low,10,namecheap,,,21/09/2026 20:54
 156dce7d-a279-408a-a557-b38ce813f48d,overeasy.science,premium,448,53.92,medium,low,9,namesilo,,,16/09/2026 17:44
 25b4a63b-5a7a-4345-a23f-308ba21ce070,widgeon.science,available,12.98,16.98,medium,low,7,namecheap,,,19/09/2026 02:58
 009897f0-40c2-44b0-bb3f-f7b08946d0fd,auxin.science,available,11.99,11.99,medium,low,5,namesilo,,,21/09/2026 08:33
+293794a7-d360-4698-8f06-3d6d29e8b650,principality.science,premium,448,53.92,medium,low,12,namesilo,,,28/09/2026 22:46
 8b6fcfd8-7a50-44e6-9604-71ed0d9291eb,inpatient.science,available,11.99,11.99,medium,low,10,namesilo,,,20/09/2026 21:46
 b113af20-2ee8-4008-aa64-cc3c54902a14,tending.science,available,11.99,11.99,high,low,7,namesilo,,,11/09/2026 11:15
 467aef40-dd48-4fde-aa4d-6e4a5461cc2b,dodge.science,available,10.53,10.53,high,low,5,spaceship,,,28/09/2026 01:47
@@ -469,20 +513,22 @@ b113af20-2ee8-4008-aa64-cc3c54902a14,tending.science,available,11.99,11.99,high,
 a9ef7e80-f827-4828-93d4-941a3cd667ed,antarctic.science,premium,3125,125,high,low,9,name.com,,,
 756a388f-b40f-4ca4-9038-b3ba290a201e,interwoven.science,premium,437.5,62.5,high,low,10,name.com,,,22/08/2026 08:08
 580b8d5b-ebb0-4f8e-8164-df3dba0555cb,saddening.science,available,11.99,11.99,medium,low,9,namesilo,,,
+16b48c3a-0c1b-4db3-a109-15a722010d48,merge.science,premium,1035.2,103.7,high,low,5,spaceship,,,29/09/2026 01:02
 f20235c2-37db-41f0-9146-cec7b4ae48a4,undersexed.science,available,11.99,11.99,medium,low,10,namesilo,,,12/09/2026 07:31
 ad27be95-d0cd-4aad-8807-59fdf2570022,marcia.science,available,10.53,10.53,high,low,6,spaceship,,,28/09/2026 03:56
 c1768d03-f0e0-4c76-99af-2913dda3d768,throwing.science,available,11.99,11.99,high,low,8,namesilo,,,27/09/2026 08:46
+6eab992b-6782-4754-b901-06e3c98875fb,hottest.science,premium,10917.11,109.69,medium,low,7,porkbun,,,28/09/2026 13:20
 48c95f44-c87c-425c-9bcd-c6045a6fe13c,variation.science,premium,625,81.25,high,low,9,name.com,,,03/09/2026 11:43
 b6d70b0b-46f8-4d5d-8d68-08ed0a424fe7,bigness.science,available,11.99,11.99,medium,low,7,namesilo,,,23/09/2026 15:14
 c8364e97-3bdf-4afd-8672-9214b39a719d,motivated.science,premium,1107,116,high,low,9,namesilo,,,25/08/2026 07:31
 b9b2a062-df29-40fb-8133-5e6cd5516935,santo.science,available,11.99,11.99,high,low,5,namesilo,,,25/09/2026 11:17
 74cc6a2b-cafd-4d1a-a987-1f48e5ffe2b2,rash.science,available,11.99,11.99,medium,low,4,namesilo,,,18/08/2026 10:31
-b98e6abd-4f62-4df8-9cc2-051752cec965,browsing.science,premium,6250,,high,low,8,name.com,,,
+b98e6abd-4f62-4df8-9cc2-051752cec965,browsing.science,premium,5458.82,109.69,high,low,8,porkbun,,,29/09/2026 04:42
 45ab2c7d-32e0-426d-9db4-338e17e49afb,caffeine.science,premium,3250,130,high,low,8,namecheap,,,24/09/2026 11:38
 3c081808-a80c-4c5e-8172-e4de82df5b37,cracking.science,premium,2587.7,103.7,high,low,8,spaceship,,,28/09/2026 05:52
 78f90396-94cd-4282-89ce-596c4064cbfd,stan.science,available,11.99,11.99,high,low,4,namesilo,,,
 c5c04158-2a75-4b65-a863-ef9f5025a459,esthete.science,available,11.99,11.99,medium,low,7,namesilo,,,17/09/2026 13:35
-187fa87e-96e8-4565-8835-c86374080d8c,lots.science,available,11.99,11.99,high,low,4,namesilo,,,
+187fa87e-96e8-4565-8835-c86374080d8c,lots.science,available,10.9,10.9,high,low,4,dynadot,,,28/09/2026 11:29
 0664745a-d751-48d3-aec3-30ee1af473eb,antique.science,premium,640,77.35,high,low,7,namesilo,,,21/09/2026 22:23
 c02809d1-fe4d-4f5c-ab9c-5f641936897b,dare.science,available,34.99,37.99,high,low,4,name.com,,,13/08/2026 17:51
 03780793-31f8-413e-ba6b-609320353d71,morgue.science,premium,625,81.25,high,low,6,name.com,,,25/08/2026 06:42
@@ -492,11 +538,14 @@ f886d00c-636a-4c0b-9b86-7a00e945f13b,junk.science,resell,,,medium,low,4,"GoDaddy
 4a92ca04-89ee-4602-88bd-ef8deb11a2e7,weary.science,available,11.99,11.99,medium,low,5,namesilo,,,22/09/2026 15:10
 2b1887d2-bed2-45f5-aa3b-894845c48a45,curves.science,available,11.99,11.99,medium,low,6,namesilo,,,
 6032fb4b-e6eb-458d-a644-5ca79bb90abc,catenulate.science,available,12.98,16.98,medium,low,10,namecheap,,,11/08/2026 21:32
+835eeb86-565c-45fb-9dee-5645264ca5ab,lucia.science,available,12.98,16.98,high,low,5,namecheap,,,28/09/2026 16:23
+07eea89e-6772-447b-9aef-162e42917465,inherit.science,premium,517.7,67.48,high,low,7,spaceship,,,28/09/2026 20:51
 730d4db9-d1fc-4866-a702-f4992abcfc63,arpent.science,available,11.99,11.99,medium,low,6,namesilo,,,20/09/2026 08:38
 a83c0c05-d4e5-4618-9995-0c207ea2884b,scorching.science,available,11.99,11.99,high,low,9,namesilo,,,09/09/2026 23:31
 e516459b-47e9-4679-aac5-fa621db5de13,joey.science,available,12.98,16.98,high,low,4,namecheap,,,25/09/2026 11:16
 22f10955-0674-4802-8629-392ab932c9b0,flustered.science,premium,1107,116,medium,low,9,namesilo,,,18/08/2026 09:29
 5cdec941-0a54-4a48-bf30-409da85f7e99,crisply.science,premium,448,53.92,medium,low,7,namesilo,,,14/09/2026 09:37
+0d3505fe-e7cc-49a7-8348-b7a0edb61fca,weinberg.science,premium,362.45,51.95,medium,low,8,spaceship,,,28/09/2026 10:58
 ff92eccb-85fa-43d1-a048-27168085fb04,vegetative.science,available,11.99,11.99,medium,low,10,namesilo,,,13/09/2026 01:44
 4905e529-084e-454d-89b3-eab2a4966f46,abdomen.science,premium,640,77.35,high,low,7,namesilo,,,16/09/2026 14:45
 c9b2acfe-46a3-4c65-a705-6dd2b727a69f,anarchic.science,available,11.99,11.99,medium,low,8,namesilo,,,
@@ -522,12 +571,14 @@ b91db8c2-d04a-4700-8217-7dcf45ca8b9a,heated.science,premium,1107,116,medium,low,
 940f80ae-4a37-4dc2-a823-9da81030ac39,tortuous.science,available,12.98,16.98,medium,low,8,namecheap,,,11/09/2026 18:01
 d3ca4d9d-b97c-4fb8-a3ff-6c1e9d7aff2f,leaden.science,available,11.99,11.99,medium,low,6,namesilo,,,22/08/2026 21:44
 fb8015f5-9270-43b1-ba6d-c74c3894dde2,rockers.science,premium,448,53.92,high,low,7,namesilo,,,23/09/2026 15:34
+80533596-5e96-47df-b8fd-6b555fa5bf9e,invested.science,premium,1035.2,103.7,medium,low,8,spaceship,,,28/09/2026 13:01
 e80b757d-84b3-4634-ba72-de2cc5ee7067,taxman.science,available,11.99,11.99,medium,low,6,namesilo,,,24/09/2026 16:18
 1a06d727-d182-4080-a105-b16b823e6580,immunized.science,available,12.98,16.98,medium,low,9,namecheap,,,21/08/2026 21:30
 4b0ed581-d77d-4178-ad59-8747e27edc5e,tenanted.science,available,11.99,11.99,medium,low,8,namesilo,,,11/09/2026 11:09
 4a1c2a91-b78f-48e8-a597-b183fa03ceb4,acetone.science,available,11.99,11.99,high,low,7,namesilo,,,17/09/2026 00:07
 4237d547-638e-4dfe-8e6c-b2450e0e3b39,bagatelle.science,premium,455,65,medium,low,9,namecheap,,,21/09/2026 17:53
 4ff76e75-65b0-4430-acf7-c39cac70c627,raunchy.science,premium,437.5,62.5,medium,low,7,name.com,,,09/08/2026 09:41
+72cf4c88-e3c5-4fb1-813c-b0ab78565e45,slaughtered.science,premium,640,77.35,medium,low,11,namesilo,,,29/09/2026 05:12
 de4cbc44-dfc4-48c8-87cf-1373cb8422c6,acknowledge.science,premium,1250,,high,low,11,name.com,,,
 d5ed16e2-1add-4ce3-83e7-0d21e5738c72,olden.science,available,11.99,11.99,medium,low,5,namesilo,,,04/09/2026 02:02
 9063311c-ebc6-428a-a2dd-0e836f9ddc0a,cops.science,available,11.99,11.99,high,low,4,namesilo,,,18/09/2026 22:05
@@ -577,6 +628,8 @@ f7de18e8-5cbe-4ed8-9d86-6e01fa841d8b,supple.science,available,11.99,11.99,high,l
 3529eaa2-d446-40d5-bf37-40fbaa7b78e0,foppish.science,available,34.99,37.99,medium,low,7,name.com,,,13/08/2026 17:05
 f6c66ea2-3fe9-408a-b65a-9a0fa0df8d20,dinner.science,available,11.99,11.99,high,low,6,namesilo,,,
 0c843ad0-6f36-4812-9375-b5b4ef89e78b,hairdryers.science,available,11.99,11.99,medium,low,10,namesilo,,,20/09/2026 13:02
+472e6337-9578-4bf6-9904-46bbcf3dc43d,rom.science,premium,517.7,67.48,high,low,3,spaceship,,,28/09/2026 19:13
+b354c747-eab6-453a-9a09-f16e873e7e35,funding.science,premium,6500,130,high,low,7,namecheap,,,28/09/2026 14:11
 505bcb17-1b41-46ff-b1af-ed256f19b388,backspin.science,premium,448,53.92,high,low,8,namesilo,,,21/09/2026 16:02
 4ccfb27d-e5ed-4fa5-83dc-af4be9daf95e,witness.science,premium,3450,116,high,low,7,namesilo,,,21/09/2026 01:35
 ee736ed6-54d4-4367-98f8-72f3bfea67c6,tympanic.science,available,11.99,11.99,medium,low,8,namesilo,,,11/09/2026 22:25
@@ -593,6 +646,7 @@ cb4b7d5b-74ca-42f7-8b6c-e2d9c32c5c40,sulphuric.science,available,11.99,11.99,med
 1a200980-14ec-469f-bc0b-0edb729bb8c0,architrave.science,premium,448,53.92,medium,low,10,namesilo,,,20/09/2026 02:17
 8fd4c6b8-c140-4acd-8b18-2dcc301d80b6,ambrosia.science,available,11.99,11.99,high,low,8,namesilo,,,18/09/2026 17:26
 fa83c293-012f-4df2-bc57-ae0344d1ea0a,sexton.science,premium,448,53.92,medium,low,6,namesilo,,,19/09/2026 10:22
+254adf82-2fc2-4f58-83b1-c05b0bbdf183,princeton.science,premium,1107,116,high,low,9,namesilo,,,28/09/2026 10:45
 dee88e77-66ad-4d27-b194-fb060dc3330e,obsolete.science,premium,3125,125,medium,low,8,name.com,,,14/08/2026 13:30
 d47e4291-be20-492e-8689-2f0219b3b1b4,mirish.science,available,11.99,11.99,medium,low,6,namesilo,,,16/09/2026 16:36
 edbc77f5-8e89-4915-86c4-5b214ab1c15b,bicycles.science,available,34.99,37.99,medium,low,8,name.com,,,18/09/2026 23:48
@@ -604,10 +658,12 @@ f46b5637-f0e2-4271-9c87-9f76ce05ed36,pga.science,premium,517.7,67.48,high,low,3,
 3dca87db-6128-4213-8cf7-5e49d6a90736,lukewarm.science,available,11.99,11.99,medium,low,8,namesilo,,,20/08/2026 22:43
 43adbf6a-8f24-4a98-814a-be079387a689,enormous.science,premium,3125,125,high,low,8,name.com,,,17/08/2026 09:42
 8c2af1b4-cef0-42da-a4b0-f5f63982cc94,genesee.science,premium,385,55,medium,low,7,dynadot,,,28/09/2026 08:10
-2ae9a17a-21dd-4dee-86cd-2e6401720db6,barter.science,available,11.99,11.99,high,low,6,namesilo,,,
+2ae9a17a-21dd-4dee-86cd-2e6401720db6,barter.science,available,11.99,11.99,high,low,6,namesilo,,,29/09/2026 01:18
 e0f96c21-415e-4294-b798-dea18877fa44,arrest.science,available,11.99,11.99,high,low,6,namesilo,,,20/08/2026 22:54
+20da3617-a97b-4522-9f6b-3bbde352d106,limb.science,available,10.9,10.9,medium,low,4,dynadot,,,28/09/2026 10:14
 fc5d1f2e-d464-45eb-8b4f-d9be28de7bd4,sinistral.science,available,11.99,11.99,high,medium,9,namesilo,,,10/09/2026 08:28
 b6787c8a-c675-49d6-9493-4749c718c0ea,revealed.science,premium,2750,110,high,low,8,dynadot,,,27/09/2026 22:35
+42fa9229-2781-4973-9db2-a8a0359431e5,rises.science,available,10.9,10.9,low,low,5,dynadot,,,28/09/2026 13:01
 4a87cc8d-92e2-4a07-b3d2-35deee13f827,possibility.science,premium,640,77.35,high,low,11,namesilo,,,25/09/2026 16:40
 0af8cc14-ccdc-4122-a08d-9d65ed5e98f7,bib.science,premium,640,77.35,high,low,3,namesilo,,,23/09/2026 12:42
 b9d27b65-187c-4fba-9133-99f0918efa53,culturally.science,available,11.99,11.99,medium,low,10,namesilo,,,14/09/2026 09:57
@@ -616,17 +672,21 @@ aa1b2468-86e7-4178-a7d4-52ec16776626,anorexic.science,available,11.99,11.99,medi
 1e6d19b5-c885-4d71-a132-d6c815034cee,fixedly.science,available,11.99,11.99,medium,low,7,namesilo,,,14/09/2026 18:44
 f4a0ab6e-16c1-4c82-a3b7-09d35643238b,antemortem.science,available,11.99,11.99,medium,low,10,namesilo,,,
 8cc9dbf8-1c34-41db-ad85-a33dda64a90b,ray.science,premium,650,84.5,high,low,3,namecheap,,,22/09/2026 19:55
+20ee5ef6-7cc4-4972-bba6-c7798f628b11,driveway.science,available,12.98,16.98,medium,low,8,namecheap,,,28/09/2026 13:54
 5d7e0514-d3b1-4a1f-8854-588cedcdf86f,scars.science,premium,640,77.35,medium,low,5,namesilo,,,20/09/2026 11:02
 8cec3c05-d3b1-465f-a32b-232bad0c09cb,inhibit.science,premium,437.5,,high,low,7,name.com,,,
 9e7bbaf1-f168-4f6d-a2df-351b2aad5b32,confiding.science,premium,625,81.25,high,low,9,name.com,,,12/08/2026 20:45
+6472cadc-c686-41e6-92f2-a0276e321b9a,manslaughter.science,available,10.53,10.53,medium,low,12,spaceship,,,28/09/2026 22:46
 97b70f83-de91-4d6d-9476-e446eb875e86,pilary.science,available,12.98,16.98,high,medium,6,namecheap,,,08/09/2026 19:40
-f8ca80c0-833d-405e-9776-45843ce7f325,motion.science,available,,,high,low,6,,,,
 5b0605d0-d8b1-4dc5-98de-626ad6769940,knowable.science,available,11.99,11.99,medium,low,8,namesilo,,,12/08/2026 15:50
+9227fefa-1e2a-4813-a3d2-bc336164674c,messina.science,premium,103.7,26.08,medium,low,7,spaceship,,,28/09/2026 14:51
 83a3d330-7091-489b-bf07-70e0251d7af1,descendent.science,available,11.99,11.99,medium,low,10,namesilo,,,14/08/2026 03:16
 1f145c1e-50de-49f5-8b6a-498f94b457e5,binger.science,available,12.98,16.98,medium,low,6,namecheap,,,23/09/2026 17:33
+1bbc889a-6ee3-487a-a3aa-73ff55c2fb9c,montclair.science,premium,,,medium,low,9,,,,29/09/2026 04:37
 1fe90e3a-b59e-4669-8935-52dc52c376fb,wimpy.science,available,11.99,11.99,medium,low,5,namesilo,,,13/09/2026 12:06
 ca862d78-6682-4626-a59b-e7429b4c1cbf,aboveboard.science,available,11.99,11.99,medium,low,10,namesilo,,,
 c294ddd2-80e5-4378-adf5-c56ba67430d9,captivated.science,available,11.99,11.99,medium,low,10,namesilo,,,09/08/2026 09:52
+e6866ce9-615f-45e8-8f8e-954701fa7c3f,takeover.science,premium,1035.2,103.7,medium,low,8,spaceship,,,28/09/2026 18:48
 ca17bd6c-4b6c-4ec2-b7a4-8053eb351e38,masterful.science,available,12.98,16.98,high,low,9,namecheap,,,23/09/2026 21:35
 c64fd830-3ef0-49d1-a73d-67f380e86bb3,aldose.science,available,11.99,11.99,high,low,6,namesilo,,,18/09/2026 04:38
 d3455866-ae66-472a-bbef-509facc28e72,formalize.science,available,11.99,11.99,high,low,9,namesilo,,,
@@ -645,7 +705,6 @@ c2a76f95-3d01-4e18-959b-4be53f0f3974,berne.science,premium,116,29.5,medium,low,5
 75a80107-cc0e-4e1c-86d0-281170232648,taipei.science,available,,,high,low,6,,,,
 ebb0eeb3-9a3f-4471-92b1-14e8fc56bc47,gratified.science,available,12.98,16.98,high,low,9,namecheap,,,20/08/2026 18:24
 aa876a2f-bdb3-4b5f-9c8a-175305fb9e9f,prodromic.science,available,11.99,11.99,medium,low,9,namesilo,,,09/09/2026 02:46
-107cfc00-3944-49cd-ad76-c2730a8651cd,invariably.science,premium,1107,116,medium,low,10,namesilo,,,
 176edf2e-05d1-4f1c-bb7c-38896b8fc321,criteria.science,premium,625,81.25,high,low,8,name.com,,,
 6cf6c1fa-fc62-4df0-b09d-e45314c46e3d,brisk.science,available,11.99,11.99,high,low,5,namesilo,,,11/08/2026 00:32
 36e16cd3-184e-4f06-a1da-9bd928522b1e,dahomey.science,available,11.99,11.99,medium,low,7,namesilo,,,23/09/2026 08:10
@@ -661,6 +720,7 @@ faf7e4a0-dd42-466a-b0f6-8a1ab8107d19,succinctly.science,available,12.98,16.98,me
 4539ec49-658f-402f-8c6a-022565d51761,items.science,premium,103.7,26.08,medium,low,5,spaceship,,,28/09/2026 04:15
 60b08b52-e010-4ac0-ae91-22b8dca8ccd6,zoological.science,premium,640,77.35,high,low,10,namesilo,,,13/09/2026 15:33
 1d27b369-50bd-4cef-9ff8-47ed2ec0ead8,cumbersome.science,available,11.99,11.99,medium,low,10,namesilo,,,13/08/2026 10:25
+46bcdd79-f9b2-4f36-9d86-37a50b9c41f4,honors.science,premium,1107,116,medium,low,6,namesilo,,,28/09/2026 13:12
 2426b728-dcb8-47cd-b87e-6f804119c9e8,bosnian.science,available,12.98,16.98,high,low,7,namecheap,,,10/08/2026 20:21
 e3a875c7-4f3e-46ca-a309-01efdb2c4135,thermic.science,available,11.99,11.99,medium,low,7,namesilo,,,11/08/2026 15:05
 ab0c82fe-9545-4bb0-9afc-9c36c62c6621,ownerless.science,available,11.99,11.99,medium,low,9,namesilo,,,04/09/2026 22:18
@@ -668,10 +728,12 @@ b0b346d3-815e-4570-a4e3-0b52380b92f4,freeborn.science,available,11.99,11.99,medi
 f39231ff-5c88-4b75-8934-0da44ed3d937,fiduciary.science,available,11.99,11.99,high,low,9,namesilo,,,18/08/2026 03:39
 fa8dc432-d158-440d-85e7-62ac85f06c10,igneous.science,available,12.98,16.98,medium,low,7,namecheap,,,21/08/2026 18:16
 eb1b3773-58a7-4ec2-b9f2-74919fba1078,xxiv.science,available,11.99,11.99,medium,low,4,namesilo,,,
+b3795f6a-f9a3-4f9e-b550-c2b932850314,delphi.science,available,10.18,10.18,high,low,6,cloudflare,,,28/09/2026 09:31
 32004b8e-13ce-45b6-91ac-e70567e20043,tricolor.science,premium,455,65,medium,low,8,namecheap,,,11/09/2026 19:26
 4dcb9b9a-b793-4d75-8134-a0209d4c01da,winey.science,available,11.99,11.99,medium,low,5,namesilo,,,13/09/2026 12:27
 c1681fed-a5c6-4a10-be7b-54b0579ac3bf,outback.science,available,11.99,11.99,high,low,7,namesilo,,,26/09/2026 03:21
 e61508c1-0cfb-401e-8dab-48d180762be9,mature.science,available,12.98,16.98,high,low,6,namecheap,,,24/09/2026 19:39
+a0cf8070-0998-4bc9-b00b-93e48d31c23a,sichuan.science,available,12.98,16.98,medium,low,7,namecheap,,,28/09/2026 15:21
 a491e679-54ca-4c0c-b4bb-7a5846eb669c,maladroit.science,available,11.99,11.99,medium,low,9,namesilo,,,24/08/2026 13:35
 bf41c79a-f725-4742-b636-5843e41920b7,deadline.science,premium,1250,,high,low,8,name.com,,,
 84ccd64d-cdc6-427b-bd17-3cad59ede51c,amiss.science,available,11.99,11.99,medium,low,5,namesilo,,,
@@ -685,8 +747,10 @@ c17fbf66-1383-4b6c-b429-d70bab6fed55,adorably.science,available,11.99,11.99,medi
 133591d8-a751-4a9e-9cdd-e37c1b13acd5,bight.science,premium,455,65,medium,low,5,namecheap,,,23/09/2026 15:12
 e131447b-3c92-42f3-bc31-6ff4a3209990,unwilling.science,premium,1107,116,medium,low,9,namesilo,,,12/09/2026 22:40
 05716faa-dbed-42f7-8e1f-890216591f8f,dew.science,premium,625,,high,low,3,name.com,,,
+60654b01-5719-421e-8fc2-72822d639023,jenner.science,available,10.53,10.53,medium,low,6,spaceship,,,29/09/2026 00:45
 19438b31-3cd5-4545-b3fd-8d66e259db7a,cerise.science,premium,437.5,62.5,medium,low,6,name.com,,,10/08/2026 15:04
 b360ef69-0c0a-400e-a243-0c7fe069e103,anything.science,premium,6250,,high,low,8,name.com,,,
+cbee5a25-9645-454d-91ef-e5f37c487198,tens.science,available,10.18,10.18,medium,low,4,cloudflare,,,29/09/2026 03:02
 bc521315-df30-4135-933f-25213c3d9e5c,gather.science,premium,1300,130,high,medium,6,namecheap,,,23/09/2026 20:27
 d7acbe2e-13c8-46c3-a794-5daef6d4131c,clannish.science,available,11.99,11.99,medium,low,8,namesilo,,,12/08/2026 09:35
 47c5309a-1234-4578-a224-9ac420637bc9,silenced.science,premium,1107,116,high,medium,8,namesilo,,,10/09/2026 08:05
@@ -709,6 +773,7 @@ f1ca4000-e4af-4490-b5f2-e3742f4f5e50,progressing.science,premium,3125,,medium,lo
 e34dccab-0b69-4fe7-ae42-18cb4dc75aae,tipple.science,premium,448,53.92,medium,low,6,namesilo,,,23/09/2026 12:44
 45de27e4-a2ae-4430-b92d-87ddd8c9b18c,pickings.science,available,11.99,11.99,medium,low,8,namesilo,,,11/09/2026 07:21
 d049c7ad-7052-4cf9-a83f-23736a5b36ad,linchpin.science,available,11.99,11.99,high,low,8,namesilo,,,21/09/2026 15:17
+bc29e40b-8edc-4352-b378-bb16ac48c6ea,distinguish.science,premium,2587.7,103.7,high,low,11,spaceship,,,28/09/2026 21:05
 994a01e3-02e3-4572-86e5-d08abeff5ef3,aerogram.science,premium,448,53.92,medium,low,8,namesilo,,,17/09/2026 13:04
 df5a7b9a-68b4-4aa0-9fe0-590cce900898,argonne.science,premium,448,53.92,medium,low,7,namesilo,,,20/09/2026 04:36
 30930e71-2ea6-4d00-ac39-a8daf030645e,mossy.science,premium,437.5,62.5,high,low,5,name.com,,,18/08/2026 10:02
@@ -720,8 +785,10 @@ d34e4dd2-7878-4c79-9964-2364802a6e59,fantasy.science,premium,1107,116,high,low,7
 6685dd76-049f-4585-bdd7-3caaaaa940f9,skywards.science,premium,448,53.92,medium,low,8,namesilo,,,10/09/2026 09:51
 ecd2d0e5-780a-4ad8-b369-ccb9d6efdb9d,orange.science,resell,,,high,high,6,"Chengdu West Dimension Digital Technology Co., Ltd.",01/11/2015 10:53,31/10/2027 23:59,26/09/2026 07:56
 ccd710c0-0da0-4223-b0c1-53037e4ff475,grad.science,available,11.99,11.99,high,low,4,namesilo,,,20/08/2026 17:53
+db4596cb-c3b0-44c9-9ab9-5e6da5965e89,receiver.science,available,10.53,10.53,high,low,8,spaceship,,,28/09/2026 10:40
 052043dc-c066-4cf9-8bd4-160415aa1b27,doodlebug.science,premium,448,53.92,high,low,9,namesilo,,,19/09/2026 12:18
 e2e4a171-fd2d-4e4e-b4ab-b76cf28c5451,halle.science,premium,130,32.5,high,low,5,namecheap,,,27/09/2026 04:25
+95344883-1760-4c21-8ef8-33253aec02c3,livermore.science,premium,103.7,26.08,medium,low,9,spaceship,,,28/09/2026 10:16
 ebfe350c-053d-435b-91c7-d53e1e4a3f89,laval.science,premium,103.7,26.08,high,low,5,spaceship,,,28/09/2026 05:09
 56f9303e-5cc2-4b15-8057-e2d68bd614ee,hollyhock.science,premium,448,53.92,medium,low,9,namesilo,,,18/09/2026 14:54
 4c9b2bb3-4149-4743-8bf1-9a1cf9e4905d,airs.science,available,11.99,11.99,high,low,4,namesilo,,,17/09/2026 23:21
@@ -729,6 +796,8 @@ ebfe350c-053d-435b-91c7-d53e1e4a3f89,laval.science,premium,103.7,26.08,high,low,
 b5816028-0abb-436f-97ce-92cb4f1bfe0e,armoured.science,premium,437.5,62.5,medium,low,8,name.com,,,06/08/2026 20:10
 b5b3d5d1-6f60-4ebd-ada4-767703f4a50f,kenalog.science,premium,448,53.92,medium,low,7,namesilo,,,20/09/2026 05:49
 a6e840dc-9e08-43c6-a6ee-2e44b538b54b,pelagic.science,available,11.99,11.99,high,low,7,namesilo,,,04/09/2026 00:27
+be463289-204d-4708-907b-5362347c4933,garfield.science,premium,,,medium,low,8,,,,28/09/2026 14:15
+c852ece4-c117-4a89-bf57-0d3ebdf32598,sherry.science,available,10.53,10.53,medium,low,6,spaceship,,,28/09/2026 15:20
 5444240f-4782-4f7d-8edf-3737b9309022,arsenide.science,available,11.99,11.99,medium,low,8,namesilo,,,20/09/2026 09:41
 1b11768d-2bb7-4c52-a2e8-c6580ff69431,modernist.science,premium,448,53.92,high,low,9,namesilo,,,27/09/2026 04:47
 9d7044b5-d893-4ce5-bd43-7fe1e77f0aef,anshar.science,available,12.98,16.98,medium,low,6,namecheap,,,19/09/2026 12:12
@@ -737,7 +806,6 @@ a6e840dc-9e08-43c6-a6ee-2e44b538b54b,pelagic.science,available,11.99,11.99,high,
 97299c5e-a52f-4266-a872-50b61cc614ba,input.science,premium,1107,116,high,low,5,namesilo,,,19/09/2026 11:49
 455718d8-1bc0-41e0-84a1-633a1ceff34c,depressing.science,premium,1107,116,medium,low,10,namesilo,,,12/08/2026 03:50
 b50d4267-f62e-4d21-8294-823f79b4fa12,sneezes.science,available,11.99,11.99,medium,low,7,namesilo,,,20/09/2026 09:46
-d0150d55-98dc-4c7a-b447-b2302346345b,france.science,available,,,high,high,6,,,,
 44a7380f-1384-4579-895e-d6428e35deaa,pills.science,available,11.99,11.99,medium,low,5,namesilo,,,20/09/2026 04:26
 9a6f1b5d-0b11-4343-aea3-fc32352842aa,set.science,premium,650,84.5,high,low,3,namecheap,,,22/09/2026 19:35
 9aa261c2-da82-4327-9a98-66e29f01ddbf,volary.science,available,12.98,16.98,medium,low,6,namecheap,,,21/09/2026 09:24
@@ -745,6 +813,7 @@ d0150d55-98dc-4c7a-b447-b2302346345b,france.science,available,,,high,high,6,,,,
 66872f11-839c-4426-b645-2d0310a6de7f,gidgee.science,available,12.98,16.98,medium,low,6,namecheap,,,16/09/2026 20:01
 62276161-327c-431d-974f-a4fc8e6ea4cf,xxviii.science,available,11.99,11.99,medium,low,6,namesilo,,,
 15288c93-433d-425f-aca5-8a4617bc366b,jingly.science,available,11.99,11.99,medium,low,6,namesilo,,,22/08/2026 13:29
+b289abf1-3f9b-49f1-8cfd-14aa82e0d2dc,gunfire.science,premium,,,medium,low,7,,,,28/09/2026 19:24
 e2a73f7d-a8e4-433a-b511-1a07577096d7,incline.science,premium,437.5,,high,low,7,name.com,,,
 7cc38a94-8da3-4c78-893b-7f2c183222e3,unclutter.science,available,11.99,11.99,high,low,9,namesilo,,,12/08/2026 10:28
 8de1f390-6bba-4d8e-ad0a-261438f5f0a7,informed.science,resell,,,high,low,8,Porkbun,12/06/2016 15:06,11/06/2027 23:59,26/09/2026 06:52
@@ -758,10 +827,13 @@ e4bca2c9-d357-48af-b032-a82ac419d8ab,lunatic.science,available,34.99,37.99,mediu
 1e66797c-c5c5-491c-a758-14c87f6f4f15,moated.science,available,11.99,11.99,medium,low,6,namesilo,,,25/08/2026 02:14
 6dd20699-ec01-4d01-96ed-deab6bd78a43,oddish.science,available,11.99,11.99,medium,low,6,namesilo,,,04/09/2026 00:50
 af043f50-59a6-4635-ad69-f356a2960157,tarsal.science,available,11.99,11.99,medium,low,6,namesilo,,,11/09/2026 08:42
+7a01fe3f-000e-4d96-b50a-6e9726bd5534,tuscaloosa.science,premium,,,medium,low,10,,,,29/09/2026 02:27
 d4fd3b90-cba7-4088-b563-375d2dd4b880,antilles.science,premium,448,53.92,medium,low,8,namesilo,,,19/09/2026 14:37
 3f6b4928-6cb5-4c9f-9b59-c66b0c10158a,unrevealed.science,available,11.99,11.99,medium,low,10,namesilo,,,12/09/2026 08:09
+2ae3f4da-aeb3-48bf-b023-8f5e3c21d851,hegel.science,available,12.98,16.98,medium,low,5,namecheap,,,28/09/2026 14:17
 4fed6353-2860-41de-bb9a-64e4a870ed39,package.science,premium,116,29.5,high,low,7,namesilo,,,24/09/2026 07:42
 d21aad1f-2b5c-47a4-994a-ba06257f8d1b,jon.science,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 14:02
+48cb6b44-5527-4b65-9bec-8c9c66a485c3,wakes.science,available,10.18,10.18,medium,low,5,cloudflare,,,28/09/2026 13:11
 bcea437c-2c8a-43ac-bb56-80d5e8d85415,corporal.science,premium,625,81.25,high,low,8,name.com,,,13/08/2026 01:52
 c8d4e065-ad8f-42a2-8bfc-adbf8775fd37,refuse.science,premium,1107,116,medium,low,6,namesilo,,,27/09/2026 02:42
 39c6b632-db7a-4ca2-a28f-9ec08521d118,levine.science,available,11.99,11.99,medium,low,6,namesilo,,,25/09/2026 16:14
@@ -780,6 +852,7 @@ d47ddadc-7d9b-4c24-a0e5-c25556848d98,glamour.science,premium,116,29.5,high,low,7
 10029513-e1e9-488b-93a0-e6cf5577e919,tabu.science,available,11.99,11.99,high,low,4,namesilo,,,18/08/2026 11:04
 5e292ba0-d622-4cee-99b2-aa2bc1c7eabf,oysters.science,premium,640,77.35,medium,low,7,namesilo,,,20/09/2026 03:31
 bd70ecd3-a077-4ca2-ac0f-81efc81fcd20,diluted.science,available,11.99,11.99,medium,low,7,namesilo,,,14/08/2026 07:45
+d63002ab-8c13-49fa-a93c-b0586017f9f4,yan.science,premium,517.7,67.48,medium,low,3,spaceship,,,29/09/2026 04:27
 4eda4756-112e-4627-a9c1-f638b6a6b253,treasure.science,premium,116,29.5,high,low,8,namesilo,,,27/09/2026 06:38
 68bf8242-1619-4b74-90e5-4a8cf7337dd0,ruled.science,available,10.79,10.79,high,low,5,porkbun,,,27/09/2026 16:50
 0c381b82-f1ef-47e6-9cf7-814252cea6ac,benzoin.science,available,11.99,11.99,medium,low,7,namesilo,,,20/09/2026 12:33
@@ -797,8 +870,10 @@ ea8aa21b-d077-4261-a482-9a1c57edfdf4,introspections.science,available,11.99,11.9
 04993db2-d209-468d-94f1-fdc8030afb9c,nameless.science,premium,1107,116,high,low,8,namesilo,,,03/09/2026 12:53
 74250484-0dd8-4fad-a9e2-606cf45a02d9,bailee.science,available,12.98,16.98,medium,low,6,namecheap,,,21/09/2026 19:04
 a6b66832-f6e7-4738-9f58-5969d1eee818,munchausen.science,available,11.99,11.99,medium,low,10,namesilo,,,22/09/2026 07:14
+3f9e730a-ee59-4cf5-ad7f-f22906df09e6,spelled.science,available,10.53,10.53,low,low,7,spaceship,,,28/09/2026 16:58
 ff6db93b-20a9-47d0-b2f2-736696d235df,bleeder.science,premium,130,32.5,medium,low,7,namecheap,,,24/09/2026 05:24
 6198a359-2ada-4913-9970-b4278e6583cc,glassy.science,premium,437.5,62.5,high,low,6,name.com,,,20/08/2026 14:12
+52dd9b74-af55-4a32-abdd-e3745f7496f1,handicapped.science,premium,550,71.5,medium,low,11,dynadot,,,29/09/2026 03:14
 da5cccfb-96c6-4891-a533-5e3d1e953b37,honour.science,premium,3450,116,high,low,6,namesilo,,,16/09/2026 22:47
 a27fd9dc-7c86-49f2-9f4d-2a6b4166b2fe,redly.science,available,11.99,11.99,medium,low,5,namesilo,,,15/09/2026 22:51
 869f3b87-0a3c-4f9e-9f6f-72b31ba75285,darter.science,premium,448,53.92,medium,low,6,namesilo,,,19/09/2026 08:19
@@ -817,14 +892,17 @@ efa8b15a-0346-4cbc-8c26-13b8e453dd7b,burnish.science,available,11.99,11.99,high,
 a244e126-bf25-4580-9e8c-dfd97fa5cc44,pounds.science,available,11.99,11.99,medium,low,6,namesilo,,,18/09/2026 01:51
 c243b259-e615-4993-bfee-81bbcfd6c91a,oak.science,premium,625,,high,low,3,name.com,,,
 8b66a72b-4946-4c95-b84f-89e441461528,apsis.science,premium,448,53.92,medium,low,5,namesilo,,,19/09/2026 22:40
+28eb598b-c046-487e-b275-884790441840,nevertheless.science,available,11.99,11.99,medium,low,12,namesilo,,,28/09/2026 22:40
 79413342-8e06-4bdf-91ec-00d1104b7949,atrial.science,available,11.99,11.99,low,low,6,namesilo,,,07/08/2026 14:24
 ba3df790-52c2-4249-8011-003191b54efa,clanking.science,available,11.99,11.99,medium,low,8,namesilo,,,12/08/2026 09:33
 1108626b-8bb9-4ec8-88e4-2b551392486a,retro.science,premium,1107,116,high,medium,5,namesilo,,,24/09/2026 15:44
 da09e404-49e0-4dc7-81a1-e35050dcff87,saleable.science,available,12.98,16.98,high,medium,8,namecheap,,,09/09/2026 20:51
 755fbbc8-cc48-4413-8f73-f4315269b8c3,okay.science,available,11.99,11.99,high,low,4,namesilo,,,22/09/2026 01:07
+54be1cbd-98da-4197-a36d-89d4fd2fbbb5,furnace.science,available,10.53,10.53,high,low,7,spaceship,,,28/09/2026 19:17
 aebf1a5f-8c98-4fba-b1db-dbdd41c6c4c9,benefactor.science,available,12.98,16.98,high,low,10,namecheap,,,23/09/2026 07:53
+d156609a-2318-4b4b-861f-f581c04c9934,pvc.science,premium,550,71.5,high,low,3,dynadot,,,29/09/2026 01:51
 95132bf0-76eb-408a-9422-65267de00e31,bangle.science,available,34.99,37.99,high,low,6,name.com,,,22/09/2026 01:57
-efe1b329-11dc-4218-aa70-deea02422754,alligator.science,premium,116,29.5,high,low,9,namesilo,,,
+efe1b329-11dc-4218-aa70-deea02422754,alligator.science,premium,116,29.5,high,low,9,namesilo,,,28/09/2026 20:35
 03c2a69d-949f-4b62-8445-f073bdb7a0fa,essential.science,premium,116,29.5,high,low,9,namesilo,,,22/09/2026 00:42
 b8c89edb-ebe1-4205-9e22-cbd9956825c4,vitaliser.science,available,11.99,11.99,medium,low,9,namesilo,,,19/09/2026 09:12
 c4d4400f-44d9-4134-a673-63d4597a23f4,northampton.science,premium,116,29.5,medium,low,11,namesilo,,,25/09/2026 14:57
@@ -833,11 +911,13 @@ fefef95f-a61d-47bf-a0f2-16466ba08a7c,randoms.science,premium,455,65,low,low,7,na
 e0a535d9-3b78-483a-921e-c18c1d3702fb,dilettante.science,available,11.99,11.99,medium,low,10,namesilo,,,14/08/2026 07:38
 ffe76aeb-1dec-470a-84d9-a06e9f1613ab,unwrapped.science,premium,448,53.92,medium,low,9,namesilo,,,12/09/2026 22:53
 31804ef4-dda1-4a6f-a932-f881acd24507,windup.science,available,11.99,11.99,high,low,6,namesilo,,,13/09/2026 12:18
+b5f7b0f9-1c85-4ddc-8c51-f4f19994cc8f,dolphins.science,premium,,,medium,low,8,,,,28/09/2026 18:14
 edcc0227-3ea5-46c8-8c45-d967fbe11710,esfahan.science,premium,116,29.5,medium,low,7,namesilo,,,20/09/2026 14:33
 6c1c7294-a602-4445-a208-193c10651209,uncaring.science,available,11.99,11.99,medium,low,8,namesilo,,,12/09/2026 00:02
 24dad436-ecd9-49d9-a0ee-647759d1c947,barbwire.science,premium,448,53.92,medium,low,8,namesilo,,,22/09/2026 04:47
 2e9047f8-34fd-41d4-905c-0e4b58cb3691,incestuous.science,available,11.99,11.99,medium,low,10,namesilo,,,22/08/2026 01:12
-1892d1cc-3909-4708-8f19-58e4f9172f92,generally.science,premium,1107,116,high,low,9,namesilo,,,
+3dba581a-ab05-4a74-9aa1-98e7fb87e811,uprising.science,premium,362.45,51.95,medium,low,8,spaceship,,,29/09/2026 01:22
+1892d1cc-3909-4708-8f19-58e4f9172f92,generally.science,premium,1107,116,medium,low,9,namesilo,,,28/09/2026 13:35
 82be0e84-6fb1-4d3c-9e38-55959c9d4876,tidily.science,available,12.98,16.98,medium,low,6,namecheap,,,16/09/2026 09:05
 a435ca0e-6c0a-4093-a6b0-71dfcbaa9c0f,hackneyed.science,available,11.99,11.99,medium,low,9,namesilo,,,08/08/2026 10:56
 8c9021c7-67fd-4811-89d7-a5716511ea67,while.science,available,11.99,11.99,high,low,5,namesilo,,,
@@ -848,6 +928,7 @@ bd8df8f8-a71e-47c3-8f04-45ed67a05f4c,jovially.science,available,11.99,11.99,medi
 6baf12c1-841b-4bfe-8fd2-a74ede669fff,encysted.science,available,11.99,11.99,medium,low,8,namesilo,,,17/08/2026 00:44
 4056ae86-0f12-41dc-ade6-5dc18c1454ad,analogist.science,available,11.99,11.99,medium,low,9,namesilo,,,19/09/2026 01:52
 105a95d5-d966-47ab-94f6-a38ff9837040,finable.science,available,11.99,11.99,medium,low,7,namesilo,,,18/08/2026 04:28
+d90cb2bf-e3ef-4b13-94fa-04275f6b6af2,voltage.science,premium,3450,116,high,low,7,namesilo,,,29/09/2026 00:46
 7054fe2a-8fc5-4af3-b1bb-7592b1a9baf7,picking.science,available,12.98,16.98,high,low,7,namecheap,,,25/09/2026 09:58
 08a188d6-4646-497e-8907-de102dcc8470,influenced.science,premium,3125,,high,low,10,name.com,,,
 6a2a9b46-03d6-4ac3-a848-b3e0186c3931,cadenced.science,available,11.99,11.99,medium,low,8,namesilo,,,11/08/2026 12:46
@@ -858,16 +939,17 @@ bd8df8f8-a71e-47c3-8f04-45ed67a05f4c,jovially.science,available,11.99,11.99,medi
 47ff25f5-317c-4d3f-8f40-61d29089edff,trippingly.science,available,11.99,11.99,medium,low,10,namesilo,,,15/09/2026 11:20
 c6e31450-ca4a-479a-b20d-018b040256ea,criminals.science,available,11.99,11.99,low,low,9,namesilo,,,27/09/2026 03:03
 aea76089-33de-43f5-b1b6-391e41d2b6e7,translunar.science,available,11.99,11.99,medium,low,10,namesilo,,,11/09/2026 02:19
+07a75d2f-0431-480b-b771-7dd9adb61740,aquino.science,available,11.99,11.99,medium,low,6,namesilo,,,28/09/2026 22:09
 1ec802d8-c948-4933-9548-ac439df529f2,spurting.science,available,11.99,11.99,medium,low,8,namesilo,,,22/08/2026 13:13
 83ea6dfa-1409-4442-ad62-f80b817bbf29,monophonic.science,available,11.99,11.99,medium,low,10,namesilo,,,25/08/2026 04:55
 1ed76ac8-5f5f-488e-b886-9638df9cec45,indelible.science,available,11.99,11.99,high,low,9,namesilo,,,22/08/2026 02:37
 f1c0cf86-1abf-4821-b310-e1f1a549fd6a,chan.science,available,11.99,11.99,high,low,4,namesilo,,,25/09/2026 11:12
 cd540800-fa93-473b-8946-1f3a2b16a2b2,matey.science,premium,437.5,62.5,medium,low,5,name.com,,,12/08/2026 07:40
 3ea28374-2de8-4f2c-b968-ab6d3fd9b0e9,beecher.science,available,34.99,37.99,medium,low,7,name.com,,,23/09/2026 00:12
-babccec4-9cb8-4d29-9233-0e86514be338,activity.science,premium,625,,high,low,8,name.com,,,
+babccec4-9cb8-4d29-9233-0e86514be338,activity.science,premium,517.7,67.48,high,low,8,spaceship,,,28/09/2026 18:06
 e6a863c7-0474-470e-bdae-c982dba3eb09,josiah.science,available,12.98,16.98,medium,low,6,namecheap,,,27/09/2026 01:34
 90268b2e-ee43-4ff8-8bf9-9245b346d007,unworthy.science,premium,625,81.25,medium,low,8,name.com,,,14/08/2026 04:05
-4b1efebe-ad06-4cc2-a880-c0d04b393aa1,basket.science,available,11.99,11.99,high,low,6,namesilo,,,
+4b1efebe-ad06-4cc2-a880-c0d04b393aa1,basket.science,available,10.53,10.53,high,low,6,spaceship,,,29/09/2026 01:26
 6f78c394-3063-427b-bb54-54daf6c3c0a2,traveller.science,available,11.99,11.99,high,low,9,namesilo,,,
 a649a23e-5aca-41ad-b934-574ed75e4b2a,alky.science,available,11.99,11.99,medium,low,4,namesilo,,,
 f87c5016-2cce-4996-a5fc-94ee1f6ed96a,tasseled.science,available,11.99,11.99,medium,low,8,namesilo,,,11/09/2026 08:52
@@ -889,15 +971,18 @@ c82b3a47-048d-441d-bb86-52a722595e3f,abattoir.science,available,12.98,16.98,medi
 e94f5207-bf4d-4b5f-900c-e0eb6bd80143,columbian.science,premium,125,37.99,medium,low,9,name.com,,,12/08/2026 18:12
 f606ab91-44f1-42b9-b986-6c38a5122ba0,azalea.science,premium,448,53.92,high,low,6,namesilo,,,21/09/2026 11:00
 4e74b480-0cde-410a-9209-955043463dff,freak.science,premium,3450,116,high,low,5,namesilo,,,17/09/2026 06:50
+d8392a0f-20bb-421d-9416-3f9290c873f0,gesellschaft.science,available,10.18,10.18,medium,low,12,cloudflare,,,28/09/2026 23:30
 d6d82ef1-7d0c-493d-bcda-87599980cdd6,fernando.science,available,11.99,11.99,high,low,8,namesilo,,,25/09/2026 14:20
 e04aa7ac-7340-45a1-abb8-c24ec541ce1f,bearings.science,available,11.99,11.99,medium,low,8,namesilo,,,20/09/2026 03:51
+8abfb10d-417d-4407-b3e2-1aa8ded0a237,plank.science,available,10.18,10.18,medium,low,5,cloudflare,,,29/09/2026 01:50
 543f526a-47b4-40ce-95dd-5ab787ce101f,rollover.science,premium,448,53.92,high,low,9,namesilo,,,16/09/2026 17:22
 5a19a4f0-6664-43ce-99b9-ce3929383279,boomer.science,available,11.99,11.99,high,low,6,namesilo,,,21/09/2026 13:18
 a51c1292-167d-4f14-9afe-b419516a9dc6,glossy.science,premium,437.5,62.5,high,low,6,name.com,,,11/08/2026 14:10
 6320a699-59f5-49f2-8248-285aa4cba0a8,floral.science,premium,3125,125,high,low,6,name.com,,,18/08/2026 08:54
 450130f4-8202-4d87-be72-b57d2ccbf932,nhs.science,premium,640,77.35,high,low,3,namesilo,,,28/09/2026 07:40
+f2d9725a-83b2-4f7e-930b-9a072af99a04,hyderabad.science,premium,116,29.5,medium,low,9,namesilo,,,28/09/2026 14:29
 68543c1a-7789-4121-b21d-62b890172f65,brunette.science,available,11.99,11.99,medium,low,8,namesilo,,,11/08/2026 06:56
-e359e33b-c3d8-4806-aecc-94208ba13a1b,glove.science,available,11.99,11.99,high,low,5,namesilo,,,
+e359e33b-c3d8-4806-aecc-94208ba13a1b,glove.science,available,10.53,10.53,high,low,5,spaceship,,,29/09/2026 01:21
 05642440-cdb7-495d-937d-2247a4ddc8f1,blaster.science,premium,455,65,high,low,7,namecheap,,,24/09/2026 04:22
 93dbd846-40c5-463c-accf-e12b103f55f1,staring.science,available,12.98,16.98,high,low,7,namecheap,,,21/09/2026 22:19
 f687b5e6-378b-4af1-876b-ef8e8e4ae0a3,posted.science,available,11.99,11.99,high,low,6,namesilo,,,09/09/2026 00:21
@@ -914,88 +999,3 @@ a7a3a68c-44d9-4824-b611-1e6f280492ad,hostelry.science,available,12.98,16.98,medi
 44f99b27-4888-4b78-87e0-1e0d0bedfade,galveston.science,premium,116,29.5,high,low,9,namesilo,,,27/09/2026 04:07
 26bbc656-82a3-4883-a5c4-f3266fa90f1f,cfo.science,premium,640,77.35,high,low,3,namesilo,,,24/09/2026 13:41
 4fe7d382-16d3-46ad-9dc3-9e1925e4fde1,erupt.science,premium,625,,high,low,5,name.com,,,
-3e336a3a-c6b9-4dc2-a7cc-12354df2c31d,remain.science,available,16.98,,high,low,6,namecheap,,,
-07092439-ba12-474c-9491-748bc443ea04,microwave.science,premium,125,,high,low,9,name.com,,,
-bfefd1ec-214f-49c6-bddc-da6a5ff5f9c4,abnaki.science,available,11.99,11.99,medium,low,6,namesilo,,,
-71bebf5c-f833-455e-a45a-fdbd3d72749e,assonance.science,available,11.99,11.99,medium,low,9,namesilo,,,20/09/2026 16:32
-41ceb8ce-8b62-4c2d-9f4e-9563a54dfc2c,banneret.science,available,11.99,11.99,medium,low,8,namesilo,,,22/09/2026 02:54
-4d489463-0de2-4d52-9b90-85086be95cc4,victuals.science,available,12.98,16.98,medium,low,8,namecheap,,,12/08/2026 18:52
-f6d438cd-5e38-4ebd-bfce-405990d917c2,rounded.science,premium,116,29.5,high,low,7,namesilo,,,19/09/2026 15:40
-3215f10a-b58b-402e-8f8e-57a66e0aaafa,formicary.science,premium,448,53.92,medium,low,9,namesilo,,,19/09/2026 13:26
-64861d54-7432-414d-8438-89d018741891,professor.science,premium,3125,,high,low,9,name.com,,,
-e611dfe0-e52e-4b72-a973-829da05af7ba,archdeacon.science,available,11.99,11.99,medium,low,10,namesilo,,,20/09/2026 01:53
-af920ce2-abb8-4c35-88cf-57dc5bdbdf78,feb.science,premium,625,,high,low,3,name.com,,,
-597c60dc-f065-4b6e-a108-7daf3d544880,bisque.science,available,12.98,16.98,high,low,6,namecheap,,,23/09/2026 22:05
-097aed4d-22f7-48a9-8cd6-16c51eea050b,prink.science,premium,448,53.92,medium,low,5,namesilo,,,21/09/2026 02:05
-2457a1e2-1447-4c13-a5b9-71b74c9a5845,inundated.science,available,11.99,11.99,medium,low,9,namesilo,,,08/08/2026 00:29
-d83db470-850e-4351-a586-976683b96d08,alkahest.science,available,12.98,16.98,high,low,8,namecheap,,,18/09/2026 03:42
-5cd017e9-7d38-497d-a6ba-6fc28e75eb22,bedspread.science,available,11.99,11.99,high,low,9,namesilo,,,22/09/2026 22:52
-b5ef037e-7f79-47c9-b726-6963e98bdbc7,arcuate.science,premium,437.5,62.5,medium,low,7,name.com,,,06/08/2026 14:49
-22767fee-eddc-4497-b68d-c59ed2a5a010,mockery.science,premium,1107,116,medium,low,7,namesilo,,,22/08/2026 12:39
-254bbc52-a609-4c74-a1b4-380dcefd4761,reddish.science,available,11.99,11.99,high,low,7,namesilo,,,19/09/2026 03:49
-258656a6-0b13-40d2-8ca8-c702a9b26a3d,ayin.science,available,11.99,11.99,high,low,4,namesilo,,,21/09/2026 10:38
-2aa06c73-8397-4d0d-a28e-d41c348b507d,rosacea.science,available,11.99,11.99,medium,low,7,namesilo,,,17/09/2026 01:59
-c57c68ae-de1a-422e-a14c-d2c6d457cd28,lime.science,available,11.99,11.99,high,low,4,namesilo,,,23/09/2026 20:42
-77c3b108-0d9b-4bf8-96ed-a33a178ce019,thieves.science,premium,116,29.5,medium,low,7,namesilo,,,16/09/2026 11:41
-de89a28d-aa12-4997-8b59-9d81013334e4,preceding.science,available,11.99,11.99,medium,low,9,namesilo,,,
-89bb084f-bb64-470d-b0c7-9b93f376f091,hysteric.science,premium,437.5,62.5,medium,low,8,name.com,,,21/08/2026 17:20
-5ba18729-1434-4f7c-8f64-b1063253205d,widely.science,available,11.99,11.99,medium,low,6,namesilo,,,
-7cd04979-f226-46da-ada8-d09a0e05ab81,bullheaded.science,premium,437.5,62.5,medium,low,10,name.com,,,11/08/2026 08:30
-e39dfd00-e178-4b4c-a325-08ee7acd90d5,periodical.science,available,11.99,11.99,high,low,10,namesilo,,,08/09/2026 17:13
-a109b8d8-1d03-4cf3-b085-977b7b380510,courts.science,available,10.53,10.53,high,low,6,spaceship,,,28/09/2026 03:42
-92070610-8a4e-456e-b16e-29dfa6abd595,gregg.science,available,11.99,11.99,high,low,5,namesilo,,,
-11132e1f-3ebc-4ee9-bc84-a984fc2c465e,alidade.science,available,34.99,37.99,medium,low,7,name.com,,,18/09/2026 07:31
-3f193e08-daf6-481e-8118-d89a8e2e11b7,bellingham.science,premium,455,65,high,low,10,namecheap,,,23/09/2026 06:12
-eb93e3a9-5ea4-4b01-8b98-ff0feb94bf4c,aras.science,available,11.99,11.99,medium,low,4,namesilo,,,20/09/2026 00:22
-6645d5d1-0238-4798-b33e-8354af2e3195,inflowing.science,available,11.99,11.99,medium,low,9,namesilo,,,22/08/2026 04:34
-1c8aee35-fafb-4aa9-afd4-81c8c0616086,unacceptable.science,premium,625,,medium,low,12,name.com,,,
-7bcd7165-fa42-478b-b151-1e374b4ef456,threaten.science,premium,116,29.5,high,low,8,namesilo,,,27/09/2026 04:46
-add2f105-079e-4ac9-818c-258ac30208d4,spine.science,premium,1107,116,high,low,5,namesilo,,,
-fe464131-ae8e-435d-bfbc-c257231e0ebe,odorous.science,available,11.99,11.99,medium,low,7,namesilo,,,04/09/2026 00:54
-fb2ea1fe-a03d-4876-a7c9-a1cf43354f46,dietetic.science,premium,437.5,62.5,medium,low,8,name.com,,,14/08/2026 06:56
-15c20d07-2a86-4862-bb6a-577e6205d940,legalize.science,available,11.99,11.99,high,low,8,namesilo,,,22/08/2026 23:05
-b360dab6-9401-41da-be5b-28f0fe2f3dc5,matches.science,premium,448,53.92,high,low,7,namesilo,,,18/09/2026 17:25
-cdcb4254-d0bd-48b2-accb-75cc1379c993,bulk.science,available,11.99,11.99,high,low,4,namesilo,,,
-4ac955ce-657f-4071-a10c-1a070ca2e3b8,extempore.science,available,12.98,16.98,medium,low,9,namecheap,,,
-763eed04-b317-47cf-8d42-984cbf2b53f9,moron.science,premium,625,81.25,medium,low,5,name.com,,,21/08/2026 20:28
-1106fdb0-69da-4b33-b9a3-570a6227d4d1,ten.science,premium,640,77.35,high,low,3,namesilo,,,21/09/2026 10:51
-7ae7a620-c62d-46cb-bce5-318b0838d1e4,ironclad.science,premium,1107,116,high,low,8,namesilo,,,11/08/2026 02:30
-1bebb5e1-d3ba-4983-bdcd-5e2d3c60de40,backwash.science,premium,640,77.35,medium,low,8,namesilo,,,17/09/2026 15:44
-d9bc9262-ca20-4ac6-be86-5e7f34e37c41,fewer.science,available,11.99,11.99,medium,low,5,namesilo,,,24/09/2026 17:41
-7f2215af-b01c-4b51-ba1d-83b840e8815c,sid.science,premium,640,77.35,high,low,3,namesilo,,,25/09/2026 12:52
-fbf66ba2-1d9d-42d7-b453-cba2a12143d1,saltlike.science,available,12.98,16.98,high,medium,8,namecheap,,,09/09/2026 20:58
-5ef116a0-4d9c-43ef-a76a-ac9b74f77f4e,counsel.science,premium,,,high,low,7,,,,28/09/2026 01:44
-e21d3b38-6e81-4e13-9da1-ffef3118643a,abstinence.science,premium,130,32.5,high,low,10,namecheap,,,16/09/2026 18:24
-5d11c8a1-a21c-4000-890d-305254460823,tunic.science,available,12.98,16.98,high,low,5,namecheap,,,17/09/2026 10:34
-7b1298ae-7413-42c4-9b93-74f035d7185d,chapstick.science,premium,437.5,,high,low,9,name.com,,,
-29c0ad11-11b8-4f3b-829f-63448db6d421,aggregator.science,premium,130,32.5,high,low,10,namecheap,,,17/09/2026 17:29
-458dd739-ab2d-44c6-80c8-998f756f48db,biochemist.science,available,12.98,16.98,high,low,10,namecheap,,,23/09/2026 17:44
-8064797d-5897-49ba-beb6-e6f575d9590c,cabbage.science,available,16.98,,high,low,7,namecheap,,,
-b8a8a5e3-3990-4d99-acfb-1132d507dc63,saddam.science,available,11.99,11.99,medium,low,6,namesilo,,,25/09/2026 23:11
-f3118f19-a308-46ce-a2b2-0fd78e536085,occluded.science,available,11.99,11.99,medium,low,8,namesilo,,,04/09/2026 00:12
-d2c1f4a0-65e3-4354-9ef9-6751b618274e,reminded.science,available,12.98,16.98,medium,low,8,namecheap,,,18/09/2026 03:00
-4c6b7527-d46d-4e36-a0aa-11785cce7454,tattle.science,premium,448,53.92,medium,low,6,namesilo,,,23/09/2026 23:36
-2a96240b-bfd4-43c6-9b61-74cbe085a47f,granitic.science,available,11.99,11.99,medium,low,8,namesilo,,,18/08/2026 08:22
-c8848378-b536-4594-b643-4ba489fbdd1f,idiopathic.science,available,12.98,16.98,medium,low,10,namecheap,,,21/08/2026 18:09
-d774361c-dc41-4031-baa7-8579bf780525,raisable.science,available,11.99,11.99,high,medium,8,namesilo,,,09/09/2026 09:51
-772f1adf-e90d-4c59-b1c8-f9fb05c74dcd,toughie.science,available,11.99,11.99,high,medium,7,namesilo,,,09/09/2026 06:05
-70560036-5877-4c9f-9163-b3ad2b461470,plodding.science,available,12.98,16.98,medium,low,8,namecheap,,,08/09/2026 21:17
-5b5c6360-5297-42fe-a392-d4d6be4ebe9f,midst.science,available,11.99,11.99,medium,low,5,namesilo,,,11/09/2026 13:11
-415e60be-7108-4521-87c5-1e78752dc916,yea.science,premium,640,77.35,high,low,3,namesilo,,,16/09/2026 11:48
-3fde72c9-5c97-4f59-b789-501d0989ffdb,megascopic.science,available,12.98,16.98,medium,low,10,namecheap,,,24/08/2026 19:26
-d922e79e-5004-4c04-ab8f-a6930c6a3381,congested.science,available,11.99,11.99,medium,low,9,namesilo,,,12/08/2026 21:46
-671ed73f-f3c8-4e5e-b5a7-41c6b031ba9d,donnish.science,available,11.99,11.99,medium,low,7,namesilo,,,14/08/2026 15:53
-e04f8544-e446-40ca-bdbc-0b5052014a38,gaslighter.science,available,11.99,11.99,medium,low,11,namesilo,,,
-887f2071-6b68-443f-8a60-1acd8b18b449,inside.science,premium,650,84.5,high,low,6,namecheap,,,25/09/2026 09:46
-bd98fb2a-a45b-4912-880e-76c7b36ee843,shortish.science,available,11.99,11.99,high,medium,8,namesilo,,,10/09/2026 06:50
-156fa2d6-6aee-4f2c-b1b7-e077557d78af,underway.science,premium,1107,116,high,low,8,namesilo,,,12/09/2026 07:42
-1bf48c4a-b4ef-4704-99fb-41de7a120465,opts.science,available,11.99,11.99,medium,low,4,namesilo,,,18/09/2026 13:57
-eb61b9e1-e890-4a08-b7e2-71367264ef35,stimulated.science,available,11.99,11.99,medium,low,10,namesilo,,,10/09/2026 20:42
-1bf69c88-1a74-428c-b50d-c7afaa7ac3d3,cheerful.science,premium,116,29.5,high,low,8,namesilo,,,12/08/2026 03:41
-c8271d38-afce-4b5a-b82b-2dc273ef3205,polyatomic.science,premium,116,29.5,high,low,10,namesilo,,,08/09/2026 23:10
-8cf0fa53-f012-4b02-bbf7-0cf8b14f94e7,thence.science,available,11.99,11.99,medium,low,6,namesilo,,,15/09/2026 00:13
-4c94d67d-ee5e-431f-8d62-bf71a9350241,mistaken.science,available,11.99,11.99,medium,low,8,namesilo,,,25/08/2026 01:52
-8e1ec5ca-d13e-4307-a132-be356e686149,ingredients.science,premium,3125,,medium,low,11,name.com,,,
-346a06aa-1269-444b-839c-06af7aa9997e,sadistic.science,premium,130,32.5,high,medium,8,namecheap,,,09/09/2026 20:44
-82fbae57-46e4-4374-aefd-391f60f6f074,arachis.science,available,11.99,11.99,medium,low,7,namesilo,,,19/09/2026 23:37
-bd18c170-a515-4356-a2ab-2c83446bdb17,freaky.science,premium,6250,125,high,low,6,name.com,,,10/08/2026 10:01
